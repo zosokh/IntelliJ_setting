@@ -50,7 +50,12 @@
         <mark key="." line="45" column="85" />
         <mark key="^" line="45" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.News.php" timestamp="1482218746068" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.News.php" timestamp="1482220234523">
+        <mark key="[" line="422" column="54" />
+        <mark key="]" line="423" column="16" />
+        <mark key="." line="423" column="16" />
+        <mark key="^" line="423" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteNewsDetailNgKeyword/CommentNgwordPublisher.php" timestamp="1481608668090">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="7" />
@@ -66,11 +71,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1482219016498">
-        <mark key="[" line="409" column="19" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1482220344310">
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="412" column="94" />
+        <mark key="^" line="412" column="94" />
+        <mark key="." line="412" column="94" />
       </file>
       <file name="/Dummy.txt" timestamp="1481694556649">
         <mark key="[" line="0" column="0" />
@@ -229,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zWyduZXdzY29kZSddID0gJG5ld3NbJ25ld3Njb2RlJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -244,31 +249,31 @@
         <text encoding="base64">ICAgICAgICAkcGFyYW1zWyduZXdzY29kZSddID0gJG5ld3NbJ25ld3Njb2RlJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNob2ljZU5ld3NMaXN0WydpbnNlcnRMaXN0J11bJHNvdXJjZV1bJG5ld3NbJ25ld3Njb2RlJ11dID0gJG5ld3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bm93RGF0ZVRpbWUgPSBkYXRlKCJZLW0tZCBIOmk6cyIsc3RydG90aW1lKCItMyBob3VyIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNob2ljZU5ld3NMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkbmV3c2RhdGUgPSBkYXRlKCdZbWQnLCBzdHJ0b3RpbWUoJG5ld3NbJ25ld3NkYXRlJ10pKTsKCiAgICAgICAgLy9VUkzmp4vpgKDjgYzpgZXjgYblqpLkvZPjgajjgIHjgZ3jgozku6XlpJYKCiAgICAgICAgLy/jgrPjg43jgr8KICAgICAgICBpZiAoJG5ld3NbJ3NvdXJjZSddID09PSAnRXhjaXRlJykgewogICAgICAgICAgICAkdXJsID0gJ2h0dHA6Ly93d3cuZXhjaXRlLmNvLmpwL05ld3MvJyAuICRuZXdzWydwYWNrYWdlX2NhdGVnb3J5J10gLgogICAgICAgICAgICAgICAgJy8nIC4gJG5ld3NbJ25ld3Njb2RlJ10gLiAnLmh0bWwnOwogICAgICAgICAgICByZXR1cm4gJHVybDsKICAgICAgICB9CiAgICAgICAgLy/jgbPjgaPjgY/jgorjga9VUkzjgavml6Xku5jjgYzlhaXjgonjgarjgYQKICAgICAgICBpZiAoJG5ld3NbJ3BhY2thZ2VfY2F0ZWdvcnknXSA9PT0gJ29kZCcpIHsKICAgICAgICAgICAgJHVybCA9ICdodHRwOi8vd3d3LmV4Y2l0ZS5jby5qcC9OZXdzLycgLiAkbmV3c1sncGFja2FnZV9jYXRlZ29yeSddIC4gJy8nIC4gJG5ld3NbJ25ld3Njb2RlJ10gLiAnLmh0bWwnOwogICAgICAgICAgICByZXR1cm4gJHVybDsKICAgICAgICB9CiAgICAgICAgLy9sYXVyaWVycHJlc3MKICAgICAgICBpZiAoJG5ld3NbJ3NvdXJjZSddID09PSAnbGF1cmllcnByZXNzJykgewogICAgICAgICAgICAkdXJsID0gJ2h0dHBzOi8vbGF1cmllci5wcmVzcy9pLycgLiAkbmV3c1snbmV3c2NvZGUnXTsKICAgICAgICAgICAgcmV0dXJuICR1cmw7CiAgICAgICAgfQogICAgICAgIC8v6YCa5bi46KiY5LqL77yIOTBz44CBcmV2aWV344CBbXVzaWPjgoLvvIkKICAgICAgICBpZiAoJG5ld3NbJ3NvdXJjZSddICE9PSAnRXhjaXRlJyAmJiAkbmV3c1snc291cmNlJ10gIT09ICdvZGQnICYmICRuZXdzWydzb3VyY2UnXSAhPT0gJ2xhdXJpZXJwcmVzcycpIHsKICAgICAgICAgICAgJHVybCA9ICdodHRwOi8vd3d3LmV4Y2l0ZS5jby5qcC9OZXdzLycgLiAkbmV3c1sncGFja2FnZV9jYXRlZ29yeSddIC4gJy8nIC4gJG5ld3NkYXRlIC4gJy8nIC4gJG5ld3NbJ25ld3Njb2RlJ10gLiAnLmh0bWwnOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG5vd0hvdXIpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/jgbPjgaPjgY/jgorjga7loLTlkIgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNob2ljZU5ld3NMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnb2RkJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc291cmNlTGlzdCA9IGFycmF5KCc5MHMnLCAnRXhjaXRlX3JldmlldycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNob2ljZU5ld3NMaXN0WydpbnNlcnRMaXN0J11bJHNvdXJjZV1bJG5ld3NbJ25ld3Njb2RlJ11dID0gJG5ld3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3R0ZXN0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bm93RGF0ZVRpbWUgPSBkYXRlKCJZLW0tZCBIOmk6cyIsc3RydG90aW1lKCItMyBob3VyIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNob2ljZU5ld3NMaXN0KTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG5vd0hvdXIpO2V4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
