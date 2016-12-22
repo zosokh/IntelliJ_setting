@@ -15,7 +15,7 @@
         <mark key="." line="108" column="24" />
         <mark key="^" line="108" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.updateSnsShareNews.php" timestamp="1482290199746">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.updateSnsShareNews.php" timestamp="1482378872412">
         <mark key="[" line="135" column="26" />
         <mark key="]" line="132" column="30" />
         <mark key="^" line="132" column="30" />
@@ -39,7 +39,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.insertSnsShareNews.php" timestamp="1482137347878">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.insertSnsShareNews.php" timestamp="1482378900904">
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="60" />
         <mark key="^" line="20" column="60" />
@@ -77,12 +77,12 @@
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteAppsV2/GoogleAnalyticsPageViewDataGetter.php" timestamp="1481615634665">
         <mark key="[" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" timestamp="1482376447517">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" timestamp="1482379291665">
         <mark key="'" line="213" column="76" />
-        <mark key="[" line="277" column="14" />
-        <mark key="]" line="277" column="13" />
-        <mark key="." line="277" column="13" />
-        <mark key="^" line="277" column="13" />
+        <mark key="[" line="314" column="15" />
+        <mark key="]" line="314" column="32" />
+        <mark key="." line="314" column="32" />
+        <mark key="^" line="314" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/advert/google_adx.tpl" timestamp="1481709188936">
         <mark key="[" line="54" column="5" />
@@ -90,12 +90,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1482227228367">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="561" column="82" />
-        <mark key="]" line="561" column="83" />
-        <mark key="." line="561" column="83" />
-        <mark key="^" line="561" column="83" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1482379363055">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+        <mark key="^" line="146" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/source/news/index.php" timestamp="1482313549186">
         <mark key="[" line="96" column="34" />
@@ -118,11 +118,11 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/TrendTweetPost.php" timestamp="1482301581657">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="160" column="67" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/TrendTweetPost.php" timestamp="1482379162772">
+        <mark key="[" line="115" column="13" />
+        <mark key="]" line="115" column="12" />
+        <mark key="^" line="115" column="12" />
+        <mark key="." line="115" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/comment/ng_keywords/index.php" timestamp="1481601132044">
         <mark key="[" line="70" column="47" />
@@ -271,7 +271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3MpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkY2hvaWNlTmV3c0xpc3QpO2V4aXQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -283,34 +283,34 @@
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSgkbWF0b21lY29kZSkpIHsKICAgICAgICAgICAgICAgICRtYXRvbWVjb2RlcyA9IGFycmF5KCk7CiAgICAgICAgICAgICAgICBpZiAoIWlzX2FycmF5KCRtYXRvbWVjb2RlKSkgewogICAgICAgICAgICAgICAgICAgICRtYXRvbWVjb2Rlc1tdID0gJG1hdG9tZWNvZGU7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICRtYXRvbWVjb2RlcyA9ICRtYXRvbWVjb2RlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICR3aGVyZSA9ICdtYXRvbWVjb2RlIGluICgnOwogICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1hdG9tZWNvZGVzIGFzICRtYykgewogICAgICAgICAgICAgICAgICAgICR3aGVyZSAuPSAiXCIkbWNcIiI7CiAgICAgICAgICAgICAgICAgICAgLy8g5pyr5bC+6KaB57Sg5Lul5aSW44Gu5aC05ZCI44CB6YCj57WQ5paH5a2X44KS6L+95YqgCiAgICAgICAgICAgICAgICAgICAgaWYgKCRtYyAhPSBlbmQoJG1hdG9tZWNvZGVzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkd2hlcmUgLj0gJywgJzsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkd2hlcmUgLj0gJykgJzsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpGSUxFX0NBVEVHT1JZX01BVE9NRSA9PiAiL3Zhci9leGNpdGUvdmFyZmlsZS9mZWVkcy9pbnRsL2pwL05ld3MvZXhjaXRlMjAxMC9nYV9yYW5rL3NwX2NhdGVnb3J5X21hdG9tZV9yZWFsdGltZS5qc29uIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3MpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkY2hvaWNlTmV3c0xpc3QpO2V4aXQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyX2R1bXAoJHJlc2VydmVEYXRhKTtleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkcmVzZXJ2ZURhdGEpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3MpO2V4aXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR0d2VldElkTGlzdCk7ZXhpdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyX2R1bXAoJHJlc2VydmVEYXRhKTtleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkcmVzZXJ2ZURhdGEpO2V4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRzbnNOZXdzKTtleGl0Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR0d2VldElkTGlzdCk7ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtY29kZSA9ICR0aGlzLT5nZXRJdGVtY29kZSgkcmVzZXJ2ZURhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaXRlbWNvZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRzbnNOZXdzKTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaXRlbWNvZGUgPSAkcmVzZXJ2ZURhdGFbJ21hdG9tZWNvZGUnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtY29kZSA9ICR0aGlzLT5nZXRJdGVtY29kZSgkcmVzZXJ2ZURhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
