@@ -172,11 +172,17 @@
         <mark key="^" line="113" column="38" />
         <mark key="." line="113" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/comment/detail/index.php" timestamp="1482312294810">
-        <mark key="[" line="485" column="59" />
-        <mark key="]" line="488" column="8" />
-        <mark key="^" line="488" column="8" />
-        <mark key="." line="488" column="8" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/comment/detail/index.php" timestamp="1482888777996">
+        <mark key="[" line="293" column="52" />
+        <mark key="]" line="293" column="26" />
+        <mark key="^" line="293" column="26" />
+        <mark key="." line="293" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/comment/index.php" timestamp="1482888743714">
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="23" />
+        <mark key="^" line="115" column="23" />
+        <mark key="." line="115" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/views/pages/tweet_manage/trend/edit/index.tpl" timestamp="1482715670117">
         <mark key="[" line="83" column="0" />
@@ -201,6 +207,12 @@
         <mark key="]" line="128" column="0" />
         <mark key="^" line="123" column="76" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/comment/policy.php" timestamp="1482888812002">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="^" line="51" column="23" />
+        <mark key="." line="51" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/GoogleAnalyticsPageView.php" timestamp="1481697764385">
         <mark key="[" line="49" column="11" />
@@ -312,14 +324,14 @@
       <jump line="215" column="76" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNob2ljZU5ld3NMaXN0KTtleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGVtcHR5KCRuZXdzY29kZVBvc3QpICYmIGVtcHR5KCRtYXRvbWVjb2RlUG9zdCkpIHx8IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
