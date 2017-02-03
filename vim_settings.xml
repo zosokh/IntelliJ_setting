@@ -175,11 +175,11 @@
         <mark key="^" line="80" column="64" />
         <mark key="." line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userdevice.php" timestamp="1486099420663">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userdevice.php" timestamp="1486104073439">
+        <mark key="[" line="62" column="43" />
+        <mark key="]" line="62" column="43" />
+        <mark key="." line="62" column="43" />
+        <mark key="^" line="62" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed/libs/class/class.WeatherDB.php" timestamp="1484556967373">
         <mark key="[" line="43" column="46" />
@@ -299,11 +299,11 @@
         <mark key="^" line="188" column="17" />
         <mark key="." line="188" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486099960050">
-        <mark key="[" line="33" column="46" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486103230157">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="63" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/cron/news-feed03.cron" timestamp="1484622551644">
         <mark key="[" line="116" column="0" />
@@ -657,46 +657,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRjYXRlZ29yeUlkCiAgICAgKiBAcGFyYW0gJGNvdW50CiAgICAgKiBAcmV0dXJuICR0aGlzCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGlyZV90aW1lJyA9PiAkZXhwaXJlVGltZSwK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpGSUxFX0NBVEVHT1JZX0NPTFVNTiA9PiAiL3Zhci9leGNpdGUvdmFyZmlsZS9mZWVkcy9pbnRsL2pwL05ld3MvZXhjaXRlMjAxMC9nYV9yYW5rL3NwX2NhdGVnb3J5X2NvbHVtbl9yZWFsdGltZS5qc29uIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BsYXRmb3JtJyA9PiAkcGxhdGZvcm0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRjYXRlZ29yeUlkCiAgICAgKiBAcGFyYW0gJGNvdW50CiAgICAgKiBAcmV0dXJuICR0aGlzCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGlyZV90aW1lJyA9PiAkZXhwaXJlVGltZSwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRjYXRlZ29yeUlkCiAgICAgKiBAcGFyYW0gJGNvdW50CiAgICAgKiBAcmV0dXJuICR0aGlzCiAgICAgKi8K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoqCiAgICAgKiBAcGFyYW0gJGNhdGVnb3J5SWQKICAgICAqIEBwYXJhbSAkY291bnQKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG9uUHV0KCRjYXRlZ29yeUlkLCAkY291bnQpCiAgICB7CiAgICAgICAgJG5vdyA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgJHdoZXJlWydpZCddID0gJGNhdGVnb3J5SWQ7CiAgICAgICAgJHBhcmFtcyA9IFsKICAgICAgICAgICAgJ2NvdW50JyA9PiAkY291bnQsCiAgICAgICAgICAgICd1cGRhdGVfdGltZScgPT4gJG5vdwogICAgICAgIF07CiAgICAgICAgJHRoaXNbJ3Jlc3VsdCddID0gJHRoaXMtPmRiLT51cGRhdGUoJHRoaXMtPnRhYmxlLCAkcGFyYW1zLCAkd2hlcmUpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkY291bnQgPSAxOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICR3b3JkTGlzdAogICAgICogQHJldHVybiAkdGhpcwogICAgICov</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBudWxsICRjYXRlZ29yeQogICAgICogQHJldHVybiAkdGhpcwogICAgICov</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHVzZXJSZWNvcmQpIDwgMSkgewogICAgICAgICAgICByZXR1cm4gJHJlc3VsdDsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJheWVzV29yZERhdGFMaXN0ID0gJHJlc3VsdDsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJheWVzV29yZERhdGFMaXN0ID0gJHJlc3VsdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
