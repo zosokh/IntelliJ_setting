@@ -39,12 +39,12 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1486430111642">
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1486437361889">
         <mark key="'" line="45" column="69" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="22" />
+        <mark key="^" line="53" column="22" />
+        <mark key="." line="53" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/libs/class/class.WeatherLogger.php" timestamp="1485323715651">
         <mark key="[" line="47" column="26" />
@@ -87,11 +87,11 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Social.php" timestamp="1486433800101">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="11" />
-        <mark key="." line="95" column="11" />
-        <mark key="^" line="95" column="11" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Social.php" timestamp="1486437460056">
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="26" />
+        <mark key="." line="83" column="26" />
+        <mark key="^" line="83" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/api.weather.excite.co.jp/libs/App/define/app.define.server.live.php" timestamp="1484548368781">
         <mark key="[" line="38" column="59" />
@@ -218,8 +218,11 @@
         <mark key="^" line="80" column="64" />
         <mark key="." line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userdevice.php" timestamp="1486359442943">
-        <mark key="[" line="81" column="9" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userdevice.php" timestamp="1486437916377">
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="96" column="35" />
+        <mark key="^" line="96" column="35" />
+        <mark key="." line="96" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed/libs/class/class.WeatherDB.php" timestamp="1484556967373">
         <mark key="[" line="43" column="46" />
@@ -333,11 +336,11 @@
         <mark key="^" line="123" column="76" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486432968247">
-        <mark key="[" line="263" column="30" />
-        <mark key="]" line="263" column="45" />
-        <mark key="." line="263" column="45" />
-        <mark key="^" line="263" column="45" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486437786660">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="175" column="35" />
+        <mark key="." line="175" column="35" />
+        <mark key="^" line="175" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486363687138">
         <mark key="[" line="21" column="0" />
@@ -719,14 +722,14 @@
       <jump line="44" column="69" filename="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcGxhdGZvcm0gPSAkZGVjb2RlUmVzdWx0LT5wbGF0Zm9ybTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$accessToken</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
