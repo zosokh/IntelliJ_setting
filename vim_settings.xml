@@ -87,10 +87,10 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Social.php" timestamp="1486445664001">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Social.php" timestamp="1486450098378">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/api.weather.excite.co.jp/libs/App/define/app.define.server.live.php" timestamp="1484548368781">
         <mark key="[" line="38" column="59" />
@@ -287,11 +287,11 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Socialid.php" timestamp="1486446552618">
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="42" column="24" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Socialid.php" timestamp="1486450275815">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Database/Database.php" timestamp="1486438030910">
         <mark key="[" line="2" column="31" />
@@ -340,11 +340,11 @@
         <mark key="^" line="123" column="76" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486445703453">
-        <mark key="[" line="286" column="68" />
-        <mark key="]" line="287" column="27" />
-        <mark key="." line="287" column="27" />
-        <mark key="^" line="287" column="27" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486450667426">
+        <mark key="[" line="322" column="96" />
+        <mark key="]" line="322" column="77" />
+        <mark key="^" line="322" column="77" />
+        <mark key="." line="322" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486363687138">
         <mark key="[" line="21" column="0" />
@@ -727,7 +727,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIG1lbW8gOiB1dWlk44CBcGxhdGZvcm3jga/mm7jjgY3mj5vjgYjjga/nhKHjgZfku5Xmp5gK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzVXBkYXRlTWVtYmVyc2hpcCk7ZXhpdDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -742,46 +742,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBudWxsICRhdXRoVG9rZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIG1lbW8gOiB1dWlk44CBcGxhdGZvcm3jga/mm7jjgY3mj5vjgYjjga/nhKHjgZfku5Xmp5gK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzVXBkYXRlTWVtYmVyc2hpcCk7ZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xhc3RfbG9naW5fdGltZScgPT4gJGxhc3RMb2dpblRpbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgndGVzdCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Nvbm5lY3RlZF9tZW1iZXJzaGlwJyA9PiAkY29ubmVjdGVkTWVtYmVyc2hpcCwK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgpO2V4aXQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>if (!is_null($uuid)) {
-            $where[] = &quot;uuid = :uuid&quot;;
-            $params['uuid'] = $uuid;
-        }
-        if (!is_null($userDeviceId)) {
-            $where[] = &quot;user_device_id = :user_device_id&quot;;
-            $params['user_device_id'] = $userDeviceId;
-        }
-        if (!is_null($platform)) {
-            $where[] = &quot;platform = :platform&quot;;
-            $params['platform'] = $platform;
-        }
-        if (!is_null($connectedMembership)) {
-            $where[] = &quot;connected_membership = :connected_membership&quot;;
-            $params['connected_membership'] = $connectedMembership;
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGxhdGZvcm0pO2V4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlcklkKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc29jaWFsSW5mbyk7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1lbWJlcnNoaXApO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc29jaWFsSW5mbyk7ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+YXJncyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBudWxsICRjb25uZWN0ZWRNZW1iZXJzaGlwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIOS8muWToQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGNvbm5lY3RlZE1lbWJlcnNoaXApKSB7CiAgICAgICAgICAgICRwYXJhbXNbJ2Nvbm5lY3RlZF9tZW1iZXJzaGlwJ10gPSAkY29ubmVjdGVkTWVtYmVyc2hpcDsKICAgICAgICB9CiAgICAgICAgaWYgKCFpc19udWxsKCRsYXN0TG9naW5UaW1lKSkgewogICAgICAgICAgICAkcGFyYW1zWydsYXN0X2xvZ2luX3RpbWUnXSA9ICRsYXN0TG9naW5UaW1lOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0Wyd1c2VySWQnXSA9ICR1c2VySWQ7Cg==</text>
+        <text encoding="base64">ICAgICAqIG1lbW8gOiB1dWlk44CBcGxhdGZvcm3jga/mm7jjgY3mj5vjgYjjga/nhKHjgZfku5Xmp5gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
