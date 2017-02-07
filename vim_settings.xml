@@ -39,12 +39,12 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1486365584025">
-        <mark key="'" line="45" column="69" />
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-        <mark key="^" line="30" column="57" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1486428892690">
+        <mark key="'" line="46" column="69" />
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/libs/class/class.WeatherLogger.php" timestamp="1485323715651">
         <mark key="[" line="47" column="26" />
@@ -166,11 +166,11 @@
         <mark key="." line="35" column="54" />
         <mark key="^" line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/AuthorizationInterface.php" timestamp="1486382405152">
-        <mark key="[" line="31" column="52" />
-        <mark key="]" line="31" column="50" />
-        <mark key="^" line="31" column="50" />
-        <mark key="." line="31" column="50" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/AuthorizationInterface.php" timestamp="1486428810772">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/var/conf/aura.route.php" timestamp="1486367266339">
         <mark key="[" line="12" column="14" />
@@ -280,7 +280,7 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/AuthorizationConfig.php" timestamp="1486118681029">
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/AuthorizationConfig.php" timestamp="1486428154777">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="69" />
@@ -333,11 +333,11 @@
         <mark key="^" line="123" column="76" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486382716571">
-        <mark key="[" line="210" column="5" />
-        <mark key="]" line="261" column="26" />
-        <mark key="." line="261" column="26" />
-        <mark key="^" line="261" column="26" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486429154238">
+        <mark key="[" line="262" column="10" />
+        <mark key="]" line="263" column="26" />
+        <mark key="." line="263" column="26" />
+        <mark key="^" line="263" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486363687138">
         <mark key="[" line="21" column="0" />
@@ -720,7 +720,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGlyZVRpbWUnID0+ICRleHBpcmVUaW1lLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRVc2VySWRSZWNvcmRCeSgkdXNlcklkKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -735,31 +735,31 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTtleGl0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGlyZVRpbWUnID0+ICRleHBpcmVUaW1lLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRVc2VySWRSZWNvcmRCeSgkdXNlcklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3Rlc3QnKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGlyZVRpbWUnID0+ICRleHBpcmVUaW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRUb2tlbkV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3Rlc3QnKTtleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkZWNvZGVWYWx1ZSA9IEpXVDo6ZGVjb2RlKCRhdXRoVG9rZW4sICR0aGlzLT5jb25maWctPnNlY3JldEtleSwgWyR0aGlzLT5jb25maWctPmFsZ29yaXRobV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRUb2tlbkV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRkZWNvZGVWYWx1ZSA9IEpXVDo6ZGVjb2RlKCRhdXRoVG9rZW4sICR0aGlzLT5jb25maWctPnNlY3JldEtleSwgWyR0aGlzLT5jb25maWctPmFsZ29yaXRobV0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8gZXhjZXB0aW9u5Yem55CG44KS5L2c44KLCi8vICAgICAgICB0cnkgewovLyAgICAgICAgICAgIEpXVDo6ZGVjb2RlKCRhY2Nlc3NUb2tlbiwgJHRoaXMtPmF1dGhDb25maWctPnNlY3JldEtleSwgWyR0aGlzLT5hdXRoQ29uZmlnLT5hbGdvcml0aG1dKTsKLy8gICAgICAgIH0gY2F0Y2ggKEV4cGlyZWRFeGNlcHRpb24gJGUpIHsKLy8gICAgICAgICAgICB0aHJvdyBuZXcgRXhwaXJlZFRva2VuRXhjZXB0aW9uKCk7Ci8vICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRUb2tlbkV4Y2VwdGlvbigpOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVzc2FnZSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8gZXhjZXB0aW9u5Yem55CG44KS5L2c44KLCi8vICAgICAgICB0cnkgewovLyAgICAgICAgICAgIEpXVDo6ZGVjb2RlKCRhY2Nlc3NUb2tlbiwgJHRoaXMtPmF1dGhDb25maWctPnNlY3JldEtleSwgWyR0aGlzLT5hdXRoQ29uZmlnLT5hbGdvcml0aG1dKTsKLy8gICAgICAgIH0gY2F0Y2ggKEV4cGlyZWRFeGNlcHRpb24gJGUpIHsKLy8gICAgICAgICAgICB0aHJvdyBuZXcgRXhwaXJlZFRva2VuRXhjZXB0aW9uKCk7Ci8vICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRUb2tlbkV4Y2VwdGlvbigpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChBdXRoRXJyb3JDb2RlOjpJTlZBTElEX0FDQ0VTU19UT0tFTl9ERVNDKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVzc2FnZSk7ZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3Rlc3R0ZXN0Jyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChBdXRoRXJyb3JDb2RlOjpJTlZBTElEX0FDQ0VTU19UT0tFTl9ERVNDKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
