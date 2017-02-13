@@ -325,6 +325,12 @@
         <mark key="^" line="126" column="93" />
         <mark key="." line="126" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/Clip.php" timestamp="1486962668019">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/comment/detail/index.tpl" timestamp="1483510377188">
         <mark key="[" line="46" column="35" />
         <mark key="]" line="46" column="35" />
@@ -548,7 +554,7 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/aura.route.php" timestamp="1486961374973">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/aura.route.php" timestamp="1486962540553">
         <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="45" />
         <mark key="^" line="21" column="45" />
@@ -849,14 +855,14 @@
       <jump line="68" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR1c2VyUHVzaFNldHRpbmcpO2V4aXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
