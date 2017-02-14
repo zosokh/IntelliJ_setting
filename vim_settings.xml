@@ -45,12 +45,6 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/AppModule.php" timestamp="1486980481748">
-        <mark key="[" line="41" column="102" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/libs/class/class.WeatherLogger.php" timestamp="1485323715651">
         <mark key="[" line="47" column="26" />
         <mark key="]" line="47" column="21" />
@@ -174,10 +168,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseModule.php" timestamp="1486694366510">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseModule.php" timestamp="1487041280903">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Authorization/AuthorizationModule.php" timestamp="1486365718996">
         <mark key="[" line="4" column="0" />
@@ -189,6 +184,12 @@
         <mark key="]" line="65" column="24" />
         <mark key="^" line="65" column="24" />
         <mark key="." line="65" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1487038610244">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/Database/DatabaseInterface.php" timestamp="1485928283300">
         <mark key="[" line="2" column="26" />
@@ -595,12 +596,13 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="67" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1486721691692">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="11" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1487040356044">
+        <mark key="[" line="227" column="31" />
+        <mark key="]" line="227" column="27" />
+        <mark key="^" line="227" column="27" />
+        <mark key="." line="227" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/TransactionalModule.php" timestamp="1487041268492" />
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed/libs/define/define.test.WeatherConf.php" timestamp="1484556333765">
         <mark key="[" line="19" column="55" />
         <mark key="]" line="18" column="55" />
@@ -613,13 +615,7 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/aura.route.php" timestamp="1486980811316">
-        <mark key="[" line="14" column="114" />
-        <mark key="]" line="14" column="101" />
-        <mark key="^" line="14" column="101" />
-        <mark key="." line="14" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1486634395758">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1487041173683">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -642,11 +638,8 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1486982696028">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1487039778650">
         <mark key="[" line="86" column="5" />
-        <mark key="]" line="91" column="13" />
-        <mark key="." line="91" column="13" />
-        <mark key="^" line="91" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/MonologLoggerProvider.php" timestamp="1485938670508">
         <mark key="[" line="23" column="41" />
@@ -752,12 +745,7 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="67" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/db.php" timestamp="1486704152366">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="27" column="64" />
-        <mark key="^" line="27" column="64" />
-        <mark key="." line="27" column="64" />
-      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/db.php" timestamp="1487040233869" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ModifyNgKeyword/SearchWordNgFilter/CheckNewsNgFilter.php" timestamp="1481531805964">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="24" />
@@ -776,11 +764,11 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" timestamp="1486694207852">
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="37" column="38" />
-        <mark key="^" line="37" column="38" />
-        <mark key="." line="37" column="38" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" timestamp="1487041015758">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="36" column="33" />
+        <mark key="^" line="36" column="33" />
+        <mark key="." line="36" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/RtCountTweetPost.php" timestamp="1484105743294">
         <mark key="[" line="37" column="55" />
@@ -922,7 +910,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgndGVzdCcpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9jYXRvciA9ICRsb2NhdG9yOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -934,7 +922,7 @@
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEV4Y2l0ZVxMYXVyaWVyQXBpXE1vZHVsZVxBdXRob3JpemF0aW9uXEF1dGhvcml6YXRpb25Nb2R1bGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9jYXRvciA9ICRsb2NhdG9yOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgndGVzdCcpO2V4aXQ7Cg==</text>
