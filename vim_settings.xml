@@ -614,7 +614,7 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1487042115835">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1487046767505">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -637,10 +637,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1487042763903">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1487046284129">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Module/MonologLoggerProvider.php" timestamp="1485938670508">
         <mark key="[" line="23" column="41" />
@@ -765,8 +767,8 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" timestamp="1487041015758">
-        <mark key="[" line="35" column="27" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" timestamp="1487046740702">
+        <mark key="[" line="37" column="20" />
         <mark key="]" line="36" column="33" />
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="33" />
@@ -808,7 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/vagrant/ubuntu_nginx/app/excitenews-ngword-api/src/Module/AhoCorasick/AhoCorasick.php" />
       <jump line="2" column="49" filename="$USER_HOME$/Documents/vagrant/ubuntu_nginx/app/excitenews-ngword-api/src/Module/AhoCorasick/TreeNodes.php" />
       <jump line="72" column="27" filename="$USER_HOME$/Documents/vagrant/ubuntu_nginx/app/excitenews-ngword-api/src/Resource/App/Db/Bayes/WordCategory.php" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/vagrant/ubuntu_nginx/app/excitenews-ngword-api/src/Module/BayesianFilter/BayesianFilter.php" />
@@ -908,6 +909,7 @@
       <jump line="44" column="69" filename="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/laurier-api/src/Resource/App/V2/User/Auth/Token.php" />
       <jump line="430" column="31" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Authorization.php" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" />
+      <jump line="57" column="30" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
