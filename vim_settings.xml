@@ -91,10 +91,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clips/UserClip.php" timestamp="1486981832763">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clips/UserClip.php" timestamp="1487131861393">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/User/Userid.php" timestamp="1486703104644">
         <mark key="[" line="65" column="5" />
@@ -102,10 +102,10 @@
         <mark key="^" line="66" column="20" />
         <mark key="." line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clips/ClipContents.php" timestamp="1487121906629">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clips/ClipContents.php" timestamp="1487131820585">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/feed/WeeklyWeather/WeeklyWeatherFeeder.php" timestamp="1485325877604">
         <mark key="[" line="65" column="0" />
@@ -465,11 +465,11 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ClipList.php" timestamp="1487130165149">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ClipList.php" timestamp="1487131381593">
         <mark key="[" line="59" column="33" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="58" column="65" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="60" column="29" />
+        <mark key="^" line="60" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/User/Auth/Social.php" timestamp="1486704282629">
         <mark key="[" line="65" column="10" />
@@ -518,10 +518,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/Clips.php" timestamp="1487121959271">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/Clips.php" timestamp="1487132015897">
+        <mark key="[" line="143" column="20" />
+        <mark key="]" line="134" column="63" />
+        <mark key="." line="134" column="63" />
+        <mark key="^" line="134" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseInterceptor.php" timestamp="1487064200243">
         <mark key="[" line="41" column="7" />
@@ -967,7 +968,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNhdGVnb3J5S2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snY2xpcF9jb250ZW50c19pZCddID0gJGNsaXBDb250ZW50c0lkOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -982,31 +983,31 @@
         <text encoding="base64">ICAgICAgICAkcmVzVXBkYXRlQ2xpcCA9ICR0aGlzLT5jbGlwcy0+ZW50cnlDbGlwKCR1c2VySWQsICR1bmlxdWVjb2RlLCAkY29udGVudFR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNhdGVnb3J5S2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snY2xpcF9jb250ZW50c19pZCddID0gJGNsaXBDb250ZW50c0lkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlcklkKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlW10gPSAiY2xpcF9jb250ZW50c19pZCA9IDpjbGlwX2NvbnRlbnRzX2lkIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICfplqLmnbHjgafjgZknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAn5Y2D6JGJJzoKICAgICAgICAgICAgICAgIHByaW50ICfplqLmnbHjgafjgZknOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ+elnuWliOW3nSc6CiAgICAgICAgICAgICAgICBwcmludCAn6Zai5p2x44Gn44GZJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICflpKfpmKonOgogICAgICAgICAgICAgICAgcHJpbnQgJ+mWouilv+OBp+OBmSc7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY29udGVudFR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdW5pcXVlY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNhdGVnb3J5S2V5KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBUcmFuc2FjdGlvbmFsCiAgICAgKiBAcGFyYW0gJHVzZXJJZAogICAgICogQHBhcmFtICR1bmlxdWVjb2RlCiAgICAgKiBAcGFyYW0gJGNvbnRlbnRUeXBlCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKiBAdGhyb3dzIFxFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG9uUG9zdCgkdXNlcklkLCAkdW5pcXVlY29kZSwgJGNvbnRlbnRUeXBlKQogICAgewogICAgICAgICRyZXNVcGRhdGVDbGlwID0gJHRoaXMtPmNsaXBzLT5lbnRyeUNsaXAoJHVzZXJJZCwgJHVuaXF1ZWNvZGUsICRjb250ZW50VHlwZSk7CiAgICAgICAgaWYgKCEkcmVzVXBkYXRlQ2xpcCkgewogICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignY2xpcOabtOaWsOOBq+WkseaVl+OBl+OBvuOBl+OBnycpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAncmVzdWx0JyA9PiAkcmVzVXBkYXRlQ2xpcCwKICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VySWQsCiAgICAgICAgICAgICd1bmlxdWVjb2RlJyA9PiAkdW5pcXVlY29kZSwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZScgPT4gJGNvbnRlbnRUeXBlLAogICAgICAgIF07CiAgICB9CgoKICAgIC8qKgogICAgICogQHBhcmFtICR1c2VySWQKICAgICAqIEBwYXJhbSAkdW5pcXVlY29kZQogICAgICogQHBhcmFtICRjb250ZW50VHlwZQogICAgICogQHJldHVybiBhcnJheQogICAgICogQHRocm93cyBcRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBvbkRlbGV0ZSgkdXNlcklkLCAkdW5pcXVlY29kZSwgJGNvbnRlbnRUeXBlKQogICAgewogICAgICAgICRyZXNVcGRhdGVDbGlwID0gJHRoaXMtPmNsaXBzLT5yZW1vdmVDbGlwKCR1c2VySWQsICR1bmlxdWVjb2RlLCAkY29udGVudFR5cGUpOwogICAgICAgIGlmICghJHJlc1VwZGF0ZUNsaXApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2NsaXDmm7TmlrDjgavlpLHmlZfjgZfjgb7jgZfjgZ8nKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3Jlc3VsdCcgPT4gJHJlc1VwZGF0ZUNsaXAsCiAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlcklkLAogICAgICAgICAgICAndW5pcXVlY29kZScgPT4gJHVuaXF1ZWNvZGUsCiAgICAgICAgICAgICdjb250ZW50X3R5cGUnID0+ICRjb250ZW50VHlwZSwKICAgICAgICBdOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlcklkKTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnRFbmFibGVkJyA9PiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICfplqLmnbHjgafjgZknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
