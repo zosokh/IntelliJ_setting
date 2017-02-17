@@ -3,10 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/ClipsComfig.php" timestamp="1486969669745">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/TransactionalInterceptor.php" timestamp="1487245085119">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/Clips.php" timestamp="1487242903608">
+        <mark key="'" line="209" column="29" />
+        <mark key="[" line="246" column="23" />
+        <mark key="]" line="247" column="6" />
+        <mark key="." line="247" column="6" />
+        <mark key="^" line="247" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseInterceptor.php" timestamp="1487064200243">
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Contents.php" timestamp="1487217398117">
         <mark key="[" line="45" column="24" />
@@ -26,29 +45,32 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Transaction/TransactionalModule.php" timestamp="1487245182708">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clips/ClipContents.php" timestamp="1487136135570">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="40" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ContentsList.php" timestamp="1487298458045" />
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/ClipsInterface.php" timestamp="1487242828162">
         <mark key="[" line="69" column="78" />
         <mark key="]" line="76" column="30" />
         <mark key="^" line="76" column="30" />
         <mark key="." line="76" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlModule.php" timestamp="1487246587338">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/db.php" timestamp="1487054823467">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseModule.php" timestamp="1487247091724">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="75" column="169" />
-        <mark key="." line="75" column="0" />
+      <file name="/Dummy.txt" timestamp="1487215232345">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Notice/NoticeList.php" timestamp="1487237787139" />
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/User/Userdevice.php" timestamp="1487060404460">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -60,93 +82,23 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/Clip.php" timestamp="1487127576202">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlLocatorModule.php" timestamp="1487053792993" />
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clip/ClipContents.php" timestamp="1486967191635">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="93" column="25" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ClipList.php" timestamp="1487243216046">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="65" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/ClipsComfig.php" timestamp="1486969669745">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/Clips.php" timestamp="1487242903608">
-        <mark key="'" line="209" column="29" />
-        <mark key="[" line="246" column="23" />
-        <mark key="]" line="247" column="6" />
-        <mark key="." line="247" column="6" />
-        <mark key="^" line="247" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseInterceptor.php" timestamp="1487064200243">
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Transaction/TransactionalModule.php" timestamp="1487245182708">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseInterface.php" timestamp="1487246201286">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="56" />
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1487139974280">
-        <mark key="[" line="227" column="28" />
-        <mark key="]" line="227" column="30" />
-        <mark key="^" line="227" column="30" />
-        <mark key="." line="227" column="30" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlModule.php" timestamp="1487246587338">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/TransactionalModule.php" timestamp="1487245037036" />
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/aura.route.php" timestamp="1487232021574">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/Clip.php" timestamp="1487127576202">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1487065578182">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1487246713674">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ContentsList.php" timestamp="1487247383041">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/db.php" timestamp="1487054823467">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1487215232345">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Notice/NoticeList.php" timestamp="1487241692382" />
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseLocator.php" timestamp="1487069147665">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="32" column="9" />
@@ -158,6 +110,46 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Authorization.php" timestamp="1487139974280">
+        <mark key="[" line="227" column="28" />
+        <mark key="]" line="227" column="30" />
+        <mark key="^" line="227" column="30" />
+        <mark key="." line="227" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/Clip/ClipContents.php" timestamp="1486967191635">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="93" column="25" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/DatabaseModule.php" timestamp="1487247091724">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="75" column="169" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/aura.route.php" timestamp="1487232021574">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/ClipList.php" timestamp="1487243216046">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="65" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/vendor/ray/aura-sql-module/src/AuraSqlReplicationModule.php" timestamp="1487065578182">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Database/Database.php" timestamp="1487246713674">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
       </file>
     </filemarks>
     <jumps>
