@@ -101,12 +101,6 @@
         <mark key="^" line="56" column="30" />
         <mark key="." line="56" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/.php_cs" timestamp="1489542956583">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/bootstrap/contexts/test.php" timestamp="1487666278514">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="11" />
@@ -148,6 +142,7 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/NewsList.php" timestamp="1489400808842" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewLaurierRecomendKeyword.php" timestamp="1489459309532">
         <mark key="[" line="60" column="26" />
         <mark key="]" line="60" column="60" />
@@ -171,11 +166,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/AuthorizationConfig.php" timestamp="1489552965379">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/AuthorizationConfig.php" timestamp="1489644247572">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/bootstrap/contexts/dev.php" timestamp="1488796201668">
         <mark key="[" line="2" column="16" />
@@ -195,17 +190,23 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1489550046887">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="58" />
-        <mark key="." line="63" column="58" />
-        <mark key="^" line="63" column="58" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/User/Auth/Token.php" timestamp="1489643704706">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/SourceMaster/SourcePackageListMaster.php" timestamp="1487912189237">
         <mark key="[" line="35" column="135" />
         <mark key="]" line="85" column="0" />
         <mark key="^" line="86" column="62" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/tool.laurier.press/resources/views/recomendKeyword/index.blade.php" timestamp="1489643166371">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/User/UserdeviceJoinId.php" timestamp="1488190311435">
         <mark key="[" line="84" column="0" />
@@ -254,6 +255,12 @@
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/tool.laurier.press/resources/views/notice/index.blade.php" timestamp="1489643012313">
+        <mark key="[" line="71" column="59" />
+        <mark key="]" line="71" column="48" />
+        <mark key="^" line="71" column="48" />
+        <mark key="." line="71" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/Excite/Er/Clip/Contents.debug.yml" timestamp="1488844558320">
         <mark key="[" line="0" column="15" />
@@ -313,6 +320,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/tool.laurier.press/app/Http/Controllers/NoticeController.php" timestamp="1489642765690">
+        <mark key="[" line="196" column="7" />
+        <mark key="]" line="197" column="12" />
+        <mark key="^" line="197" column="12" />
+        <mark key="." line="197" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/Users/multicode/ClipList.php" timestamp="1488768635130">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -325,6 +338,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteAppsV2/LaurierV2ListPublisher.php" timestamp="1489382630724" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/DeleteNews/DeleteNews.php" timestamp="1488932316865">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -546,6 +560,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/tool.laurier.press/app/Http/Controllers/RecomendKeywordController.php" timestamp="1489642716711" />
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/common.php" timestamp="1487921888879">
         <mark key="[" line="66" column="8" />
         <mark key="]" line="26" column="8" />
@@ -591,6 +606,7 @@
         <mark key="^" line="50" column="16" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-ngword-api/src/Resource/App/NgKeyword/Analysis.php" timestamp="1489376000216" />
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/db.php" timestamp="1489386876834">
         <mark key="[" line="14" column="102" />
         <mark key="]" line="15" column="108" />
@@ -760,14 +776,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSk7ZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>IS_REPLACE_AUTHTOKEN_ = 0;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>IS_REPLACE_AUTHTOKEN_ = 0;</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
