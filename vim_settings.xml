@@ -64,11 +64,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/LaurierClip/MoveClip.php" timestamp="1489653915781">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="59" column="32" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/LaurierClip/MoveClip.php" timestamp="1489657056065">
+        <mark key="[" line="158" column="78" />
+        <mark key="]" line="158" column="52" />
+        <mark key="^" line="158" column="52" />
+        <mark key="." line="158" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/tool.laurier.press/resources/views/notice/index.blade.php" timestamp="1489643012313">
         <mark key="[" line="71" column="59" />
@@ -198,6 +198,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="38" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.updateLaurierUserClip.php" timestamp="1489656972055">
+        <mark key="[" line="59" column="36" />
+        <mark key="]" line="59" column="34" />
+        <mark key="." line="59" column="34" />
+        <mark key="^" line="59" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="230" column="0" filename="$USER_HOME$/Documents/mount_dir/weather.excite.co.jp/templates/spot/zp/index.tpl" />
@@ -302,8 +308,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IS_REPLACE_AUTHTOKEN_ = 0;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZW5hYmxlZAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -318,28 +324,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbnNlcnRVcGRhdGVEdXBsaWNhdGVLZXkoJHRhYmxlLCAkaW5zZXJ0LCAkdXBkYXRlLCAkYWRkc2V0ID0gJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZW5hYmxlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQpUcmFpdCBOZXdzQXJ0aWNsZVRyYWl0Cj4+Pj4+Pj4gb3JpZ2luL2RldmVsb3AtYWRkLWxhdXJpZXItYXBpCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY2xpcENvbnRlbnRzSWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1hZGQtbGF1cmllci1hcGkK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSk7ZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PT09PT09PQpUcmFpdCBOZXdzQXJ0aWNsZVRyYWl0Cj4+Pj4+Pj4gb3JpZ2luL2RldmVsb3AtYWRkLWxhdXJpZXItYXBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1hZGQtbGF1cmllci1hcGkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgogICAgICAgIHJldHVybiAkcmV0WydyZXN1bHQnXVsnbGFzdEluc2VydElkJ107Cj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1hZGQtbGF1cmllci1hcGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1hZGQtbGF1cmllci1hcGkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1hZGQtbGF1cmllci1hcGkK</text>
