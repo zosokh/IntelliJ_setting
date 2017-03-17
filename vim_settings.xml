@@ -143,6 +143,12 @@
         <mark key="^" line="60" column="60" />
         <mark key="." line="60" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/Annotation/UserId.php" timestamp="1489733702280">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/Clips/ContentsInfo.php" timestamp="1488847786450">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -333,6 +339,12 @@
         <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteAppsV2/LaurierV2ListPublisher.php" timestamp="1489382630724" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Authorization/UserIdModule.php" timestamp="1489733681671">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="18" column="47" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/DeleteNews/DeleteNews.php" timestamp="1488932316865">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -777,14 +789,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>IS_REPLACE_AUTHTOKEN_ = 0;</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
