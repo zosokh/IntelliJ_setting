@@ -627,10 +627,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Solr/Solr.php" timestamp="1490671223771">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Solr/Solr.php" timestamp="1490673194660">
+        <mark key="[" line="124" column="39" />
+        <mark key="]" line="125" column="25" />
+        <mark key="." line="125" column="25" />
+        <mark key="^" line="125" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/News/NewsListByNewscode.php" timestamp="1488936476929">
         <mark key="[" line="90" column="47" />
@@ -696,11 +697,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/SearchNewsList.php" timestamp="1490670726787">
-        <mark key="[" line="94" column="56" />
-        <mark key="]" line="94" column="53" />
-        <mark key="^" line="94" column="53" />
-        <mark key="." line="94" column="53" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/SearchNewsList.php" timestamp="1490672797043">
+        <mark key="[" line="94" column="24" />
+        <mark key="]" line="93" column="27" />
+        <mark key="^" line="93" column="27" />
+        <mark key="." line="93" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/action/action.insertLaurierUserClip.php" timestamp="1488790186651">
         <mark key="[" line="17" column="9" />
@@ -860,14 +861,14 @@
       <jump line="55" column="23" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkb3B0aW9ucyk7ZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
