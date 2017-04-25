@@ -724,11 +724,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Solr/Solr.php" timestamp="1493109739126">
-        <mark key="[" line="125" column="12" />
-        <mark key="]" line="126" column="75" />
-        <mark key="." line="126" column="75" />
-        <mark key="^" line="126" column="75" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Solr/Solr.php" timestamp="1493111550875">
+        <mark key="[" line="179" column="51" />
+        <mark key="]" line="179" column="51" />
+        <mark key="." line="179" column="51" />
+        <mark key="^" line="179" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-ngword-api/src/Module/BayesianFilter/BayesianFilter.php" timestamp="1490177923403">
         <mark key="[" line="107" column="19" />
@@ -887,7 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="41" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/laurier/index.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/laurier/index.tpl" />
       <jump line="38" column="18" filename="$USER_HOME$/Documents/mount_dir/excitenews-ngword-api/src/Resource/App/Db/Bayes/Word.php" />
       <jump line="88" column="18" filename="$USER_HOME$/Documents/mount_dir/excitenews-ngword-api/src/Resource/App/Db/Bayes/WordCategory.php" />
@@ -987,16 +986,17 @@
       <jump line="5" column="17" filename="$USER_HOME$/Documents/mount_dir/laurier-api/tests/Resource/App/V2/Clips/Users/Multicode/ClipListTest.php" />
       <jump line="76" column="19" filename="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news/detail/index.php" />
       <jump line="61" column="52" filename="$USER_HOME$/Documents/mount_dir/laurier-api/tests/Resource/App/V2/User/Auth/DailyLoginTest.php" />
+      <jump line="109" column="28" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Solr/Solr.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdzZWFyY2hfbG9naWNhbCcsIHNlbGY6OlFVRVJZX0ZJRUxEX1NFQVJDSF9MT0dJQ0FMKTsK</text>
+      <register name="&quot;" type="4">
+        <text>+OR+clip:[251+TO+500]^50+OR+clip:[501+TO+*]^100</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>+OR+clip:[251+TO+500]^50+OR+clip:[501+TO+*]^100</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -1005,28 +1005,28 @@
         <text encoding="base64">dXNlIEV4Y2l0ZVxMYXVyaWVyQXBpXE1vZHVsZVxOZXdzXE5ld3NDb25maWc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdzZWFyY2hfbG9naWNhbCcsIHNlbGY6OlFVRVJZX0ZJRUxEX1NFQVJDSF9MT0dJQ0FMKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGlzdCk7ZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdhdXRob3InLCBzZWxmOjpRVUVSWV9GSUVMRF9BVVRIT1IpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmlsdGVyUXVlcnkpO2V4aXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdzdG9yeScsIHNlbGY6OlFVRVJZX0ZJRUxEX1NUT1JZKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc29ydEZpZWxkKS5leGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZXNFbmNyeXB0ID0gJHRoaXMtPmF1dGhvcml6YXRpb24tPmdlbmVyYXRlVG9rZW4oJGRlY29kZVJlc3VsdC0+c3ViLCAkZGVjb2RlUmVzdWx0LT5tZW1iZXJzaGlwLAovLyAgICAgICAgICAgICRkZWNvZGVSZXN1bHQtPm1lbWJlcmNsYXNzLCAkZGVjb2RlUmVzdWx0LT51dWlkLCAkZGVjb2RlUmVzdWx0LT5hdWQpOwovLyAgICAgICAgJGV4cGlyZVRpbWUgPSBkYXRlKCdZLW0tZCBIOmk6cycsICRyZXNFbmNyeXB0WydwYXlsb2FkJ11bJ2V4cCddKTsKLy8gICAgICAgICRyZXNVcGRhdGUgPSAkdGhpcy0+YXV0aG9yaXphdGlvbi0+dXBkYXRlQXV0aFRva2VuKCRkZWNvZGVSZXN1bHQtPnN1YiwgJHJlc0VuY3J5cHRbJ2F1dGhUb2tlbiddLCAkZXhwaXJlVGltZSwKLy8gICAgICAgICAgICAkZGVjb2RlUmVzdWx0LT51dWlkLCAkZGVjb2RlUmVzdWx0LT5hdWQpOwovLyAgICAgICAgaWYgKCEkcmVzVXBkYXRlKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2F1dGhfdG9rZW7mm7TmlrDjgavlpLHmlZfjgZfjgb7jgZfjgZ8nKTsKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdzZWFyY2hfbG9naWNhbCcsIHNlbGY6OlFVRVJZX0ZJRUxEX1NFQVJDSF9MT0dJQ0FMKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYXBwVmVyIDw9ICcyLjAuMCcpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdhdXRob3InLCBzZWxmOjpRVUVSWV9GSUVMRF9BVVRIT1IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRRdWVyeUZpZWxkKCdzdG9yeScsIHNlbGY6OlFVRVJZX0ZJRUxEX1NUT1JZKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRyZXNFbmNyeXB0ID0gJHRoaXMtPmF1dGhvcml6YXRpb24tPmdlbmVyYXRlVG9rZW4oJGRlY29kZVJlc3VsdC0+c3ViLCAkZGVjb2RlUmVzdWx0LT5tZW1iZXJzaGlwLAovLyAgICAgICAgICAgICRkZWNvZGVSZXN1bHQtPm1lbWJlcmNsYXNzLCAkZGVjb2RlUmVzdWx0LT51dWlkLCAkZGVjb2RlUmVzdWx0LT5hdWQpOwovLyAgICAgICAgJGV4cGlyZVRpbWUgPSBkYXRlKCdZLW0tZCBIOmk6cycsICRyZXNFbmNyeXB0WydwYXlsb2FkJ11bJ2V4cCddKTsKLy8gICAgICAgICRyZXNVcGRhdGUgPSAkdGhpcy0+YXV0aG9yaXphdGlvbi0+dXBkYXRlQXV0aFRva2VuKCRkZWNvZGVSZXN1bHQtPnN1YiwgJHJlc0VuY3J5cHRbJ2F1dGhUb2tlbiddLCAkZXhwaXJlVGltZSwKLy8gICAgICAgICAgICAkZGVjb2RlUmVzdWx0LT51dWlkLCAkZGVjb2RlUmVzdWx0LT5hdWQpOwovLyAgICAgICAgaWYgKCEkcmVzVXBkYXRlKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2F1dGhfdG9rZW7mm7TmlrDjgavlpLHmlZfjgZfjgb7jgZfjgZ8nKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpc3NldCgkcGFyYW1zWydzZXJpZXMnXSkpewogICAgICAgICAgICAkYXBpUGFyYW1zWydzZXJpZXMnXSA9ICRwYXJhbXNbJ3NlcmllcyddOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYXBwVmVyIDw9ICcyLjAuMCcpO2V4aXQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1070,12 +1070,12 @@
         <entry>.,.+110w</entry>
         <entry>ww</entry>
         <entry>aw</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w]</entry>
         <entry>W</entry>
         <entry>:w</entry>
         <entry>qw</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
