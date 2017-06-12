@@ -3,32 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Image/Item.debug.yml" timestamp="1496383547055" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Series.debug.yml" timestamp="1496383937039" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Matome/Detail.debug.yml" timestamp="1496383649430" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Report.debug.yml" timestamp="1496383522597" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Image.debug.yml" timestamp="1496383401851" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Related.debug.yml" timestamp="1496383437963" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Url.debug.yml" timestamp="1496383957638" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Evaluate.debug.yml" timestamp="1496383485811" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Report.test.yml" timestamp="1497235644937" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Utils/Cache.php" timestamp="1496802137161">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Master/Author.debug.yml" timestamp="1496383562122" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Master/Packagelist.debug.yml" timestamp="1496383569623" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Matome/List.debug.yml" timestamp="1496383658093" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Movie.debug.yml" timestamp="1496383427738" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Post.debug.yml" timestamp="1496383514700" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment.debug.yml" timestamp="1496383396452">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Series/Item.debug.yml" timestamp="1496383724564" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Backnumber.debug.yml" timestamp="1496383764778" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Evaluatereport.test.yml" timestamp="1497235613565" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Evaluate.test.yml" timestamp="1497235607354">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Item.test.yml" timestamp="1497235625329" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/Laurier.php" timestamp="1496142782435">
+        <mark key="[" line="48" column="58" />
+        <mark key="]" line="49" column="56" />
+        <mark key="." line="49" column="56" />
+        <mark key="^" line="49" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news/detail/index.php" timestamp="1496802143204">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -40,18 +40,7 @@
         <mark key="." line="150" column="54" />
         <mark key="^" line="150" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Master/Source.debug.yml" timestamp="1496383586869" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Item.debug.yml" timestamp="1496383505002" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Search.debug.yml" timestamp="1496383449302" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Preview/Item.debug.yml" timestamp="1496383705174" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Item.debug.yml" timestamp="1496383413456" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Evaluatereport.debug.yml" timestamp="1496383496688" />
-      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/Laurier.php" timestamp="1496142782435">
-        <mark key="[" line="48" column="58" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="49" column="56" />
-      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Comment/Post.test.yml" timestamp="1497235636647" />
     </filemarks>
     <jumps>
       <jump line="120" column="25" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/tests/FeedDataTest.php" />
