@@ -21,7 +21,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/deploy/recipe/bearsunday.php" timestamp="1499945289906" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/Excite/Er/News/Master/PackageList.stage.yml" timestamp="1498719900556">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="0" column="11" />
@@ -225,7 +224,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Page.php" timestamp="1500013919955" />
       <file name="$USER_HOME$/Documents/mount_dir/api.sp.news.excite.co.jp/Excite/Er/V2/News.stage.yml" timestamp="1497347125895">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="1" column="11" />
@@ -357,8 +355,6 @@
         <mark key="^" line="103" column="20" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.live.NewsConf.php" timestamp="1499681723722" />
-      <file name="$USER_HOME$/Documents/mount_dir/weather.excite.co.jp/libs/App/class/app.class.App_Page_Area_Weather.php" timestamp="1499929338094" />
       <file name="$USER_HOME$/Documents/mount_dir/weather.excite.co.jp/templates/area/ar/index.sp.tpl" timestamp="1497404018760">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="278" column="7" />
@@ -467,7 +463,6 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/advert/article_rectangle.tpl" timestamp="1499824595359" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/News/Master/Packagelist.stage.yml" timestamp="1498729824226">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="11" />
@@ -498,11 +493,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/common.php" timestamp="1499939438754">
-        <mark key="[" line="102" column="27" />
-        <mark key="]" line="101" column="34" />
-        <mark key="^" line="101" column="34" />
-        <mark key="." line="101" column="34" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/var/conf/app/common.php" timestamp="1500349081198">
+        <mark key="[" line="102" column="26" />
+        <mark key="]" line="102" column="26" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="102" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather.excite.co.jp/templates/index.sp.tpl" timestamp="1499929962886">
         <mark key="[" line="26" column="6" />
@@ -539,6 +534,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/SearchNewsList.php" timestamp="1500349012880">
+        <mark key="[" line="91" column="88" />
+        <mark key="]" line="92" column="29" />
+        <mark key="^" line="92" column="29" />
+        <mark key="." line="92" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ModifyNgKeyword/SearchWordNgFilter/CheckNewsNgFilter.php" timestamp="1497341077262">
         <mark key="[" line="170" column="46" />
@@ -686,14 +687,14 @@
       <jump line="82" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/TagNewsList.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
