@@ -47,10 +47,11 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1509426323040">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1510884383417">
+        <mark key="[" line="97" column="37" />
+        <mark key="]" line="99" column="28" />
+        <mark key="." line="99" column="28" />
+        <mark key="^" line="99" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/elements/newsList.blade.php" timestamp="1510825169006">
         <mark key="[" line="19" column="74" />
@@ -188,17 +189,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Const.php" timestamp="1510738630941">
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="29" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="80" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Utils/NoImage.php" timestamp="1510738950296">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/pages/rankingList.blade.php" timestamp="1510824499273">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -320,6 +310,12 @@
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Page.php" timestamp="1510884110129">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="158" column="21" />
+        <mark key="^" line="158" column="21" />
+        <mark key="." line="158" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/pages/editorList.blade.php" timestamp="1510628370205">
         <mark key="[" line="6" column="81" />
@@ -491,20 +487,20 @@
       <jump line="141" column="20" filename="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/News.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbmV3cycgPT4gJ+acgOaWsOiomOS6iycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbmV3cycgPT4gJ+acgOaWsOiomOS6iycsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0KCdyZWNvbW1lbmQnLCAkcmVjb21tZW5kKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0dHR0dHQK</text>
