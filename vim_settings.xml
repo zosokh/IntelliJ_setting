@@ -201,11 +201,10 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-batch-solr/batch/feed/News/NewsFeeder_2x.php" timestamp="1511232766610">
-        <mark key="[" line="402" column="22" />
-        <mark key="]" line="402" column="33" />
-        <mark key="." line="402" column="33" />
-        <mark key="^" line="402" column="33" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-batch-solr/batch/feed/News/NewsFeeder_2x.php" timestamp="1511249997765">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Http/Controllers/NewsController.php" timestamp="1510714862622">
         <mark key="[" line="98" column="0" />
@@ -257,6 +256,7 @@
         <mark key="." line="36" column="90" />
         <mark key="^" line="36" column="90" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/config.yml" timestamp="1511249479852" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/view_history.tpl" timestamp="1508813695299">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -354,11 +354,11 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Ro/News/List/Solr.php" timestamp="1511246496311">
-        <mark key="[" line="102" column="49" />
-        <mark key="]" line="103" column="19" />
-        <mark key="." line="103" column="19" />
-        <mark key="^" line="103" column="19" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Ro/News/List/Solr.php" timestamp="1511249528192">
+        <mark key="[" line="112" column="71" />
+        <mark key="]" line="113" column="47" />
+        <mark key="." line="113" column="47" />
+        <mark key="^" line="113" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/tests/ConfigTest.php" timestamp="1510637764594">
         <mark key="[" line="42" column="0" />
@@ -547,7 +547,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChfU09MUjJfTUFTVEVSX1BPUlQpO2V4aXQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -562,31 +562,31 @@
         <text encoding="base64">Ki81ICogKiAqICogY2QgL3Zhci9leGNpdGUvbmV3cy1iYXRjaC1zb2xyL2JhdGNoL2ZlZWQvTmV3czsuL05ld3NGZWVkZXJfMnguc2ggPiBkYWlseV9jcm9uLmxvZyAyPiYxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChfU09MUjJfTUFTVEVSX1BPUlQpO2V4aXQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+c29sckNsaWVudCk7ZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dG9kYXk9YGRhdGUgKyVZJW0lZGAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwKCRzcWwpO2V4aXQ7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwKCRzdGFydERhdGUpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoIm5ld3NkYXRlOlsiIC4gZGF0ZSgnWS1tLWRcVEg6aTpzXFonLCBzdHJ0b3RpbWUoJHRoaXMtPl9lbmREYXRlKSkgLiAiIFRPICIgLiBkYXRlKCdZLW0tZFxUSDppOnNcWicsIHN0cnRvdGltZSgkdGhpcy0+X2JlZ2luRGF0ZSkpIC4gIl0iKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X3BhY2thZ2VDYXRlZ29yeU1hcCk7ZXhpdDsK</text>
+        <text encoding="base64">dG9kYXk9YGRhdGUgKyVZJW0lZGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHZpZXcpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKCRzcWwpO2V4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
