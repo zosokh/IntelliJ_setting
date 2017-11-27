@@ -64,18 +64,17 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/PastTopNews/PastTopNewsPublisher.php" timestamp="1511320291993" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1510900524366">
         <mark key="[" line="111" column="138" />
         <mark key="]" line="114" column="111" />
         <mark key="." line="114" column="111" />
         <mark key="^" line="114" column="111" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/elements/newsList.blade.php" timestamp="1510888044639">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/elements/newsList.blade.php" timestamp="1511752530954">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+        <mark key="^" line="23" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/resources/views/common/pages/searchNewsList.blade.php" timestamp="1510887579721">
         <mark key="[" line="8" column="35" />
@@ -217,10 +216,10 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Http/Controllers/NewsController.php" timestamp="1510714862622">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Http/Controllers/NewsController.php" timestamp="1511751606389">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="66" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/Excite/Er/News/Comment.debug.yml" timestamp="1511148232910">
         <mark key="[" line="0" column="11" />
@@ -267,7 +266,6 @@
         <mark key="." line="36" column="90" />
         <mark key="^" line="36" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/config.yml" timestamp="1511249479852" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewNewsComment.php" timestamp="1511339774841">
         <mark key="[" line="271" column="13" />
         <mark key="]" line="272" column="52" />
@@ -337,7 +335,7 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/News.php" timestamp="1510715300628">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/News.php" timestamp="1511751916018">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -371,7 +369,6 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteAppsV2/Publisher.php" timestamp="1511319243966" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Ro/News/List/Solr.php" timestamp="1511256168585">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -466,7 +463,6 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.NewsPublisher.php" timestamp="1511344166476" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-batch-solr/App/define/define.stage.FeedConf.php" timestamp="1511317036644">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="28" column="33" />
@@ -588,14 +584,14 @@
       <jump line="141" column="20" filename="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/News.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCghaXNfZmlsZSgkY3VycmVudEZpbGVQYXRoKSk7ZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
@@ -604,31 +600,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1tdID0gJHRhcmdldERhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCghaXNfZmlsZSgkY3VycmVudEZpbGVQYXRoKSk7ZXhpdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRwYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRzcWwpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRlY29kZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkdmFsdWVzWydzdGFydCddKSAmJiBpc3NldCgkdmFsdWVzWydzaXplJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJHNxbCAuPSAnIExJTUlUICcuKGludCkkdmFsdWVzWydzdGFydCddLicsICcuKGludCkkdmFsdWVzWydzaXplJ107CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRlY29kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRoZWFkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChcQ29uZmlnOjpnZXQoJ2NvbnN0Lk5FV1NfTElTVF9GSUxFX0VOQUJMRURfTUFQLm5ld3MnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR1cmwpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHZpZXcpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCghaXNfZmlsZSgkY3VycmVudEZpbGVQYXRoKSk7ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHAoJHNxbCk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBwKCRzcWwpO2V4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3NJdGVtWyduZXdzY29kZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkdmFsdWVzWydzdGFydCddKSAmJiBpc3NldCgkdmFsdWVzWydzaXplJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJHNxbCAuPSAnIExJTUlUICcuKGludCkkdmFsdWVzWydzdGFydCddLicsICcuKGludCkkdmFsdWVzWydzaXplJ107CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRuZXdzKTtleGl0Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRoZWFkZXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
