@@ -13,11 +13,10 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-batch-solr/App/Util/Database.php" timestamp="1512124220481">
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="336" column="0" />
-        <mark key="." line="336" column="0" />
-        <mark key="^" line="208" column="11" />
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-batch-solr/App/Util/Database.php" timestamp="1512374348112">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier.press/app/Api/BaseLaurierApi.php" timestamp="1510544689307">
         <mark key="[" line="44" column="0" />
@@ -57,7 +56,7 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1512371746084">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1512374051197">
         <mark key="[" line="11" column="119" />
         <mark key="]" line="11" column="78" />
         <mark key="^" line="11" column="78" />
@@ -296,7 +295,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/laurier-batch-solr/batch/LaurierFeeder.php" timestamp="1512124262620">
+      <file name="$USER_HOME$/Documents/mount_dir/laurier-batch-solr/batch/LaurierFeeder.php" timestamp="1512374356096">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
@@ -410,8 +409,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/LaurierRankingPublisher.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3VsdCk7ZXhpdDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -426,31 +425,31 @@
         <text encoding="base64">ICAgICAgICAkc3FsIC49ICJBTkQgbi5uZXdzZGF0ZSBCRVRXRUVOICd7JF8oc2VsZjo6REVGQVVMVF9TVEFSVF9EQVRFKX0nIEFORCAneyR0aGlzLT5ub3d9JwogICAgICAgICAgICBBTkQgbi51cGRhdGVfdGltZSBCRVRXRUVOIDpzdGFydFRpbWUgQU5EICd7JHRoaXMtPm5vd30nIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnLi9zY3JpcHQvbWFpbi5qcycK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAnLi9pbWFnZXMvaW1hZ2UuanBnJywK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3VsdCk7ZXhpdDsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc3FsKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAnLi9zY3JpcHQvbWFpbi5qcycK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJlcGFyZVZhcmlhYmxlcyk7Cg==</text>
+        <text encoding="base64">ICAnLi9pbWFnZXMvaW1hZ2UuanBnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3VsdCk7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJlcGFyZVZhcmlhYmxlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNxbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
