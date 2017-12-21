@@ -41,6 +41,18 @@
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/top.tpl" timestamp="1513828731833">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/article/index.tpl" timestamp="1513828881393">
+        <mark key="[" line="275" column="55" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
+        <mark key="^" line="280" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/error/style.tpl" timestamp="1513304759403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -102,7 +114,7 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/ydn_func.tpl" timestamp="1513765496493">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/ydn_func.tpl" timestamp="1513828566624">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="56" />
         <mark key="." line="13" column="56" />
@@ -132,10 +144,11 @@
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/topnews_upper.tpl" timestamp="1513762668162">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/footer_app_induction.tpl" timestamp="1513243058024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/footer_app_induction.tpl" timestamp="1513829041997">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/list/topicsnews_list.tpl" timestamp="1513820357830">
         <mark key="[" line="11" column="61" />
@@ -247,8 +260,8 @@
       <jump line="99" column="55" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlc3R0ZXN0Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -263,31 +276,31 @@
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9pbWFnZS5leGNpdGUuY28uanAvanAvb3gvYWQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdHRlc3R0Cg==</text>
+        <text encoding="base64">ICAgIHRlc3R0ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0iZ3B0X3NwX25ld3NfZm9vdGVyX2Jhbm5lciI+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL2ltYWdlLmV4Y2l0ZS5jby5qcC9qcC9veC9ncHQvZGlzcGxheS9zcC9uZXdzL3NwX25ld3NfZm9vdGVyX2Jhbm5lci5qcyI+PC9zY3JpcHQ+CjxkaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">dGVzdHRlc3R0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">dGVzdHRlc3R0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBpZD0idGVzdHRlc3QiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBpZD0idGVzdHRlc3QiPjxkaXY+Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9pbWFnZS5leGNpdGUuY28uanAvanAvb3gvYWQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
