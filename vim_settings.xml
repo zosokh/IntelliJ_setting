@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/js/test_ad.js" timestamp="1513839206098">
-        <mark key="[" line="999" column="0" />
-        <mark key="]" line="999" column="46" />
-        <mark key="^" line="997" column="66" />
-        <mark key="." line="999" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/js/test_ad.js" timestamp="1513841058065">
+        <mark key="[" line="999" column="38" />
+        <mark key="]" line="1016" column="14" />
+        <mark key="^" line="1016" column="14" />
+        <mark key="." line="1016" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/header_access_analytics.tpl" timestamp="1513066883073">
         <mark key="[" line="47" column="0" />
@@ -106,10 +106,10 @@
         <mark key="^" line="131" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/footer.tpl" timestamp="1513820823783" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/ydn_func.tpl" timestamp="1513836450900">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/ydn_func.tpl" timestamp="1513842067756">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/.htaccess_test" timestamp="1513594596781">
         <mark key="[" line="126" column="0" />
@@ -244,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChzY3JpcHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKG9sZERvY3VtZW50V3JpdGUpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -259,25 +259,25 @@
         <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChzY3JpcHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL05ld3MvanMvdGVzdF9hZC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKG9sZERvY3VtZW50V3JpdGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3R0ZXN0Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL05ld3MvanMvdGVzdF9hZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBpZD0iZ3B0X3NwX25ld3NfZm9vdGVyX2Jhbm5lciI+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL2ltYWdlLmV4Y2l0ZS5jby5qcC9qcC9veC9ncHQvZGlzcGxheS9zcC9uZXdzL3NwX25ld3NfZm9vdGVyX2Jhbm5lci5qcyI+PC9zY3JpcHQ+CjxkaXY+Cg==</text>
+        <text encoding="base64">ICAgIHRlc3R0ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0iZ3B0X3NwX25ld3NfZm9vdGVyX2Jhbm5lciI+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL2ltYWdlLmV4Y2l0ZS5jby5qcC9qcC9veC9ncHQvZGlzcGxheS9zcC9uZXdzL3NwX25ld3NfZm9vdGVyX2Jhbm5lci5qcyI+PC9zY3JpcHQ+CjxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdHRlc3R0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dGVzdHRlc3R0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">dGVzdHRlc3R0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0dGVzdCI+PC9kaXY+Cg==</text>
