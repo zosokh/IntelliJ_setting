@@ -37,6 +37,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1514259332910">
+        <mark key="]" line="246" column="7" />
+        <mark key="." line="246" column="7" />
+        <mark key="^" line="246" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/top.tpl" timestamp="1514185891319">
         <mark key="[" line="26" column="59" />
         <mark key="]" line="27" column="0" />
@@ -121,23 +126,17 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/news_ranking.tpl" timestamp="1514186529571">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/news_ranking.tpl" timestamp="1514258835471">
         <mark key="[" line="24" column="59" />
         <mark key="]" line="24" column="63" />
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/footer_app_induction.tpl" timestamp="1513829041997">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/view_history.tpl" timestamp="1514189833862">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/footer_app_induction.tpl" timestamp="1514260433087">
+        <mark key="[" line="10" column="250" />
+        <mark key="]" line="27" column="226" />
+        <mark key="." line="27" column="226" />
+        <mark key="^" line="27" column="226" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/advert/article_rectangle.tpl" timestamp="1513850559169">
         <mark key="[" line="0" column="0" />
@@ -161,6 +160,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default_smadan.tpl" timestamp="1514259718129" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/amp/list/keywords/index.php" timestamp="1513651896524">
         <mark key="[" line="101" column="52" />
         <mark key="]" line="102" column="32" />
@@ -224,19 +224,6 @@
         <mark key="]" line="79" column="75" />
         <mark key="." line="79" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/comment.tpl" timestamp="1514195007033">
-        <mark key="'" line="2" column="5" />
-        <mark key="[" line="63" column="40" />
-        <mark key="]" line="63" column="57" />
-        <mark key="." line="63" column="57" />
-        <mark key="^" line="63" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/comment/overlay_receivemessage_js.tpl" timestamp="1514195628189">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/advert/ydn/timeline_ad_list.tpl" timestamp="1514257062654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,6 +233,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/news_img_ranking.tpl" timestamp="1514260426432">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="72" />
+        <mark key="^" line="34" column="72" />
+        <mark key="." line="34" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/.htaccess_test" timestamp="1513594596781">
         <mark key="[" line="126" column="0" />
@@ -389,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYmInKTsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vcy5leGltZy5qcC9leG5ld3MvYS9qcy9qcXVlcnkubGF6eWxvYWQubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -404,31 +397,31 @@
         <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvY29tbWVudC9pZmxhbWVfanMudHBsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYmInKTsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vcy5leGltZy5qcC9leG5ld3MvYS9qcy9qcXVlcnkubGF6eWxvYWQubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYWEnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYmInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RJZGxlQ2FsbGJhY2soZnVuY3Rpb24oKXsKICAgICAgICBiYXNlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbW1lbnQtaWZsYW1lLWJveCcpOwogICAgICAgIGJhc2UuaW5uZXJIVE1MID0gIiI7CiAgICAgICAgb2JqID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgiaWQiLCAiYmFyIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgic2Nyb2xsaW5nIiwgIm5vIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgic2VhbWxlc3MiLCAidHJ1ZSIpOwogICAgICAgIG9iai5zcmMgPSBpZnJhbWVfdXJsOwogICAgICAgIGJhc2UuYXBwZW5kQ2hpbGQob2JqKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYWEnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHAoJ3Rlc3QnKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RJZGxlQ2FsbGJhY2soZnVuY3Rpb24oKXsKICAgICAgICBiYXNlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbW1lbnQtaWZsYW1lLWJveCcpOwogICAgICAgIGJhc2UuaW5uZXJIVE1MID0gIiI7CiAgICAgICAgb2JqID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgiaWQiLCAiYmFyIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgic2Nyb2xsaW5nIiwgIm5vIik7CiAgICAgICAgb2JqLnNldEF0dHJpYnV0ZSgic2VhbWxlc3MiLCAidHJ1ZSIpOwogICAgICAgIG9iai5zcmMgPSBpZnJhbWVfdXJsOwogICAgICAgIGJhc2UuYXBwZW5kQ2hpbGQob2JqKTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRuZXdzQ29tbWVudExpc3QpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHAoJ3Rlc3QnKTtleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRwY19wYWNrYWdlWydwY191cmwnXSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBwKCRuZXdzQ29tbWVudExpc3QpO2V4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRwY19wYWNrYWdlKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwKCRwY19wYWNrYWdlWydwY191cmwnXSk7ZXhpdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRjb3JyZWN0VXJsKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwKCRwY19wYWNrYWdlKTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRuZXdzWydwYWNrYWdlX2NhdGVnb3J5J10pO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKCRjb3JyZWN0VXJsKTtleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
