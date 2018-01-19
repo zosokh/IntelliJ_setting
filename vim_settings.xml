@@ -315,6 +315,13 @@
         <mark key="." line="52" column="158" />
         <mark key="^" line="52" column="158" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/amp/index.php" timestamp="1516350507661">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="612" column="5" />
+        <mark key="]" line="613" column="14" />
+        <mark key="." line="613" column="14" />
+        <mark key="^" line="613" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/comment/link_anchor.tpl" timestamp="1516166661642">
         <mark key="[" line="4" column="96" />
         <mark key="]" line="5" column="134" />
@@ -445,7 +452,6 @@
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Comment/List.php" timestamp="1516255939230">
         <mark key="[" line="63" column="0" />
-        <mark key="]" line="67" column="9" />
         <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/banner.tpl" timestamp="1513655347159">
@@ -606,14 +612,14 @@
       <jump line="12" column="33" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/File/News/Commentrank.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzc2V0KCRpdGVtTGlzdFsnaXRlbSddKSkgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ2l0ZW0nID0+IFtdLAogICAgICAgICAgICBdOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>リ</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[]];</text>
+        <text>リ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
