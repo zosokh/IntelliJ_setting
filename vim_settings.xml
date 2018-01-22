@@ -73,6 +73,11 @@
         <mark key="." line="131" column="51" />
         <mark key="^" line="131" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/comment/list_popular.tpl" timestamp="1516591404785">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/comment/list_all.tpl" timestamp="1514364756423">
         <mark key="[" line="11" column="221" />
         <mark key="]" line="11" column="242" />
@@ -224,7 +229,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="224" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/comment/social_area.tpl" timestamp="1516166900399">
         <mark key="[" line="2" column="58" />
@@ -605,14 +609,14 @@
       <jump line="12" column="8" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/ad/first_rectangle.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyroqJjkuovoqbPntLDpnaLlsILnlKjjgr/jgrAqfQo=</text>
+      <register name="&quot;" type="4">
+        <text>//a.excite.co.jp</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>//a.excite.co.jp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
