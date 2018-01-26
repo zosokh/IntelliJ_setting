@@ -49,6 +49,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/jsonld_schema.tpl" timestamp="1516950876188">
+        <mark key="'" line="3" column="22" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/smadan/homescreen_js.tpl" timestamp="1514443858647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="3" />
@@ -508,9 +514,14 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/jsonld_schema.tpl" timestamp="1516951263306">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+        <mark key="^" line="19" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" />
       <jump line="215" column="76" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" />
       <jump line="73" column="2" filename="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/vendor/pear-pear.php.net/HTTP_Request/HTTP/Request.php" />
       <jump line="411" column="22" filename="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/vendor/pear-pear.php.net/HTTP_Request/HTTP/Request.php" />
@@ -610,16 +621,17 @@
       <jump line="14" column="7" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/advert/article_rectangle.tpl" />
       <jump line="604" column="43" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/amp/index.php" />
       <jump line="18" column="34" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/amp/index.php" />
+      <jump line="3" column="22" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/jsonld_schema.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
@@ -628,34 +640,34 @@
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iLy9pbWFnZS5leGNpdGUuY28uanAvanAvb3gvZ3B0L2Rpc3BsYXkvc3AvbmV3cy9zcF9uZXdzX2JpbGxib2FyZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdHRlc3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44OS44OD44OI44GX44Gf6Kix5a6544Kv44Op44K544KS56m655m95Yy65YiH44KK44Gn5qC857SNCiAgICAgICAgICAgICRhTGlua0NsYXNzID0gJyBjbGFzcz0iJyAuIGltcGxvZGUoJGNsYXNzTGlzdCwgJyAnKSAuICciJzsK</text>
+        <text encoding="base64">dGVzdHRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCgkYVNwbGl0KTsK</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJ7JG5ld3Muc291cmNlX25hbWV9IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44OS44OD44OI44GX44Gf6Kix5a6544Kv44Op44K544KS56m655m95Yy65YiH44KK44Gn5qC857SNCiAgICAgICAgICAgICRhTGlua0NsYXNzID0gJyBjbGFzcz0iJyAuIGltcGxvZGUoJGNsYXNzTGlzdCwgJyAnKSAuICciJzsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6KiY5LqL5pys5paH5YaF44Gu6Kix5a6544Kv44Op44K5CiAgICAgKi8KICAgIHByaXZhdGUgJGFsbG93Q2xhc3NBTGluayA9IFsnbGlua2FmZiddOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCgkYVNwbGl0KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCgkc3RyaXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6KiY5LqL5pys5paH5YaF44Gu6Kix5a6544Kv44Op44K5CiAgICAgKi8KICAgIHByaXZhdGUgJGFsbG93Q2xhc3NBTGluayA9IFsnbGlua2FmZiddOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
