@@ -13,6 +13,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/comment/detail/index.tpl" timestamp="1517367255878" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/index.tpl" timestamp="1514186349814">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="45" />
@@ -57,9 +58,6 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/jsonld_schema.tpl" timestamp="1517295977447">
-        <mark key="'" line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/list/jsonld_schema.tpl" timestamp="1517305704025" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/matome/jsonld_schema.tpl" timestamp="1517305737416" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/comment/list_popular.tpl" timestamp="1516591404785">
@@ -72,6 +70,11 @@
         <mark key="]" line="118" column="13" />
         <mark key="^" line="118" column="13" />
         <mark key="." line="118" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/subgenre/detail/manga_bigsize.tpl" timestamp="1517367103892">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/jsonld_schema_matome.tpl" timestamp="1517304199813">
         <mark key="[" line="30" column="24" />
@@ -90,7 +93,7 @@
         <mark key="^" line="101" column="62" />
         <mark key="." line="101" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/bit/detail/index.php" timestamp="1517218661095">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/bit/detail/index.php" timestamp="1517367675015">
         <mark key="[" line="172" column="42" />
         <mark key="]" line="172" column="55" />
         <mark key="^" line="172" column="55" />
@@ -116,6 +119,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/bit/detail/index.tpl" timestamp="1517367727762" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Page/News/Article.php" timestamp="1517298235094">
         <mark key="[" line="613" column="0" />
         <mark key="]" line="613" column="0" />
@@ -137,6 +141,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/config.yml" timestamp="1517366993311" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/error/style.tpl" timestamp="1513304759403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -209,12 +214,7 @@
         <mark key="." line="854" column="48" />
         <mark key="^" line="854" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/article/index.php" timestamp="1517298384291">
-        <mark key="[" line="210" column="10" />
-        <mark key="]" line="210" column="16" />
-        <mark key="." line="210" column="16" />
-        <mark key="^" line="210" column="16" />
-      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/subgenre/detail/index.php" timestamp="1517367900168" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/comment/detail/index.php" timestamp="1514253002384">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -336,13 +336,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'https://s.eximg.jp/exnews/logo/logo-amp-excitenews.png'</text>
+        <text>itemscope itemtype=&quot;http://schema.org/Article&quot;</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'https://s.eximg.jp/exnews/logo/logo-amp-excitenews.png'</text>
+        <text>itemscope itemtype=&quot;http://schema.org/Article&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
