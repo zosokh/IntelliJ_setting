@@ -35,7 +35,7 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Const.php" timestamp="1517363394230">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Const.php" timestamp="1518600063545">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="13" />
         <mark key="^" line="24" column="13" />
@@ -339,6 +339,12 @@
         <mark key="]" line="618" column="0" />
         <mark key="." line="618" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/elements/jsonld_schema.tpl" timestamp="1518600883305">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/article/index.php" timestamp="1517393772903">
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
@@ -476,14 +482,14 @@
       <jump line="615" column="5" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Page/News/Article.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5ld3NbJ2tleXdvcmRfZGVzY3JpcHRpb24nXSA9ICcnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>['item']</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
