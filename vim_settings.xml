@@ -24,12 +24,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/SearchSameTitleNews.php" timestamp="1519012708592">
-        <mark key="a" line="86" column="33" />
-        <mark key="[" line="180" column="49" />
-        <mark key="]" line="180" column="48" />
-        <mark key="." line="180" column="48" />
-        <mark key="^" line="180" column="48" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/SearchSameTitleNews.php" timestamp="1519106158920">
+        <mark key="a" line="96" column="33" />
+        <mark key="[" line="226" column="38" />
+        <mark key="]" line="236" column="21" />
+        <mark key="." line="236" column="21" />
+        <mark key="^" line="236" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/GoogleNewsSitemap/GoogleNewsSitemapPublisher.php" timestamp="1519096851991">
         <mark key="^" line="26" column="31" />
@@ -89,11 +89,11 @@
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/class.ReplaceSameTitleNews.php" timestamp="1518764113305">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/class.ReplaceSameTitleNews.php" timestamp="1519103538616">
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="73" column="10" />
+        <mark key="^" line="73" column="10" />
+        <mark key="." line="73" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/SearchRecordByReplaceHttps.php" timestamp="1517974859705">
         <mark key="[" line="14" column="22" />
@@ -129,6 +129,7 @@
         <mark key="^" line="167" column="30" />
         <mark key="." line="167" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.live.NewsConf.php" timestamp="1519106069030" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/comment/list_popular.tpl" timestamp="1517449414914">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="15" column="81" />
@@ -274,6 +275,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewLaurierTag.php" timestamp="1519104557280" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/error/style.tpl" timestamp="1513304759403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -391,6 +393,7 @@
         <mark key="." line="148" column="29" />
         <mark key="^" line="148" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceToHttps/class.ReplaceToHttps.php" timestamp="1519103645549" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Meta/Photonews.php" timestamp="1518507485953">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -522,14 +525,14 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/GoogleNewsSitemap/GoogleNewsSitemapPublisher.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsaXZl44Oi44O844OJ44Gu5pmC5Lul5aSW44Gvc3luY+OBl+OBquOBhAogICAgICAgIGlmICghJHRoaXMtPmxpdmUpIHsKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygiVGhpcyBtb2RlIGlzIGEgVEVTVC5JdCBkb2VzIG5vdCBTWU5DLiIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>$values, 'uri', _LAURIER_SOLR</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>newscode in ({$newscodeList})</text>
+        <text>$values, 'uri', _LAURIER_SOLR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
