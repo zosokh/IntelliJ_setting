@@ -47,11 +47,11 @@
         <mark key="." line="156" column="40" />
         <mark key="^" line="156" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1519700360814">
-        <mark key="[" line="203" column="67" />
-        <mark key="]" line="203" column="133" />
-        <mark key="^" line="203" column="133" />
-        <mark key="." line="203" column="133" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/layouts/default.tpl" timestamp="1519708389047">
+        <mark key="[" line="107" column="112" />
+        <mark key="]" line="107" column="112" />
+        <mark key="^" line="107" column="112" />
+        <mark key="." line="107" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/subgenre/index.php" timestamp="1519276385278">
         <mark key="[" line="189" column="0" />
@@ -85,11 +85,10 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/topnews_upper_bottom_js.tpl" timestamp="1519703575771">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/topnews_upper_bottom_js.tpl" timestamp="1519708280956">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/genre/subgenre/index.php" timestamp="1518680572117">
         <mark key="[" line="163" column="0" />
@@ -554,24 +553,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if(window.localStorage){
-                    localStorage.setItem(&quot;tab1status&quot; , nIndex);
-                    if(tab1auto == false){
-                        if(tab1click == true){
-                            tab1click = false;
-                        } else {
-                            ga('send', 'event', &quot;newstop&quot;, &quot;swipe&quot;, &quot;upper&quot;);
-                        }
-                    } else {
-                        tab1auto = false;
-                    }
-                }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
@@ -579,7 +567,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbWV0YXNbJ2hlYWRlcl90aXRsZSddID0gc3ByaW50ZigiJXMoJXMpIiwgJG5ld3NbJ3RpdGxlJ10sIGRhdGUoJ1nlubRu5pyIauaXpScsIHN0cnRvdGltZSgkbmV3c1snbmV3c2RhdGUnXSkpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHdpbmRvdy5sb2NhbFN0b3JhZ2UpewogICAgICAgICAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCJ0YWIxc3RhdHVzIiAsIG5JbmRleCk7CiAgICAgICAgICAgICAgICAgICAgaWYodGFiMWF1dG8gPT0gZmFsc2UpewogICAgICAgICAgICAgICAgICAgICAgICBpZih0YWIxY2xpY2sgPT0gdHJ1ZSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWIxY2xpY2sgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdhKCdzZW5kJywgJ2V2ZW50JywgIm5ld3N0b3AiLCAic3dpcGUiLCAidXBwZXIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRhYjFhdXRvID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0dGVzdHRlc3QnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0dGVzdHRlc3QnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduSW5kZXg9JyArIG5JbmRleCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0dGVzdHRlc3QnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduSW5kZXg9JyArIG5JbmRleCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduSW5kZXg9JyArIG5JbmRleCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0dGVzdHRlc3QnKTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>if(window.localStorage){
                     localStorage.setItem(&quot;tab1status&quot; , nIndex);
                     if(tab1auto == false){
@@ -592,76 +607,6 @@
                         tab1auto = false;
                     }
                 }</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c19zd2l0Y2hlcl9qcy50cGwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c19zd2l0Y2hlcl9qcy50cGwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c191cHBlcl9ib3R0b21fanMudHBsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHtpbmNsdWRlIGZpbGU9ImVsZW1lbnRzL05ld3MvdG9wbmV3c19ib3R0b20udHBsIn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5nZXRUb3BuZXdzTGlzdCgpKTtleGl0Owo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>$(function () {
-        var tab2click = false;
-        var tab2auto = false;
-        var tabSwiper2 = $('#newsTabs02-topnews .swiper-container').swiper({
-            pagination: '.pagination2',
-            loop: true,
-            paginationClickable: true,
-            calculateHeight: true,
-            touchRatio: 0.9,
-            onSlideChangeStart: function (swiper) {
-                var nIndex = swiper.activeLoopIndex;
-                var moveToNavi = &quot;#newsTabs02-&quot; + nIndex;
-                var moveFrom = &quot;#newsTabs02-&quot; + (nIndex - 1);
-                $(moveFrom).removeClass('link-active');
-                var $naviPointer = $(&quot;#newsTabs02&quot;).find('.tab-all');
-                $naviPointer.removeClass('link-active');
-                $(moveToNavi).addClass('link-active');
-                if (window.localStorage) {
-                    localStorage.setItem(&quot;tab2status&quot;, nIndex);
-                    if(tab2auto == false){
-                        if(tab2click == true){
-                            tab2click = false;
-                        } else {
-                            ga('send', 'event', &quot;newstop&quot;, &quot;swipe&quot;, &quot;bottom&quot;);
-                        }
-                    } else {
-                        tab2auto = false;
-                    }
-                }
-            }
-        });
-        $(&quot;#newsTabs02 li&quot;).click(function () {
-            var tabIndex2 = $(this).index();
-            tab2click = true;
-            ga('send', 'event', &quot;newstop&quot;, &quot;click&quot;, &quot;bottom&quot;);
-            tabSwiper2.swipeTo(tabIndex2);
-        });
-        if (window.localStorage) {
-            if (tab2 = localStorage.getItem(&quot;tab2status&quot;)) {
-                tab2auto = true;
-                tabSwiper2.swipeTo(tab2);
-            }
-        }
-    });</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR2aWV3KTtleGl0Owo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkemlwY29kZSk7ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
