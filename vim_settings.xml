@@ -30,7 +30,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/index.tpl" timestamp="1519700192002">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/index.tpl" timestamp="1519702254289">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="0" />
@@ -85,10 +85,11 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/topnews_upper_bottom_js.tpl" timestamp="1519700545912">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="4" />
-        <mark key="." line="55" column="4" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/js/topnews_upper_bottom_js.tpl" timestamp="1519703575771">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/genre/subgenre/index.php" timestamp="1518680572117">
         <mark key="[" line="163" column="0" />
@@ -181,6 +182,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/list_topnews.tpl" timestamp="1519702522565" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/photo_news/detail/index.tpl" timestamp="1518507054138">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="51" />
@@ -266,11 +268,10 @@
         <mark key="^" line="623" column="28" />
         <mark key="." line="623" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/article/index.tpl" timestamp="1519700207906">
-        <mark key="[" line="240" column="9" />
-        <mark key="]" line="241" column="51" />
-        <mark key="^" line="241" column="51" />
-        <mark key="." line="241" column="51" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/article/index.tpl" timestamp="1519702430986">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/matome/category/index.yml" timestamp="1514343710770">
         <mark key="[" line="8" column="0" />
@@ -416,11 +417,10 @@
         <mark key="^" line="148" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/News/topnews_upper.tpl" timestamp="1519699274015" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/article/index.yml" timestamp="1519701105248">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/pages/article/index.yml" timestamp="1519702941284">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/weather.excite.co.jp/htdocs/spot/search/index.php" timestamp="1519350857664">
         <mark key="[" line="60" column="22" />
@@ -553,8 +553,19 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/GoogleNewsSitemap/GoogleNewsSitemapPublisher.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5nZXRUb3BuZXdzTGlzdCgpKTtleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>if(window.localStorage){
+                    localStorage.setItem(&quot;tab1status&quot; , nIndex);
+                    if(tab1auto == false){
+                        if(tab1click == true){
+                            tab1click = false;
+                        } else {
+                            ga('send', 'event', &quot;newstop&quot;, &quot;swipe&quot;, &quot;upper&quot;);
+                        }
+                    } else {
+                        tab1auto = false;
+                    }
+                }</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -568,13 +579,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbWV0YXNbJ2hlYWRlcl90aXRsZSddID0gc3ByaW50ZigiJXMoJXMpIiwgJG5ld3NbJ3RpdGxlJ10sIGRhdGUoJ1nlubRu5pyIauaXpScsIHN0cnRvdGltZSgkbmV3c1snbmV3c2RhdGUnXSkpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5nZXRUb3BuZXdzTGlzdCgpKTtleGl0Owo=</text>
+      <register name="1" type="4">
+        <text>if(window.localStorage){
+                    localStorage.setItem(&quot;tab1status&quot; , nIndex);
+                    if(tab1auto == false){
+                        if(tab1click == true){
+                            tab1click = false;
+                        } else {
+                            ga('send', 'event', &quot;newstop&quot;, &quot;swipe&quot;, &quot;upper&quot;);
+                        }
+                    } else {
+                        tab1auto = false;
+                    }
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c19zd2l0Y2hlcl9qcy50cGwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c19zd2l0Y2hlcl9qcy50cGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gZWxlbWVudHMvanMvdG9wbmV3c191cHBlcl9ib3R0b21fanMudHBsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHtpbmNsdWRlIGZpbGU9ImVsZW1lbnRzL05ld3MvdG9wbmV3c19ib3R0b20udHBsIn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5nZXRUb3BuZXdzTGlzdCgpKTtleGl0Owo=</text>
+      </register>
+      <register name="7" type="4">
         <text>$(function () {
         var tab2click = false;
         var tab2auto = false;
@@ -620,26 +657,11 @@
         }
     });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR2aWV3KTtleGl0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkemlwY29kZSk7ZXhpdDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpO2V4aXQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZG9jcyk7ZXhpdDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCkK</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR2aWV3KTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmlldyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkemlwY29kZSk7ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
