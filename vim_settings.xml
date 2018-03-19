@@ -116,7 +116,7 @@
         <mark key="^" line="167" column="30" />
         <mark key="." line="167" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/gulpfile.js" timestamp="1521186641787">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/gulpfile.js" timestamp="1521428368229">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="25" />
         <mark key="^" line="27" column="25" />
@@ -197,6 +197,12 @@
         <mark key="]" line="6" column="40" />
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/gulpfile_test.js" timestamp="1521429410369">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="172" column="29" />
+        <mark key="^" line="172" column="29" />
+        <mark key="." line="172" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/subgenre/detail/manga_viewer.yml" timestamp="1521177786259">
         <mark key="[" line="4" column="42" />
@@ -365,6 +371,7 @@
         <mark key="^" line="75" column="33" />
         <mark key="." line="75" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/sync/grunt/Gruntfile.coffee" timestamp="1521429065742" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/function/function.array_util.php" timestamp="1520922130526">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
@@ -645,6 +652,9 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="/Dummy.txt" timestamp="1521428501699">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/pages/bit/detail/index.yml" timestamp="1521178555758">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="6" column="40" />
@@ -846,14 +856,14 @@
       <jump line="0" column="19" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/views/elements/js/smp_link_js.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRtYXRjaGVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
