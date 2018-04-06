@@ -94,11 +94,12 @@
         <mark key="." line="114" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/advert/billboard.tpl" timestamp="1522810497476" />
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" timestamp="1522923743512">
-        <mark key="[" line="1286" column="0" />
-        <mark key="]" line="1286" column="0" />
-        <mark key="^" line="1285" column="41" />
-        <mark key="." line="1286" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" timestamp="1522982291540">
+        <mark key="'" line="1363" column="127" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/ReplaceSameTitleNews/SearchRecordByReplaceHttps.php" timestamp="1517974859705">
         <mark key="[" line="14" column="22" />
@@ -915,8 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
-      <jump line="135" column="29" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/Db/News/NewsTagList.php" />
       <jump line="71" column="105" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/RecommendKeywordList.php" />
       <jump line="32" column="75" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/Clips/Interceptor/UniquecodeInterceptor.php" />
       <jump line="175" column="34" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
@@ -1015,16 +1014,18 @@
       <jump line="484" column="0" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
       <jump line="117" column="12" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
       <jump line="1318" column="32" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
+      <jump line="1362" column="4" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
+      <jump line="1363" column="127" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'data-ex=\&quot;C:Article:%s_Link(\d*)\&quot;'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'data-ex=\&quot;C:Article:%s_Link(\d*)\&quot;'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
@@ -1033,34 +1034,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2xheW91dEInID0+ICcvKF5bMi0zXVswLTRdWzAtN10pLycsIC8v44OG44K544OI44Os44Kk44Ki44Km44OIQSAxOS41JQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKCRzdG9yeSk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwKCRvcGVuaW5nVGFnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCgkb3BlbmluZ1RhZyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCgkb3BlbmluZ1RhZyk7CiAgICAgICAgICAgIHAoc3RycG9zKCRzdG9yeSwgJG9wZW5pbmdUYWcpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkc3RvcnkgPSBzdHJfcmVwbGFjZSgkb3BlbmluZ1RhZywgJG5ld1RhZywgJHN0b3J5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBwKCRzdG9yeSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCgkc3RvcnkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHAoJG9wZW5pbmdUYWdzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wZW5pbmdUYWcgPSBhZGRzbGFzaGVzKCRvcGVuaW5nVGFnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0b3J5ID0gcHJlZ19yZXBsYWNlKCcvPGEgaHJlZj1cImh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcC9CZjJJSG1yQjdrbi9cIi8nLCAkbmV3VGFnLCAkc3RvcnkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwKCRvcGVuaW5nVGFnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5fZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCgkb3BlbmluZ1RhZyk7CiAgICAgICAgICAgIHAoc3RycG9zKCRzdG9yeSwgJG9wZW5pbmdUYWcpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRhcmdzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
