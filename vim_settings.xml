@@ -880,6 +880,11 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/Excite/Er/News/Search.stage.yml" timestamp="1523608995893">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/smarty/plugins/function.getImgcPath.php" timestamp="1522130581849">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="3" />
@@ -1102,14 +1107,14 @@
       <jump line="409" column="34" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Amp/Item.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAncGFja2FnZV9jYXRlZ29yeScgPT4gJHBhY2thZ2VDYXRlZ29yeSwKLy8gICAgICAgICAgICAnbGFzdF9kYXlzJyA9PiAxMCwK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXR1cmRheVw+</text>
@@ -1148,7 +1153,7 @@
         <text encoding="base64">ICAgICAgICAvL+W6g+WRiuWFpeOCilJTU+OBuOOBruODquODgOOCpOODrOOCr+ODiAogICAgICAgIGlmICgkX0dFVFsnc291cmNlJ10gPT0gJ0V4Y2l0ZScgfHwgJF9HRVRbJ3NvdXJjZSddID09ICdFeGNpdGVfbG92ZScgfHwgJF9HRVRbJ3NvdXJjZSddID09ICdFeGNpdGVfbXVzaWMnIHx8ICRfR0VUWydzb3VyY2UnXSA9PSAnRXhjaXRlX3dvbWFuX211c2ljJykgewogICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3RSc3MoImh0dHA6Ly9yc3MuZXhjaXRlLmNvLmpwL3Jzcy9leGNpdGUvc291cmNlLyIgLiAkX0dFVFsnc291cmNlJ10pOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1193,9 +1198,9 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w]</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
