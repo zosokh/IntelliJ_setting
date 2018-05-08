@@ -923,7 +923,12 @@
         <mark key="." line="10" column="83" />
         <mark key="^" line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1525747611431" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TrendTweet/PickTrendNews.php" timestamp="1525749185937">
+        <mark key="[" line="173" column="28" />
+        <mark key="]" line="173" column="28" />
+        <mark key="." line="173" column="28" />
+        <mark key="^" line="62" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/sync/stage" timestamp="1521524955467">
         <mark key="[" line="27" column="7" />
         <mark key="]" line="28" column="3" />
@@ -1167,20 +1172,20 @@
       <jump line="51" column="20" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Keywords/Trendword.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRhZyA9PSAnVE9LSU8nKSB7CiAgICAgICAgICAgIHZhcl9kdW1wKCR0cmVuZFdvcmRMaXN0WyR0YWddKTtleGl0OwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Y</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENPTlNUIF9HT09HTEVfVFJFTkRTX0xPQ0FMX1BBVEggPSAnL2V4Y2l0ZS92YXJmaWxlL2ZlZWRzL2ludGwvanAvbmV3cy90cmVuZHMvZ29vZ2xlLmpzb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpGSUxFX0NBVEVHT1JZX1NPQ0lFVFkgPT4gIi92YXIvZXhjaXRlL3ZhcmZpbGUvZmVlZHMvaW50bC9qcC9OZXdzL2V4Y2l0ZTIwMTAvZ2FfcmFuay9zcF9jYXRlZ29yeV9zb2NpZXR5X3JlYWx0aW1lLmpzb24iLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRhZyA9PSAnVE9LSU8nKSB7CiAgICAgICAgICAgIHZhcl9kdW1wKCR0cmVuZFdvcmRMaXN0WyR0YWddKTtleGl0OwogICAgICAgIH0K</text>
