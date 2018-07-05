@@ -67,6 +67,7 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/excitenews-cachemanager/composer.json" timestamp="1530775162010" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/Excite/Er/Matome/Detail.debug.yml" timestamp="1530086585287">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="11" />
@@ -89,7 +90,13 @@
         <mark key="." line="101" column="31" />
         <mark key="^" line="101" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/excitenews-cachemanager/htdocs/index.php" timestamp="1530773609981" />
+      <file name="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/excitenews-cachemanager/htdocs/index.php" timestamp="1530775142119">
+        <mark key="'" line="97" column="90" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/News/Item.php" timestamp="1528103009264">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -353,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Resource/App/V2/News/TagNewsList.php" />
       <jump line="244" column="28" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
       <jump line="230" column="4" filename="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/News/NewsArticle/NewsArticle.php" />
       <jump line="347" column="34" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/ToolBatch/SearchRecordByReplaceHttps.php" />
@@ -453,22 +459,23 @@
       <jump line="233" column="16" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/News/Item.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/Preview/Item.php" />
       <jump line="38" column="58" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Amp/Item.php" />
+      <jump line="97" column="90" filename="$USER_HOME$/Documents/vagrant/ubuntu16_04/app/excitenews-cachemanager/htdocs/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Standard</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Standard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBuZXdzY29kZSA9IG5ld3NMaW5rVXJsLm1hdGNoKC9eKGh0dHBzOlwvXC93d3dcLmV4Y2l0ZVwuY29cLmpwXC9OZXdzKVwvKC4qKVwvKC4qKS5odG1sLyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWFwLT5yb3V0ZSgnU3RhbmRhcmQnLCAnL3N0YW5kYXJkL3tjYXRlZ29yeX0vbmV3cy54bWwnLCAnQXBwXENvbnRyb2xsZXJzXFN0YW5kYXJkQ29udHJvbGxlcicpLT5hbGxvd3MoJ0dFVCcpLT5hbGxvd3MoJ1BPU1QnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIHAoJHJlc3VsdCk7ZXhpdDsK</text>
