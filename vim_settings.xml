@@ -94,6 +94,11 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/libs/pear/php/BEAR/Cache.php" timestamp="1532489929408" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news/list/index.php" timestamp="1532495227207">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Aspect/BeforeTest.php" timestamp="1532486555568">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="30" />
@@ -149,9 +154,9 @@
         <mark key="." line="36" column="94" />
         <mark key="^" line="36" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news/detail/index.php" timestamp="1532489556413">
-        <mark key="[" line="90" column="59" />
-        <mark key="]" line="90" column="74" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news/detail/index.php" timestamp="1532494680477">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="77" />
         <mark key="." line="90" column="74" />
         <mark key="^" line="90" column="74" />
       </file>
@@ -360,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGVLZXkgLj0gJ3Rlc3R0ZXN0Y2FjaGU6JyAuICRjYWNoZUtleTsK</text>
+        <text encoding="base64">JG9wdGlvbnMgPSBbJ2NhY2hlJyA9PiBbJ2xpZmUnID0+IEFwcF9VdGlsc19DYWNoZTo6Z2V0KCJTIildXTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -372,44 +377,37 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBbJ0JFQVJfQ2FjaGUnXSA9ICRhcHBbJ0JFQVJfQ2FjaGUnXVsnZGVidWdfY2FjaGUnXTsK</text>
+        <text encoding="base64">JG9wdGlvbnMgPSBbJ2NhY2hlJyA9PiBbJ2xpZmUnID0+IEFwcF9VdGlsc19DYWNoZTo6Z2V0KCJNIiksICd0eXBlJz0+J3BhZ2UnXV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGVLZXkgLj0gJ3Rlc3R0ZXN0Y2FjaGU6JyAuICRjYWNoZUtleTsK</text>
+        <text encoding="base64">JG9wdGlvbnMgPSBbJ2NhY2hlJyA9PiBbJ2xpZmUnID0+IEFwcF9VdGlsc19DYWNoZTo6Z2V0KCJTIildXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVLZXkgLj0gJ3Rlc3R0ZXN0Y2FjaGU6JyAuICRjYWNoZUtleTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBhc3BlY3QgYmVmb3JlIEFwcF9Bc3BlY3RfQmVmb3JlX1Rlc3QK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVzKTtleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBhc3BlY3QgYmVmb3JlIEFwcF9Bc3BlY3RfQmVmb3JlX1Rlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5fY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBCRUFSX0FzcGVjdF9Kb2luUG9pbnQgJGpvaW5Qb2ludAo=</text>
+        <text encoding="base64">ICAgICAgICBwKCR0aGlzLT5fY29uZmlnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBhc3BlY3QgYmVmb3JlIEFwcF9Bc3BlY3RfQmVmb3JlX1Rlc3QK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBCRUFSX0FzcGVjdF9Kb2luUG9pbnQgJGpvaW5Qb2ludAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEBhc3BlY3QgYmVmb3JlIEFwcF9Bc3BlY3RfQmVmb3JlX1Rlc3QK</text>
       </register>
-      <register name="9" type="4">
-        <text>if ($values[&quot;genre&quot;] !== App_Const::LAURIER) {
-            return $values;
-        }
-        if ($values['tag'] === self::MANGA_WORD) {
-            $values[&quot;genre&quot;] = $values[&quot;genre&quot;] . self::MANGA_KEY;
-        } else if ($values['tag'] === self::MOVIE_WORD) {
-            $values[&quot;genre&quot;] = $values[&quot;genre&quot;] . self::MOVIE_KEY;
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIEBhc3BlY3QgYmVmb3JlIEFwcF9Bc3BlY3RfQmVmb3JlX1Rlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
