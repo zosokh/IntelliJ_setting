@@ -42,9 +42,9 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SourceController.php" timestamp="1536226096402">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SourceController.php" timestamp="1536283586957">
         <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
+        <mark key="]" line="59" column="107" />
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" timestamp="1534215420570">
@@ -224,10 +224,10 @@
         <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/CategoryController.php" timestamp="1536225128037">
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteSmartphoneNews/ExciteSmartphonePublisher.php" timestamp="1534143233242">
         <mark key="[" line="15" column="0" />
@@ -307,7 +307,7 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Fastly.php" timestamp="1536225942085">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Fastly.php" timestamp="1536284158586">
         <mark key="[" line="41" column="25" />
         <mark key="]" line="60" column="39" />
         <mark key="." line="60" column="39" />
@@ -404,6 +404,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/CommentController.php" timestamp="1536284075854">
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="66" column="12" />
+        <mark key="^" line="66" column="12" />
+        <mark key="." line="66" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/app.yml" timestamp="1535078426317">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="8" />
@@ -485,10 +491,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1536219934602">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1536283842681">
+        <mark key="[" line="101" column="24" />
+        <mark key="]" line="102" column="12" />
+        <mark key="^" line="102" column="12" />
+        <mark key="." line="102" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Subcategory.php" timestamp="1535963677200">
         <mark key="[" line="22" column="0" />
@@ -622,9 +629,9 @@
         <mark key="]" line="214" column="44" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TopController.php" timestamp="1536224976033">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="30" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TopController.php" timestamp="1536284039072">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="77" />
         <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="12" />
       </file>
@@ -988,10 +995,11 @@
         <mark key="]" line="168" column="48" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/ArticleController.php" timestamp="1536224940085">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="94" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/ArticleController.php" timestamp="1536284196036">
+        <mark key="[" line="124" column="13" />
+        <mark key="]" line="124" column="13" />
+        <mark key="." line="124" column="13" />
+        <mark key="^" line="124" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/views/pages/news_search/tag/index.tpl" timestamp="1534996205393">
         <mark key="[" line="5" column="48" />
@@ -1174,8 +1182,8 @@
       <jump line="5" column="12" filename="$USER_HOME$/Documents/mount_dir/devnewstool/Excite/Er/Cachemanager/ClearArticle.stage.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRzb3VyY2UpO2V4aXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1187,7 +1195,7 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3Vycm9nYXRlSGVhZGVyICA9IEZhc3RseTo6Z2V0U3Vycm9nYXRlU2V0dGluZyhbJ2tleScgPT4gJ3JhbmtpbmdfdG9wJywgJ3JhbmtpbmdUeXBlJyA9PiAkcmFua2luZ1R5cGVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3Vycm9nYXRlSGVhZGVyICA9IEZhc3RseTo6Z2V0U3Vycm9nYXRlU2V0dGluZyhbJ2tleScgPT4gJ2FydGljbGUnLCAnbmV3cycgPT4gJG5ld3NdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwKCRzb3VyY2UpO2V4aXQ7Cg==</text>
