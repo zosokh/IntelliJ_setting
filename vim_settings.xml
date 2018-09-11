@@ -42,10 +42,11 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SourceController.php" timestamp="1536283586957">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="107" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SourceController.php" timestamp="1536631800969">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="26" column="73" />
+        <mark key="." line="26" column="73" />
+        <mark key="^" line="26" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.TweetPost.php" timestamp="1534215420570">
         <mark key="[" line="262" column="0" />
@@ -64,6 +65,7 @@
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/Unit/MatomeArticleTest.php" timestamp="1536632146384" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/NewsSearch/NewsSearchPublisher.php" timestamp="1534151856439">
         <mark key="[" line="60" column="47" />
         <mark key="]" line="60" column="47" />
@@ -90,7 +92,7 @@
         <mark key="]" line="175" column="48" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env" timestamp="1536027262297">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env" timestamp="1536632441041">
         <mark key="[" line="43" column="25" />
         <mark key="]" line="43" column="24" />
         <mark key="^" line="43" column="24" />
@@ -216,9 +218,6 @@
         <mark key="]" line="157" column="48" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Breadcrumb.php" timestamp="1536300575288">
-        <mark key="[" line="183" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.NewsStaticDataRedis.php" timestamp="1535945371382">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="39" />
@@ -282,11 +281,11 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/MatomeArticleController.php" timestamp="1536285430678">
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/MatomeArticleController.php" timestamp="1536631942760">
+        <mark key="[" line="46" column="77" />
+        <mark key="]" line="46" column="76" />
+        <mark key="^" line="46" column="76" />
+        <mark key="." line="46" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/article/index.php" timestamp="1535509778584">
         <mark key="[" line="237" column="0" />
@@ -325,6 +324,12 @@
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Fastly.php" timestamp="1536631735165">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="200" column="9" />
+        <mark key="^" line="200" column="9" />
+        <mark key="." line="200" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news_comment/item/index.php" timestamp="1536115481651">
         <mark key="[" line="77" column="0" />
@@ -416,11 +421,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/CommentController.php" timestamp="1536284075854">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="66" column="12" />
-        <mark key="^" line="66" column="12" />
-        <mark key="." line="66" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/CommentController.php" timestamp="1536631884322">
+        <mark key="[" line="56" column="75" />
+        <mark key="]" line="56" column="74" />
+        <mark key="^" line="56" column="74" />
+        <mark key="." line="56" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/app.yml" timestamp="1535078426317">
         <mark key="[" line="12" column="4" />
@@ -483,9 +488,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/MatomeController.php" timestamp="1536289400841">
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/MatomeController.php" timestamp="1536631929081">
+        <mark key="[" line="73" column="74" />
+        <mark key="]" line="73" column="73" />
+        <mark key="." line="73" column="73" />
+        <mark key="^" line="73" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/newsfeed_master/ifeed/Jijico/SmadanFeeder.php" timestamp="1534815458138">
         <mark key="[" line="161" column="0" />
@@ -507,11 +514,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1536283842681">
-        <mark key="[" line="101" column="24" />
-        <mark key="]" line="102" column="12" />
-        <mark key="^" line="102" column="12" />
-        <mark key="." line="102" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1536631853458">
+        <mark key="[" line="85" column="71" />
+        <mark key="]" line="85" column="70" />
+        <mark key="^" line="85" column="70" />
+        <mark key="." line="85" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Subcategory.php" timestamp="1535963677200">
         <mark key="[" line="22" column="0" />
@@ -656,11 +663,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/AuthorController.php" timestamp="1536224894869">
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="78" column="27" />
-        <mark key="." line="78" column="27" />
-        <mark key="^" line="78" column="27" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/AuthorController.php" timestamp="1536631995693">
+        <mark key="[" line="67" column="73" />
+        <mark key="]" line="67" column="72" />
+        <mark key="." line="67" column="72" />
+        <mark key="^" line="67" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/newsfeed_master/ifeed/Jtopi/Feeder.php" timestamp="1534815559466">
         <mark key="[" line="242" column="0" />
@@ -770,11 +777,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/RankingController.php" timestamp="1536225486529">
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="97" column="12" />
-        <mark key="." line="97" column="12" />
-        <mark key="^" line="97" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/RankingController.php" timestamp="1536631763609">
+        <mark key="[" line="90" column="76" />
+        <mark key="]" line="90" column="74" />
+        <mark key="." line="90" column="74" />
+        <mark key="^" line="90" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/NewsList.php" timestamp="1535968286329">
         <mark key="[" line="34" column="0" />
@@ -832,11 +839,11 @@
         <mark key="." line="561" column="35" />
         <mark key="^" line="561" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SeriesController.php" timestamp="1536285758461">
-        <mark key="[" line="81" column="82" />
-        <mark key="]" line="90" column="12" />
-        <mark key="^" line="90" column="12" />
-        <mark key="." line="90" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SeriesController.php" timestamp="1536631971026">
+        <mark key="[" line="81" column="74" />
+        <mark key="]" line="81" column="73" />
+        <mark key="^" line="81" column="73" />
+        <mark key="." line="81" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-pc/htdocs/review/subgenre/detail/index.php" timestamp="1535082797372">
         <mark key="[" line="215" column="0" />
@@ -1028,11 +1035,11 @@
         <mark key="]" line="168" column="48" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/ArticleController.php" timestamp="1536285157505">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="110" />
-        <mark key="." line="124" column="13" />
-        <mark key="^" line="124" column="28" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/ArticleController.php" timestamp="1536631905901">
+        <mark key="[" line="110" column="75" />
+        <mark key="]" line="110" column="74" />
+        <mark key="." line="110" column="74" />
+        <mark key="^" line="110" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/views/pages/news_search/tag/index.tpl" timestamp="1534996205393">
         <mark key="[" line="5" column="48" />
