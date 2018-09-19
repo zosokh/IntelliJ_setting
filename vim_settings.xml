@@ -277,16 +277,17 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/elements/comment/post.blade.php" timestamp="1537339997244">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="74" />
-        <mark key="^" line="6" column="74" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/elements/comment/post.blade.php" timestamp="1537345079006">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+        <mark key="^" line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/public/web/js/comment_action.js" timestamp="1537340378953">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/public/web/js/comment_action.js" timestamp="1537346175456">
+        <mark key="[" line="157" column="30" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+        <mark key="^" line="129" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/newsfeed_master/ifeed/Karapaia/Feeder.php" timestamp="1534815654855">
         <mark key="[" line="162" column="0" />
@@ -943,13 +944,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcG9zdEJ0biIpLnJlbW92ZUF0dHIoImRpc2FibGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdHRlc3QnKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
@@ -958,34 +959,34 @@
         <text encoding="base64">dmFyX2R1bXAoJHBhZ2VDYXRlZ29yeSk7ZXhpdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcG9zdEJ0biIpLnJlbW92ZUF0dHIoImRpc2FibGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdHRlc3QnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcG9zdEJ0biIpLnJlbW92ZUF0dHIoImRpc2FibGVkIik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IodGFyZ2V0KSk7CiAgICAvLyByZXR1cm47Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBuYW1lPSIiIGNsYXNzPSJidXR0b24gcHJpbWFyeS1iZy1idXR0b24iIHZhbHVlPSLjgrPjg6Hjg7Pjg4jjgZnjgosiIGlkPSJwb3N0QnRuIj4K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKG1zZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MgozCjQK</text>
+        <text encoding="base64">ICAgICAgICAkKHRhcmdldCkuZmFkZU91dCgic2xvdyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICQodGFyZ2V0KS5mYWRlSW4oInNsb3ciKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogRE9N5qeL56+J5a6M5LqG5pmC44Gr5a6f6KGM44GX44Gf44GE44K544Kv44Oq44OX44OIKi8K</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgZnVuY3Rpb24gZ2V0Q29va2llKGtleSl7CiAgICAgICAgICAgIHZhciBjb29raWVzID0gZG9jdW1lbnQuY29va2llLnNwbGl0KCc7ICcpOwogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGNvb2tpZXMubGVuZ3RoOyBpKyspewogICAgICAgICAgICAgICAgdmFyIGMgPSBjb29raWVzW2ldLnNwbGl0KCc9Jyk7CiAgICAgICAgICAgICAgICBpZihjWzBdID09IGtleSl7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNbMV07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgdmFyIHVpZCA9IGdldENvb2tpZSgnVUlEJyk7CiAgICAgICAgY29uc29sZS5sb2codWlkKTsKICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoZWNrYm94KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgZnVuY3Rpb24gZ2V0Q29va2llKGtleSl7CiAgICAgICAgICAgIHZhciBjb29raWVzID0gZG9jdW1lbnQuY29va2llLnNwbGl0KCc7ICcpOwogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGNvb2tpZXMubGVuZ3RoOyBpKyspewogICAgICAgICAgICAgICAgdmFyIGMgPSBjb29raWVzW2ldLnNwbGl0KCc9Jyk7CiAgICAgICAgICAgICAgICBpZihjWzBdID09IGtleSl7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNbMV07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgdmFyIHVpZCA9IGdldENvb2tpZSgnVUlEJyk7CiAgICAgICAgY29uc29sZS5sb2codWlkKTsKICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
