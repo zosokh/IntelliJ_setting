@@ -275,9 +275,9 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/postcomment.js" timestamp="1537528883619">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="22" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/postcomment.js" timestamp="1537530711823">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
         <mark key="^" line="72" column="22" />
         <mark key="." line="72" column="22" />
       </file>
@@ -701,7 +701,7 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/common.js" timestamp="1537529359790">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/common.js" timestamp="1537530736834">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -774,6 +774,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/evaluate.js" timestamp="1537530543511">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/newsfeed_master/ifeed/jisin/Feeder.php" timestamp="1534815491767">
         <mark key="[" line="218" column="0" />
@@ -1041,8 +1047,8 @@
       <jump line="15" column="2" filename="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/commentaction.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY29tbW9uID0gcmVxdWlyZSgnLi9jb21tb24uanMnKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1054,7 +1060,7 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBub2RlID0gZWxlbWVudE5vZGU7Cg==</text>
+        <text encoding="base64">Y29uc3QgY29tbW9uID0gcmVxdWlyZSgnLi9jb21tb24uanMnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh1aWQpOwo=</text>
