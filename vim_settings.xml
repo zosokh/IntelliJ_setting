@@ -377,11 +377,11 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/postcomment.js" timestamp="1538040945291">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="12" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/postcomment.js" timestamp="1539237234148">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Utils/BrowseChecker.php" timestamp="1538366983778">
         <mark key="[" line="36" column="39" />
@@ -805,7 +805,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBnYeOCpOODmeODs+ODiOioreWumgogIC8vIGNvbnN0IGVEYXRhID0gJCh0aGlzKS5nZXRBdHRyaWJ1dGUoJ2RhdGEtZXgnKTsKICAvLyBjb25zdCB0bXBEYXRhID0gZURhdGEuc3BsaXQoIjoiKTsKICAvLyBjb25zdCBnYUFjdGlvbiA9ICJjbGljayI7CiAgLy8gY29uc3QgZ2FDYXRlZ29yeSA9IHRtcERhdGFbMV0gfHwgIiI7CiAgLy8gY29uc3QgZ2FMYWJlbCA9IHRtcERhdGFbMl0gfHwgIiI7CiAgLy8gZ2EoJ3NlbmQnLCAnZXZlbnQnLCBnYUNhdGVnb3J5LCBnYUFjdGlvbiwgZ2FMYWJlbCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -820,39 +820,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhbXAtYWQgdHlwZT0iZG91YmxlY2xpY2siIGRhdGEtc2xvdD0iLzE4MzMzMDA4L0FNUF9uZXdzX2luZmVlZDB7ISEgKyskYWRJbmRleCAhIX0iIGxheW91dD0iZmx1aWQiIGhlaWdodD0iZmx1aWQiIGpzb249J3shISBhZEFtcEV2ZW50KCRhbXBBZFNldHRpbmcgPz8gW10pICEhfSc+PC9hbXAtYWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBnYeOCpOODmeODs+ODiOioreWumgogIC8vIGNvbnN0IGVEYXRhID0gJCh0aGlzKS5nZXRBdHRyaWJ1dGUoJ2RhdGEtZXgnKTsKICAvLyBjb25zdCB0bXBEYXRhID0gZURhdGEuc3BsaXQoIjoiKTsKICAvLyBjb25zdCBnYUFjdGlvbiA9ICJjbGljayI7CiAgLy8gY29uc3QgZ2FDYXRlZ29yeSA9IHRtcERhdGFbMV0gfHwgIiI7CiAgLy8gY29uc3QgZ2FMYWJlbCA9IHRtcERhdGFbMl0gfHwgIiI7CiAgLy8gZ2EoJ3NlbmQnLCAnZXZlbnQnLCBnYUNhdGVnb3J5LCBnYUFjdGlvbiwgZ2FMYWJlbCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgJG5ld3NbJ3VybCddIH19IiB7ISEgZ2FFdmVudEFtcCgkZ2FDYXRlZ29yeSA/PyBudWxsLCAnY2xpY2snLCAiYXJ0aWNsZS1saXN0LXskbG9vcC0+aXRlcmF0aW9ufSIpICEhfT4KPT09PT09PQogICAgICAgIDxsaSBjbGFzcz0ibGlzdC1pdGVtIj4K</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ie3sgJG5ld3NbJ3VybCddIH19IiB7ISEgZ2FFdmVudEFtcCgkZ2FDYXRlZ29yeSA/PyBudWxsLCAnY2xpY2snLCAiYXJ0aWNsZS1saXN0LXskbG9vcC0+aXRlcmF0aW9ufSIpICEhfT4KPT09PT09PQogICAgICAgIDxsaSBjbGFzcz0ibGlzdC1pdGVtIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3stLUBlbHNlaWYgKCRsb29wLT5pdGVyYXRpb24gPiA1ICYmICgkbG9vcC0+aXRlcmF0aW9uIC0gNSkgJSA0ID09IDApLS19fQogICAgICAgICAgICAgICAge3stLTxhbXAtYWQgdHlwZT0iZG91YmxlY2xpY2siIGRhdGEtc2xvdD0iLzE4MzMzMDA4L0FNUF9uZXdzX2luZmVlZDB7ISEgKyskYWRJbmRleCAhIX0iIGxheW91dD0iZmx1aWQiIGhlaWdodD0iZmx1aWQiIGpzb249J3shISBhZEFtcEV2ZW50KCRhbXBBZFNldHRpbmcgPz8gW10pICEhfSc+PC9hbXAtYWQ+LS19fQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3R0ZXN0dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3stLUBlbHNlaWYgKCRsb29wLT5pdGVyYXRpb24gPiA1ICYmICgkbG9vcC0+aXRlcmF0aW9uIC0gNSkgJSA0ID09IDApLS19fQogICAgICAgICAgICAgICAge3stLTxhbXAtYWQgdHlwZT0iZG91YmxlY2xpY2siIGRhdGEtc2xvdD0iLzE4MzMzMDA4L0FNUF9uZXdzX2luZmVlZDB7ISEgKyskYWRJbmRleCAhIX0iIGxheW91dD0iZmx1aWQiIGhlaWdodD0iZmx1aWQiIGpzb249J3shISBhZEFtcEV2ZW50KCRhbXBBZFNldHRpbmcgPz8gW10pICEhfSc+PC9hbXAtYWQ+LS19fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3R0ZXN0dGVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRJbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkYWRJbmRleCA9IDA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if ($listNum % 3 === 0) {
-                $result[$key]['isAd'] = true;
-                $result[$key]['adIndex'] = $adIndex++;
-            } else {
-                $result[$key]['isAd'] = false;
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
