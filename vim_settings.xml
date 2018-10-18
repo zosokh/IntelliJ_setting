@@ -450,6 +450,9 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/amp/elements/commonMeta.blade.php" timestamp="1539582621131">
+        <mark key="[" line="39" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteTrendNews/Publisher.php" timestamp="1536906052094">
         <mark key="[" line="376" column="5" />
         <mark key="]" line="377" column="14" />
@@ -563,6 +566,12 @@
         <mark key="^" line="82" column="84" />
         <mark key="." line="82" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/ArticleController.php" timestamp="1539848299699">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/vagrant/ubuntu14_0_4/app/malaysia/wp-content/themes/malaysia/parts/footer/banner_area.php" timestamp="1538437939873">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="28" />
@@ -646,6 +655,9 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539848834625">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/load.js" timestamp="1539244258263">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="7" />
@@ -658,10 +670,11 @@
         <mark key="." line="6" column="69" />
         <mark key="^" line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1539827377448">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/TagController.php" timestamp="1539849223740">
+        <mark key="[" line="240" column="42" />
+        <mark key="]" line="240" column="54" />
+        <mark key="." line="240" column="54" />
+        <mark key="^" line="240" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/FeatureBaseWebTest.php" timestamp="1539827694471">
         <mark key="[" line="57" column="0" />
@@ -844,13 +857,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHAoJHBhdGgpOwovLyAgICAgICAgZGQoJHBhZ2VyKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>thumb</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
@@ -859,34 +872,34 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5nZXQoJy93b3JsZC90YWcvMjAxOC8nKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHAoJHBhdGgpOwovLyAgICAgICAgZGQoJHBhZ2VyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRuZXdzUmFua2luZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGFtcC1hZCB0eXBlPSJkb3VibGVjbGljayIgZGF0YS1zbG90PSIvMTgzMzMwMDgvQU1QX25ld3NfYmlsbGJvYXJkIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjE4MCIKICAgICAgICBkYXRhLW11bHRpLXNpemU9IjMyMHgxMDAsMzIweDcwLDMyMHg1MCIganNvbj0neyEhIGFkQW1wRXZlbnQoJGFtcEFkU2V0dGluZyA/PyBbXSkgISF9Jz48L2FtcC1hZD4K</text>
+        <text encoding="base64">ICAgICAgICBwKCRwYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3c19saXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXNBbXBodG1sKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5nZXQoJy93b3JsZC90YWcvMjAxOC8nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRpc3BsYXlfZ3JvdXDjgYzpgZXjgZHjgozjgbDjgrnjg6vjg7wK</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRuZXdzUmFua2luZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">PGFtcC1hZCB0eXBlPSJkb3VibGVjbGljayIgZGF0YS1zbG90PSIvMTgzMzMwMDgvQU1QX25ld3NfYmlsbGJvYXJkIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjE4MCIKICAgICAgICBkYXRhLW11bHRpLXNpemU9IjMyMHgxMDAsMzIweDcwLDMyMHg1MCIganNvbj0neyEhIGFkQW1wRXZlbnQoJGFtcEFkU2V0dGluZyA/PyBbXSkgISF9Jz48L2FtcC1hZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkdmFybGlzdCk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmV3c19saXN0KTtleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRwaG90b0xpc3QpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -929,13 +942,13 @@
         <entry>ww</entry>
         <entry>aw</entry>
         <entry>.w</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>we</entry>
         <entry>:w</entry>
         <entry>qw</entry>
         <entry>wq</entry>
         <entry>w]</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
