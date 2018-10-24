@@ -123,7 +123,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/GoogleAnalyticsExcite2020PageViewPublisher.php" timestamp="1540348505051" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/GoogleAnalyticsExcite2020PageViewPublisher.php" timestamp="1540351234141" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/Excite/Er/Matome/List.debug.yml" timestamp="1538730394674">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="6" />
@@ -194,7 +194,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/TopRanking2020Publisher.php" timestamp="1540348876949" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/TopRanking2020Publisher.php" timestamp="1540351358352">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="238" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/pages/sourceList.blade.php" timestamp="1536902566870">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="32" column="9" />
@@ -497,6 +502,10 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.live.NewsConf.php" timestamp="1540350607502">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/assets/js/comment/asynclist.js" timestamp="1538036420001">
         <mark key="[" line="26" column="2" />
         <mark key="]" line="26" column="2" />
@@ -526,11 +535,11 @@
         <mark key="." line="82" column="44" />
         <mark key="^" line="82" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.test.NewsConf.php" timestamp="1539732590618">
-        <mark key="[" line="92" column="66" />
-        <mark key="]" line="92" column="65" />
-        <mark key="^" line="92" column="65" />
-        <mark key="." line="92" column="65" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.test.NewsConf.php" timestamp="1540350620853">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="55" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="21" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Source.php" timestamp="1536905001962">
         <mark key="[" line="21" column="0" />
@@ -544,11 +553,11 @@
         <mark key="." line="44" column="47" />
         <mark key="^" line="44" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/GoogleAnalyticsExcite2020PageView.php" timestamp="1540348582936">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="415" column="49" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/GoogleAnalyticsExcite2020PageView.php" timestamp="1540351221687">
+        <mark key="[" line="557" column="5" />
+        <mark key="]" line="578" column="4" />
+        <mark key="^" line="578" column="4" />
+        <mark key="." line="578" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-sp/Excite/Er/Matome/Detail.debug.yml" timestamp="1538730380028">
         <mark key="[" line="0" column="13" />
@@ -878,7 +887,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPnJlcG9ydCk7ZXhpdDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -890,22 +899,22 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlLT53aXRoSGVhZGVycygkY29udGVudFsnc3Vycm9nYXRlSGVhZGVyJ10pOwo=</text>
+        <text encoding="base64">ZGVmaW5lKCdEU05fU0VMRUNUJywnbXlzcWw6Ly9uZXdzOnN1MGdhOXJ1QG5ld3MtZGItbWFzdGVyLmV4Y2l0ZS5jby5qcC9uZXdzZGInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPnJlcG9ydCk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPm1vZGVzKTtleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
@@ -920,7 +929,7 @@
         <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3ViY2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
