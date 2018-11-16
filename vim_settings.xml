@@ -107,6 +107,13 @@
         <mark key="." line="87" column="17" />
         <mark key="^" line="87" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/elements/comment/list.blade.php" timestamp="1542352582519">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Helpers/helpers.php" timestamp="1542164524435">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -173,7 +180,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/pages/article.blade.php" timestamp="1542184199340" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/pages/article.blade.php" timestamp="1542352605813">
+        <mark key="[" line="46" column="216" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/news_comment/post/index.php" timestamp="1541152303815">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -252,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/social_share.tpl" />
       <jump line="65" column="99" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/series_newslist.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/views/elements/amp/series_newslist.tpl" />
       <jump line="37" column="19" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/htdocs/amp/index.php" />
@@ -352,10 +363,11 @@
       <jump line="61" column="61" filename="$USER_HOME$/Documents/mount_dir/excitenews-api/libs/pear/php/BEAR/Cache/Adapter/Redis.php" />
       <jump line="127" column="58" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/Fastly/IplistNginxConfPublisher.php" />
       <jump line="11" column="6" filename="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/Unit/PagerTest.php" />
+      <jump line="0" column="24" filename="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/elements/comment/list.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRwYWdlcik7Cg==</text>
+        <text encoding="base64">QGlmICgkbmV3c1snc291cmNlX3NibV9mbGcnXSA/PyB0cnVlKQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -367,7 +379,7 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJHBhZ2VyWydsaW5rcyddWzFdWydmaXJzdExlYXBlZCddKTsK</text>
+        <text encoding="base64">QGlmICgkbmV3c1snc291cmNlX3NibV9mbGcnXSA/PyB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRkKCRwYWdlcik7Cg==</text>
