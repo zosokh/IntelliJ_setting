@@ -589,12 +589,12 @@
         <mark key="." line="79" column="155" />
         <mark key="^" line="79" column="155" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/Sitemap2020/KeywordsSitemapPublisher.php" timestamp="1542861738379">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/Sitemap2020/KeywordsSitemapPublisher.php" timestamp="1542864636514">
         <mark key="'" line="138" column="28" />
-        <mark key="[" line="287" column="20" />
-        <mark key="]" line="287" column="20" />
-        <mark key="." line="287" column="20" />
-        <mark key="^" line="287" column="20" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="31" />
+        <mark key="^" line="277" column="58" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewNewsSolr.php" timestamp="1542793776718">
         <mark key="[" line="12" column="9" />
@@ -937,11 +937,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.SolrQueryBuilder.php" timestamp="1542861832073">
-        <mark key="[" line="204" column="53" />
-        <mark key="]" line="194" column="79" />
-        <mark key="^" line="194" column="79" />
-        <mark key="." line="194" column="79" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.SolrQueryBuilder.php" timestamp="1542864127567">
+        <mark key="[" line="189" column="31" />
+        <mark key="]" line="190" column="6" />
+        <mark key="^" line="190" column="6" />
+        <mark key="." line="190" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.NewsConf.php" timestamp="1541731877579">
         <mark key="[" line="373" column="37" />
@@ -988,11 +988,10 @@
         <mark key="^" line="182" column="83" />
         <mark key="." line="182" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/MakeBayesData/WordlistMake.php" timestamp="1542862720342">
-        <mark key="[" line="196" column="42" />
-        <mark key="]" line="197" column="23" />
-        <mark key="^" line="197" column="23" />
-        <mark key="." line="197" column="23" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/MakeBayesData/WordlistMake.php" timestamp="1542864601154">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/amp/elements/commentRanking.blade.php" timestamp="1540861703658">
         <mark key="[" line="10" column="74" />
@@ -1152,7 +1151,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkY250ID4gOCkgewogICAgICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTtleGl0Owo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1167,34 +1166,34 @@
         <text encoding="base64">IyAgICBzbGF2ZSAgOiAnbXlzcWxpOi8vbmV3czpzdTBnYTlydUBuZXdzLWRiLXNsYXZlLmV4Y2l0ZS5jby5qcC9uZXdzZGI/Y2hhcnNldD11dGY4Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkY250ID4gOCkgewogICAgICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTtleGl0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRuZXdzTnVtKTtleGl0Owo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTtleGl0Owo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcXVlcnkpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRrZXl3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRmaWx0ZXJRdWVyeSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkY250ID4gOCkgewogICAgICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRrZXl3b3JkKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwKF9CRUFSX0RBVEVUSU1FKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRuZXdzTnVtKTtleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
