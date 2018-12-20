@@ -25,6 +25,7 @@
         <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewNews.php" timestamp="1545206535602" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/01TemplateFeeder/Feeder.php" timestamp="1545272362964" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/SubcategoryController.php" timestamp="1544411094756">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -120,11 +121,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Cafeglobe/Feeder.php" timestamp="1545271288382">
-        <mark key="[" line="226" column="33" />
-        <mark key="]" line="226" column="68" />
-        <mark key="." line="226" column="68" />
-        <mark key="^" line="226" column="68" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Cafeglobe/Feeder.php" timestamp="1545272554209">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="418" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/TwitterRtCounter.php" timestamp="1541661412505">
         <mark key="[" line="39" column="0" />
@@ -497,7 +498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7ZXhpdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -512,34 +513,34 @@
         <text encoding="base64">ICAgICAgICAnZGlnZXN0MycgPT4gdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7ZXhpdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7ZXhpdDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7ZXhpdDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9ICR0aGlzLT5fZ2V0Q29udGVudCgkaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3MtPm5ld3Njb2RlKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udGVudCA9ICR0aGlzLT5fZ2V0Q29udGVudCgkaXRlbSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmVlZCk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG5ld3MtPm5ld3Njb2RlKTtleGl0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5LiN6KaB44OH44O844K/5YmK6ZmkCiAgICAgICAgICAgIHVuc2V0KCRlbnRyeURhdGFbJ25ld3Njb2RlJ10pOwogICAgICAgICAgICB1bnNldCgkZW50cnlEYXRhWydhY3RpdmUnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmVlZCk7ZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5LiN6KaB44OH44O844K/5YmK6ZmkCiAgICAgICAgICAgIHVuc2V0KCRlbnRyeURhdGFbJ25ld3Njb2RlJ10pOwogICAgICAgICAgICB1bnNldCgkZW50cnlEYXRhWydhY3RpdmUnXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
