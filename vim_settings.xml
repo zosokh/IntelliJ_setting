@@ -35,11 +35,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/Unit/SeoDigest.php" timestamp="1548323673395">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="22" column="63" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/Unit/SeoDigest.php" timestamp="1548389967616">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/laurier-api/src/Module/AppModule.php" timestamp="1545964151124">
         <mark key="[" line="66" column="0" />
@@ -187,7 +186,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Helpers/helpers.php" timestamp="1548316055584" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/SeoDigest.php" timestamp="1548388190283">
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/SeoDigest.php" timestamp="1548389702222">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="20" />
@@ -537,10 +536,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Article.php" timestamp="1548388629902">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/Article.php" timestamp="1548389475490">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.OutputSpreadsheet.php" timestamp="1545197524707">
         <mark key="[" line="37" column="12" />
@@ -661,7 +660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNUQVRJQ19EQVRBX0tFWSA9ICdzZW8tbmV3cy1kaWdlc3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMCwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMSwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMiwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -676,34 +675,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEFycmF5SGFzS2V5KCdkaWdlc3QnLCAkbmV3cywgJ2RpZ2VzdOODkeODqeODoeODvOOCv+ODgeOCp+ODg+OCrycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNUQVRJQ19EQVRBX0tFWSA9ICdzZW8tbmV3cy1kaWdlc3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMCwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMSwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoMiwgJHJlc3VsdFsnc2VvRGlnZXN0J10sICdzZW9EaWdlc3Tjg5Hjg6njg6Hjg7zjgr/jg4Hjgqfjg4Pjgq8nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkcmVzdWx0WydzZW9EaWdlc3QnXSBhcyAkZGlnZXN0KSB7CiAgICAgICAgICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnbmV3cycsICRuZXdzLCAnbmV3c+ODkeODqeODoeODvOOCv+ODgeOCp+ODg+OCrycpOwogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2RpZ2VzdCcsICRuZXdzLCAnZGlnZXN044OR44Op44Oh44O844K/44OB44Kn44OD44KvJyk7CiAgICAgICAgICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnc2VvdGl0bGUnLCAkbmV3c1snZGlnZXN0J10sICdzZW90aXRsZeODkeODqeODoeODvOOCv+ODgeOCp+ODg+OCrycpOwogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0Tm90RW1wdHkoJG5ld3NbJ2RpZ2VzdCddWydzZW90aXRsZSddLCAnc2VvdGl0bGXjgYznqbrjgafnhKHjgYTjgYvjg4Hjgqfjg4Pjgq8nKTsKICAgICAgICAgICAgJHRoaXMtPmFzc2VydE5vdE51bGwoJG5ld3NbJ25ld3MnXVsnaW1hZ2UnXSwgJ2ltYWdl44GMbnVsbOOBp+eEoeOBhOOBi+ODgeOCp+ODg+OCrycpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU0VP55So5YWl56i/44OH44O844K/44KS6Kit5a6aCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRuZXdzCiAgICAgKiBAdGhyb3dzIFxFeGNlcHRpb24KICAgICAqLwogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGFkZFNlb05ld3NEaWdlc3REYXRhKGFycmF5ICYkbmV3cykKICAgIHsKICAgICAgICAkc2VvRGF0YUxpc3QgPSBTdGF0aWNGaWxlOjpnZXRTdGF0aWNEYXRhKHNlbGY6OlNUQVRJQ19EQVRBX0tFWSk7CiAgICAgICAgaWYgKGVtcHR5KCRzZW9EYXRhTGlzdFskbmV3c1snbmV3c2NvZGUnXV0pKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgZm9yZWFjaCAoJHNlb0RhdGFMaXN0WyRuZXdzWyduZXdzY29kZSddXSBhcyAka2luZCA9PiAkc2VvRGF0YSkgewogICAgICAgICAgICBpZiAoJGtpbmQgPT0gJ3Nlb3RpdGxlJykgewogICAgICAgICAgICAgICAgJG5ld3NbJ3Nlb3RpdGxlJ10gPSAkc2VvRGF0YUxpc3RbJG5ld3NbJ25ld3Njb2RlJ11dWydzZW90aXRsZSddOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHByZWdfbWF0Y2goIi9eZGlnZXN0KFxkKSQvIiwgJGtpbmQsICRtYWNoZXMpKSB7CiAgICAgICAgICAgICAgICAkbmV3c1snc2VvRGlnZXN0J11bJG1hY2hlc1sxXSAtIDFdID0gJHNlb0RhdGE7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0R3JlYXRlclRoYW5PckVxdWFsKGNvdW50KCRyZXN1bHQpLCAzLCAn5YCL5pWw44GMM+WAi+S7peS4iycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU2VvTmV3c0RpZ2VzdERhdGEoJHJlc3VsdFsnYm9keSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3Nlb3RpdGxlJywgJHJlc3VsdFsnZGlnZXN0J10sICdzZW90aXRsZeODkeODqeODoeODvOOCv+ODgeOCp+ODg+OCrycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bmV3c1RvcERpZ2VzdExpc3QpO2V4aXQ7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxBcGlcU3RhdGljRmlsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgn44OI44OD44OX44OL44Ol44O844K56KKr44KKJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFNUQVRJQ19EQVRBX0tFWSA9ICdzZW8tbmV3cy1kaWdlc3QnOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgn55S75YOP44Gq44GXJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRkaWdlc3RMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
