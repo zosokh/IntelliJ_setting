@@ -55,6 +55,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Api/NewsApiClient.php" timestamp="1548750216468">
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="87" column="36" />
+        <mark key="^" line="87" column="36" />
+        <mark key="." line="87" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/pages/info.blade.php" timestamp="1548145886499">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -66,11 +72,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env" timestamp="1548743053547">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env" timestamp="1548750009116">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/elements/staffRecomend.blade.php" timestamp="1548323918230">
         <mark key="[" line="5" column="135" />
@@ -103,6 +109,12 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/app.yml" timestamp="1548750305972">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/config/const.php" timestamp="1548725838277">
         <mark key="[" line="5" column="29" />
       </file>
@@ -131,6 +143,7 @@
         <mark key="^" line="8" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Helpers/helpers.php" timestamp="1548731568534" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/matome/detail/cachemanage/index.php" timestamp="1548750257396" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/SeoDigest.php" timestamp="1548389702222">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="35" column="20" />
@@ -220,6 +233,12 @@
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Controllers/MatomeArticleController.php" timestamp="1548749787170">
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/SnsShare/RtCountTweetPost.php" timestamp="1548043472245">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -252,6 +271,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Models/MatomeArticle.php" timestamp="1548749817763">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/pc/pages/subcategory.blade.php" timestamp="1548741358564" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env.stage" timestamp="1548743046935">
@@ -371,7 +396,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRlbmFibGVVcGRhdGVUaW1lIH19Cg==</text>
+        <text encoding="base64">ICAgIHNsYXZlICA6ICdteXNxbGk6Ly9uZXdzOnN1MGdhOXJ1QG5ld3MtZGItc2xhdmUuZXhjaXRlLmNvLmpwL25ld3NkYj9jaGFyc2V0PXV0ZjgnCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -383,7 +408,7 @@
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zWydlbmFibGVkJ10gPSAxOwo=</text>
+        <text encoding="base64">ICAgIHNsYXZlICA6ICdteXNxbGk6Ly9uZXdzOnN1MGdhOXJ1QG5ld3MtZGItc2xhdmUuZXhjaXRlLmNvLmpwL25ld3NkYj9jaGFyc2V0PXV0ZjgnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRlbmFibGVVcGRhdGVUaW1lIH19Cg==</text>
