@@ -79,10 +79,11 @@
         <mark key="." line="85" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/nginx/stage.conf" timestamp="1549510446488" />
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Middleware/AddResponseHeaders.php" timestamp="1549503976559">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Http/Middleware/AddResponseHeaders.php" timestamp="1549514722752">
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="71" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/resources/views/sp/pages/info.blade.php" timestamp="1548145886499">
         <mark key="[" line="5" column="13" />
@@ -167,10 +168,11 @@
         <mark key="." line="8" column="71" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Helpers/helpers.php" timestamp="1549503232627">
-        <mark key="[" line="1073" column="0" />
-        <mark key="]" line="1073" column="0" />
-        <mark key="." line="1073" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/app/Helpers/helpers.php" timestamp="1549513899299">
+        <mark key="[" line="1073" column="88" />
+        <mark key="]" line="1073" column="67" />
+        <mark key="." line="1073" column="67" />
+        <mark key="^" line="1073" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/htdocs/api/matome/detail/cachemanage/index.php" timestamp="1548752646498">
         <mark key="[" line="62" column="0" />
@@ -485,7 +487,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>storage_path('logs/laravel.log')</text>
+        <text>sprintf(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
@@ -500,28 +502,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAncGF0aCcgPT4gc3RvcmFnZV9wYXRoKCdsb2dzL2xhcmF2ZWwubG9nJyksCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAncGF0aCcgPT4gc3RvcmFnZV9wYXRoKCdsb2dzL2xhcmF2ZWwubG9nJyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAncGF0aCcgPT4gc3RvcmFnZV9wYXRoKCdsb2dzL2xhcmF2ZWwubG9nJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZChlbnYoJ0FQUF9FTlYnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgICAkc3VtbWFyeSDjgrXjg57jg6rmloflrZfliJcKICAgICAqIEBwYXJhbSBpbnR8bnVsbCAkbGVuZ3RoICDliLbpmZDmloflrZfmlbAK</text>
+        <text encoding="base64">ICAgICAgICBkZChlbnYoJ0FQUF9FTlYnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgICAkc3VtbWFyeSDjgrXjg57jg6rmloflrZfliJcKICAgICAqIEBwYXJhbSBpbnR8bnVsbCAkbGVuZ3RoICDliLbpmZDmloflrZfmlbAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYoJ0FQUF9ERUJVRycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
