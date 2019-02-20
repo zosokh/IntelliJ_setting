@@ -119,11 +119,11 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/NewsList.vue" timestamp="1550571636858">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/NewsList.vue" timestamp="1550622419138">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env.stage-outside" timestamp="1549518726538">
         <mark key="[" line="50" column="0" />
@@ -272,6 +272,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/Modal.vue" timestamp="1550622125660">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="40" column="5" />
+        <mark key="^" line="39" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/tweet_manage/trend/edit/index.php" timestamp="1550023399865">
         <mark key="[" line="63" column="61" />
         <mark key="]" line="63" column="61" />
@@ -347,7 +353,7 @@
         <mark key="." line="79" column="47" />
         <mark key="^" line="79" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/SeodigestPanel.vue" timestamp="1550621030663">
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/SeodigestPanel.vue" timestamp="1550621879573">
         <mark key="[" line="77" column="50" />
         <mark key="]" line="77" column="26" />
         <mark key="^" line="77" column="26" />
@@ -402,11 +408,6 @@
         <mark key="]" line="42" column="20" />
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/webpack.config.js" timestamp="1550544693858">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/views/pages/seo_digest/index.yml" timestamp="1550551296802">
         <mark key="[" line="6" column="17" />
@@ -674,14 +675,14 @@
       <jump line="46" column="14" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/seo_digest/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
@@ -690,32 +691,31 @@
         <text encoding="base64">ICBpbXBvcnQgTWlkZGxlSW5mbyBmcm9tICcuL01pZGRsZUluZm8udnVlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgIHByb2Nlc3NlZFBvc3RzKCkgewogICAgICAgIGlmICh0aGlzLnJlc3VsdGFwaS5uZXdzbGlzdCA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGxldCBwb3N0cyA9IHRoaXMucmVzdWx0YXBpLm5ld3NsaXN0OwoKICAgICAgICAvLyBBZGQgaW1hZ2VfdXJsIGF0dHJpYnV0ZQogICAgICAgIHBvc3RzLm1hcChwb3N0ID0+IHsKICAgICAgICAgIHBvc3QubmV3c191cmwgPSBgaHR0cHM6Ly93d3cuZXhjaXRlLmNvLmpwL25ld3MvYXJ0aWNsZS8ke3Bvc3QubmV3c2NvZGV9YDsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gcG9zdHM7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExJU1RfU0laRSA9IDUwOwoKICAgIGNvbnN0IEdPQUxfU0VPUE9TVF9MSU5FID0gMzAwOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgTW9kYWwKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0Q2F0ZWdvcnlMaXN0KCRhcmdzKQogICAgewogICAgICAgICRzZWxlY3RDYXRlZ29yeSA9ICdhbGwnOwoKICAgICAgICAvLyDooajnpLrjgrjjg6Pjg7Pjg6vlj5blvpcKICAgICAgICAkcGFyYW1zID0gWyd1cmknID0+ICdHZW5yZS55bWwnXTsKICAgICAgICAkZ2VucmUgPSAkdGhpcy0+X3Jlc291cmNlLT5yZWFkKCRwYXJhbXMpLT5nZXRCb2R5KCk7CgogICAgICAgIC8vIOOCteODluOCq+ODhuOCtOODquOCueODiOOCkuWPluW+lwogICAgICAgICRwYXJhbXMgPSBbJ3VyaScgPT4gJ1Rvb2wvVG9wbmV3cy9wYWNrYWdlY2F0ZWdvcnkueW1sJ107CiAgICAgICAgJHBhY2thZ2VDYXRlZ29yeUxpc3QgPSAkdGhpcy0+X3Jlc291cmNlLT5yZWFkKCRwYXJhbXMpLT5nZXRCb2R5KCk7CgogICAgICAgIC8vIOOCq+ODhuOCtOODquODquOCueODiOOCkuaVtOW9ogogICAgICAgICRjYXRlZ29yeUxpc3QgPSBbXTsKICAgICAgICAkcGFyZW50Q2F0ZWdvcnkgPSAnJzsKICAgICAgICBmb3JlYWNoICgkZ2VucmUgYXMgJHBhcmVudEdlbnJlSWQgPT4gJHBhcmVudEdlbnJlTmFtZSkgewogICAgICAgICAgICBpZiAoZW1wdHkoJHBhY2thZ2VDYXRlZ29yeUxpc3RbJHBhcmVudEdlbnJlSWRdKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJGNhdGVnb3J5TGlzdFskcGFyZW50R2VucmVJZF1bJ25hbWUnXSA9ICRwYXJlbnRHZW5yZU5hbWU7CiAgICAgICAgICAgICRjYXRlZ29yeUxpc3RbJHBhcmVudEdlbnJlSWRdWydzdWJnZW5yZSddID0gJHBhY2thZ2VDYXRlZ29yeUxpc3RbJHBhcmVudEdlbnJlSWRdOwoKICAgICAgICAgICAgLy8gYXJnc+OBruOCq+ODhuOCtOODquOBjOWtmOWcqOOBmeOCjOOBsOOAgXNlbGVjdENhdGVnb3J544Go44GX44Gm6Kit5a6a44GZ44KLCiAgICAgICAgICAgIGlmICghZW1wdHkoJHBhY2thZ2VDYXRlZ29yeUxpc3RbJHBhcmVudEdlbnJlSWRdWyRhcmdzWydwYWNrYWdlX2NhdGVnb3J5J11dKSkgewogICAgICAgICAgICAgICAgJHNlbGVjdENhdGVnb3J5ID0gJGFyZ3NbJ3BhY2thZ2VfY2F0ZWdvcnknXTsKICAgICAgICAgICAgICAgICRwYXJlbnRDYXRlZ29yeSA9ICRwYXJlbnRHZW5yZUlkOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgLy8g6YG45oqe44GM6Kaq44Kr44OG44K044Oq44Gq44KJ44Gw44CB44K144OW44Kr44OG44Gu5pyA5Yid44Gu6KaB57Sg44KS6YG45oqe44Go44GZ44KLCiAgICAgICAgaWYgKCFlbXB0eSgkZ2VucmVbJGFyZ3NbJ3BhY2thZ2VfY2F0ZWdvcnknXV0pKSB7CiAgICAgICAgICAgICRzZWxlY3RDYXRlZ29yeSA9IGFycmF5X2tleXMoJHBhY2thZ2VDYXRlZ29yeUxpc3RbJGFyZ3NbJ3BhY2thZ2VfY2F0ZWdvcnknXV0pWzBdOwogICAgICAgICAgICAkcGFyZW50Q2F0ZWdvcnkgPSAkYXJnc1sncGFja2FnZV9jYXRlZ29yeSddOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGNvbXBhY3QoCiAgICAgICAgICAgICdjYXRlZ29yeUxpc3QnLAogICAgICAgICAgICAnc2VsZWN0Q2F0ZWdvcnknLAogICAgICAgICAgICAncGFyZW50Q2F0ZWdvcnknCiAgICAgICAgKTsKICAgIH0KCgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRTZW9EaWdlc3QoJGFyZ3MsICRiZWZvcmVEYXRlLCAkdG9EYXRlKQogICAgewogICAgICAgIC8vIOODh+ODkOODg+OCsAogICAgICAgICRiZWZvcmVEYXRlID0gZGF0ZSgnWS1tLWQgSDppOnMnLCBzdHJ0b3RpbWUoIiRiZWZvcmVEYXRlIC03IGRheSIpKTsKCiAgICAgICAgJHJldCA9IFsKICAgICAgICAgICAgJ2FsbENvdW50JyA9PiAwLAogICAgICAgICAgICAnZWRpdG9yQ291bnQnID0+IDAsCiAgICAgICAgICAgICdnb2FsTGluZScgPT4gc2VsZjo6R09BTF9TRU9QT1NUX0xJTkUsCiAgICAgICAgICAgICdwcm9ncmVzcycgPT4gJzAlJywKICAgICAgICBdOwogICAgICAgICR2YWx1ZXMgPSBbCiAgICAgICAgICAgICdiZWZvcmVEYXRlJyA9PiAkYmVmb3JlRGF0ZSwKICAgICAgICAgICAgJ3RvRGF0ZScgPT4gJHRvRGF0ZSwKICAgICAgICAgICAgJ2lzQWN0aXZlJyA9PiAxLAogICAgICAgIF07CiAgICAgICAgJHBhcmFtcyA9IFsndXJpJyA9PiAnU2VvRGlnZXN0JywgJ3ZhbHVlcycgPT4gJHZhbHVlc107CiAgICAgICAgJHNlbGVjdFJlc3VsdCA9ICR0aGlzLT5fcmVzb3VyY2UtPnJlYWQoJHBhcmFtcyktPmdldEJvZHkoKTsKICAgICAgICBpZiAoZW1wdHkoJHNlbGVjdFJlc3VsdCkpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXQ7CiAgICAgICAgfQoKICAgICAgICAvLyDntZDmnpzjgpLmlbTlvaIKICAgICAgICAkcmV0WydhbGxDb3VudCddID0gY291bnQoJHNlbGVjdFJlc3VsdCk7CiAgICAgICAgJGVkaXRvclJlY29yZCA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRzZWxlY3RSZXN1bHQgYXMgJHJlY29yZCkgewogICAgICAgICAgICBpZiAoJHJlY29yZFsnZWRpdG9yX2lkJ10gIT0gJGFyZ3NbJ2F1dGgnXVsnZXhjaXRlX2lkJ10pIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRlZGl0b3JSZWNvcmRbXSA9ICRyZWNvcmQ7CiAgICAgICAgfQogICAgICAgICRyZXRbJ2VkaXRvckNvdW50J10gPSBjb3VudCgkZWRpdG9yUmVjb3JkKTsKICAgICAgICAkcmV0Wydwcm9ncmVzcyddID0gcm91bmQoJHJldFsnYWxsQ291bnQnXSAvIHNlbGY6OkdPQUxfU0VPUE9TVF9MSU5FLCAyKSAqIDEwMCAuICclJzsKICAgICAgICByZXR1cm4gJHJldDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgTW9kYWwgZnJvbSAnLi9Nb2RhbC52dWUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsvbGl0ZXJhbH12YXIgY2F0ZWdvcnlJbmZvID0geyRjYXRlZ29yeUluZm98QGpzb25fZW5jb2RlfXtsaXRlcmFsfQogICAgey9saXRlcmFsfXZhciBzZW9EaWdlc3RJbmZvID0geyRzZW9EaWdlc3RJbmZvfEBqc29uX2VuY29kZX17bGl0ZXJhbH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWQgPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGFnaW5nLAogICAgICBNZW51LAogICAgICBNaWRkbGVJbmZvLAogICAgICBIZWFkZXJBcmVhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmjIflrprml6Xjga7ljYjliY0w5pmC44Gr6Kit5a6aCiAgICAgICAgJGJlZm9yZURhdGV0aW1lID0gZGF0ZSgnWS1tLWQgMDA6MDA6MDAnLCBzdHJ0b3RpbWUoJGFyZ3NbJ2RhdGUnXSkpOwogICAgICAgIC8vIOW9k+aXpeS7peWkluOBrzIzOjU5OjU544Gr6Kit5a6aCiAgICAgICAgJHRvRGF0ZVRpbWUgPSBkYXRlKCdZLW0tZCAyMzo1OTo1OScsIHN0cnRvdGltZSgkYXJnc1snZGF0ZSddKSk7CiAgICAgICAgaWYgKHN0cnRvdGltZSgkdG9EYXRlVGltZSkgPiB0aW1lKCkpIHsKICAgICAgICAgICAgJHRvRGF0ZVRpbWUgPSBkYXRlKCdZLW0tZCBIOmk6cycpOwogICAgICAgIH0KCiAgICAgICAgLy8g44Kr44OG44K044Oq5oOF5aCx5Y+W5b6XCiAgICAgICAgJGNhdGVnb3J5SW5mbyA9ICR0aGlzLT5nZXRDYXRlZ29yeUxpc3QoJGFyZ3MpOwoKICAgICAgICAkc2VvRGlnZXN0SW5mbyA9ICR0aGlzLT5nZXRTZW9EaWdlc3QoJGFyZ3MsICRiZWZvcmVEYXRldGltZSwgJHRvRGF0ZVRpbWUpOwoKICAgICAgICAvLyDjg4bjg7Pjg5fjg6zjg7zjg4jjgavjgqLjgrXjgqTjg7MKICAgICAgICAkdGhpcy0+c2V0KCdjYXRlZ29yeUluZm8nLCBbXSk7CiAgICAgICAgJHRoaXMtPnNldCgnc2VvRGlnZXN0SW5mbycsIFtdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(categoryInfo.selectCategory !== 'all') ?
-          categoryInfo.categoryList[categoryInfo.parentCategory].subgenre : []</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IExJU1RfU0laRSA9IDUwOwoKICAgIGNvbnN0IEdPQUxfU0VPUE9TVF9MSU5FID0gMzAwOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
