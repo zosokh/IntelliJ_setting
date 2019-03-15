@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/HeaderArea.vue" timestamp="1551075711732">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/HeaderArea.vue" timestamp="1552646007557">
+        <mark key="[" line="3" column="14" />
         <mark key="]" line="29" column="7" />
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="7" />
@@ -129,11 +129,11 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/NewsList.vue" timestamp="1552350536476">
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="67" column="43" />
-        <mark key="." line="67" column="43" />
-        <mark key="^" line="67" column="43" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/NewsList.vue" timestamp="1552647828031">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="118" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env.stage-outside" timestamp="1549518726538">
         <mark key="[" line="50" column="0" />
@@ -153,11 +153,11 @@
         <mark key="." line="8" column="71" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/MiddleInfo.vue" timestamp="1551317062067">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="24" column="58" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/MiddleInfo.vue" timestamp="1552646074630">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/views/pages/news_search/new/index.tpl" timestamp="1549958190027">
         <mark key="[" line="29" column="55" />
@@ -330,8 +330,12 @@
         <mark key="." line="77" column="103" />
         <mark key="^" line="77" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/ajax/seo_digest/index.php" timestamp="1552364939056">
-        <mark key="'" line="295" column="25" />
+      <file name="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/ajax/seo_digest/index.php" timestamp="1552646612138">
+        <mark key="'" line="215" column="74" />
+        <mark key="[" line="248" column="63" />
+        <mark key="]" line="248" column="72" />
+        <mark key="^" line="248" column="72" />
+        <mark key="." line="248" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/App/Ro/News/SeoDigest.php" timestamp="1551052597263">
         <mark key="[" line="102" column="7" />
@@ -602,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="0" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
       <jump line="117" column="12" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
       <jump line="1318" column="32" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
       <jump line="1362" column="4" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/original_news/edit/index.php" />
@@ -702,10 +705,11 @@
       <jump line="295" column="25" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/ajax/seo_digest/index.php" />
       <jump line="33" column="12" filename="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/EditAlert.vue" />
       <jump line="4" column="5" filename="$USER_HOME$/Documents/mount_dir/devnewstool/config/default.json" />
+      <jump line="215" column="74" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/ajax/seo_digest/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiBjbGFzcz0ibW9kYWwtZGVmYXVsdC1idXR0b24gc21hbGwiIEBjbGljaz0iY2xvc2VNb2RhbCgpIj4tLT4KICAgICAgICAgIDwhLS3plonjgZjjgostLT4KICAgICAgICA8IS0tPC9idXR0b24+LS0+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -720,34 +724,34 @@
         <text encoding="base64">ICAgICAgICAkanNvbmxkICAgICAgICAgICA9IEpzb25sZDo6Z2V0SW1hZ2VJbmZvTGlzdCgkbmV3cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiBjbGFzcz0ibW9kYWwtZGVmYXVsdC1idXR0b24gc21hbGwiIEBjbGljaz0iY2xvc2VNb2RhbCgpIj4tLT4KICAgICAgICAgIDwhLS3plonjgZjjgostLT4KICAgICAgICA8IS0tPC9idXR0b24+LS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWxlYXJWYWx1ZS51c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzbG90PSJmb290ZXIiPgogICAgICAgIDwhLS08YnV0dG9uIGNsYXNzPSJtb2RhbC1kZWZhdWx0LWJ1dHRvbiBzbWFsbCIgQGNsaWNrPSJjbG9zZU1vZGFsKCkiPi0tPgogICAgICAgICAgPCEtLemWieOBmOOCiy0tPgogICAgICAgIDwhLS08L2J1dHRvbj4tLT4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhrZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYWxlYXJWYWx1ZS51c2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhrZXkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0ID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbmV3cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJldFsnaW1hZ2VPYmonXSA9IFsKICAgICAgICAgICAgICAgICdpbWFnZScgPT4gJ2h0dHBzOicgLiBpbWdjQmFzaWMoJ2h0dHBzOi8vcy5leGltZy5qcC9leG5ld3MvYS9pbWcvYXBwbGUtdG91Y2gtaWNvbl8yMDAucG5nJywgNzAsICdqcGcnLCAxMjAwKSwKICAgICAgICAgICAgICAgICd3aWR0aCcgPT4gMTIwMCwKICAgICAgICAgICAgICAgICdoZWlnaHQnID0+IDEyMDAsCiAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChtYWtlSW1hZ2VVcmwoJG5ld3NbJ25ld3NfaW1hZ2UnXVswXVsndGh1bWInXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmV0ID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldFsnaW1hZ2VPYmonXSA9IFsKICAgICAgICAgICAgICAgICdpbWFnZScgPT4gJ2h0dHBzOicgLiBpbWdjQmFzaWMoJ2h0dHBzOi8vcy5leGltZy5qcC9leG5ld3MvYS9pbWcvYXBwbGUtdG91Y2gtaWNvbl8yMDAucG5nJywgNzAsICdqcGcnLCAxMjAwKSwKICAgICAgICAgICAgICAgICd3aWR0aCcgPT4gMTIwMCwKICAgICAgICAgICAgICAgICdoZWlnaHQnID0+IDEyMDAsCiAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
