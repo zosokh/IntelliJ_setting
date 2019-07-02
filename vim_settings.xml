@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/libs/define/define.test.WeatherConf.php" timestamp="1562040495781">
+        <mark key="[" line="54" column="60" />
+        <mark key="]" line="55" column="56" />
+        <mark key="^" line="55" column="56" />
+        <mark key="." line="55" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/HeaderArea.vue" timestamp="1552650367318">
         <mark key="[" line="7" column="286" />
         <mark key="]" line="7" column="431" />
         <mark key="^" line="7" column="431" />
         <mark key="." line="7" column="431" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Ro/News/Keywords/Keyword.php" timestamp="1561460685272" />
+      <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/libs/define/define.live.WeatherConf.php" timestamp="1562040003710" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/publish/ExciteNews2020/ExciteNews2020Publisher.php" timestamp="1552002341707">
         <mark key="[" line="74" column="26" />
         <mark key="]" line="74" column="27" />
@@ -272,7 +278,6 @@
         <mark key="^" line="48" column="75" />
         <mark key="." line="48" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-api/App/Ro/Newscomment/List/Evaluate.php" timestamp="1561460955559" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.NewsStaticDataRedis.php" timestamp="1548310243704">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="53" />
@@ -319,7 +324,6 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/api.sp.news.excite.co.jp/App.php" timestamp="1561531179812" />
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/Excite/class/EXPhpApiRotatParam.php" timestamp="1559533728197">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -368,10 +372,6 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/class/class.NewsPublisher.php" timestamp="1560508908432">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env.stage" timestamp="1550048307391">
         <mark key="[" line="51" column="14" />
@@ -448,6 +448,11 @@
         <mark key="]" line="126" column="26" />
         <mark key="." line="126" column="26" />
         <mark key="^" line="126" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/weather-feed-openstack/publish/AreaWeather/AreaWeatherPublisher.php" timestamp="1562039963838">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="29" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/tests/AMP/test.js" timestamp="1558335217094">
         <mark key="[" line="12" column="0" />
@@ -535,10 +540,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/define/define.live.NewsConf.php" timestamp="1560301016500">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/DropDown.vue" timestamp="1551403876852">
         <mark key="[" line="5" column="12" />
@@ -928,8 +929,8 @@
       <jump line="259" column="61" filename="$USER_HOME$/Documents/mount_dir/devnewstool/htdocs/ajax/seo_digest/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmlldyk7ZXhpdDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -944,7 +945,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5qZWN0R2V0KCduYW1lJywgJ25hbWUnLCAnJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRuZXdzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmlldyk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -953,7 +954,7 @@
         <text encoding="base64">ICAgICAgICBwKCRuZXdzKTtleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCgkbmV3cyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBwKCRuZXdzKTtleGl0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcCgkbmV3cyk7ZXhpdDsK</text>
@@ -962,16 +963,16 @@
         <text encoding="base64">ICAgICAgICAgICAgcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRuZXdzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCgkbmV3cyk7ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRwYXJhbXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKCRuZXdzKTtleGl0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwKCRwYXJhbXMpO2V4aXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwKCRhcmdzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwKCR2YWx1ZXMpO2V4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
