@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mount_dir/search-aws/app/dependencies.php" timestamp="1568277496499">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="44" />
+      <file name="$USER_HOME$/Documents/mount_dir/search-aws/app/dependencies.php" timestamp="1568285679850">
+        <mark key="'" line="37" column="1" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mount_dir/excitenews-web/.env.test" timestamp="1566811767876">
         <mark key="[" line="24" column="0" />
@@ -133,14 +133,9 @@
         <mark key="]" line="24" column="71" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mount_dir/search-aws/public/index.php" timestamp="1568276967403">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="81" column="5" />
-        <mark key="." line="78" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/mount_dir/search-aws/public/index.php" timestamp="1568285705865" />
     </filemarks>
     <jumps>
-      <jump line="33" column="6" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Item.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-sp/App/Ro/News/Orgnews.php" />
       <jump line="161" column="8" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/News/Item.php" />
       <jump line="233" column="16" filename="$USER_HOME$/Documents/mount_dir/excitenews-pc/App/Ro/News/Item.php" />
@@ -240,10 +235,11 @@
       <jump line="106" column="23" filename="$USER_HOME$/Documents/mount_dir/devnewstool/App/Ro/News/SeoDigest.php" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/mount_dir/newsfeed_master/cron/news-feed07.cron" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/mount_dir/newsfeed_master/cron/news-feed07.cron" />
+      <jump line="44" column="1" filename="$USER_HOME$/Documents/mount_dir/search-aws/app/dependencies.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnkrDlooPjgYzjgafjgY3jgabjgYTjgarjgYTjgZ/jgoHjgrPjg6Hjg7Pjg4jjgqLjgqbjg4gK</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkcmVzcG9uc2UpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -255,37 +251,37 @@
         <text>E1554505279714</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRrZXlOdW0gKys7Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2VhcmNoTW9kZSk7CmVjaG8gJzwvcHJlPic7CmV4aXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnkrDlooPjgYzjgafjgY3jgabjgYTjgarjgYTjgZ/jgoHjgrPjg6Hjg7Pjg4jjgqLjgqbjg4gK</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkcmVzcG9uc2UpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGFwcCA9IG5ldyBcU2xpbVxBcHAoJHNldHRpbmdzKTsK</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkY29udGFpbmVyLT5nZXQoJ3NldHRpbmdzJylbJ2RlYnVnJ10pOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2VhcmNoTW9kZSk7CmVjaG8gJzwvcHJlPic7CmV4aXQ7Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkY29udGFpbmVyLT5nZXQoJ3NldHRpbmdzJylbJ2RlYnVnJ10pOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2V0dGluZ3MpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkY29udGFpbmVyLT5nZXQoJ3NldHRpbmdzJylbJ2RlYnVnJ10pOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2V0dGluZ3MpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDnkrDlooPjgYzjgafjgY3jgabjgYTjgarjgYTjgZ/jgoHjgrPjg6Hjg7Pjg4jjgqLjgqbjg4gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2V0dGluZ3MpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
+        <text encoding="base64">JGFwcCA9IG5ldyBcU2xpbVxBcHAoJHNldHRpbmdzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHAoJGtleW5hbWVzKTsK</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2VhcmNoTW9kZSk7CmVjaG8gJzwvcHJlPic7CmV4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHAoJGtleW5hbWUpOwo=</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2V0dGluZ3MpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZChzZWxmOjokZGF0YUxpc3RbJGtleV0pOwo=</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nOwp2YXJfZHVtcCgkc2V0dGluZ3MpOwplY2hvICc8L3ByZT4nOwpleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
