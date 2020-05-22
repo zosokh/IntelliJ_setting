@@ -1,6 +1,55 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>script.js</entry>
+        <entry>footer</entry>
+        <entry>ism</entry>
+        <entry>fotter</entry>
+        <entry>search.gw</entry>
+        <entry>look</entry>
+        <entry>b-ace</entry>
+        <entry>eomobile</entry>
+        <entry>DB_AUTOQUERY_UPDATE</entry>
+        <entry>error</entry>
+        <entry encoding="base64">XDx2YXJfZHVtcFw+</entry>
+        <entry>DOCUMENT_ROOT</entry>
+        <entry>origin</entry>
+        <entry>update</entry>
+        <entry encoding="base64">XDxzYXR1cmRheVw+</entry>
+        <entry encoding="base64">XDxhcnJheVw+</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry>E1554505279714</entry>
+        <entry encoding="base64">XDxtZXRhXD4=</entry>
+        <entry>no_index_no_follow</entry>
+      </history-search>
+      <history-cmd>
+        <entry>.,.+110w</entry>
+        <entry>ww</entry>
+        <entry>aw</entry>
+        <entry>.w</entry>
+        <entry>:w</entry>
+        <entry>w]</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>e</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>qw</entry>
+        <entry>we</entry>
+        <entry>ew</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
@@ -36,9 +85,230 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/models/Ad_renewal_model.php" timestamp="1590047764852">
+        <mark key="[" line="434" column="54" />
+        <mark key="]" line="535" column="0" />
+        <mark key="." line="535" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/themeset-category.ts" timestamp="1590136599363">
+        <mark key="[" line="75" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Onbording/ThemesController.php" timestamp="1590135553982">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/themes/edit.tsx" timestamp="1590138091618">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/pages/onbording/themes/edit.tsx" timestamp="1590136123530">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/seeds/AdRenewalSeeder.php" timestamp="1590050425972">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.dev.admin" timestamp="1590137138206" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1590136491499" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/AppController.php" timestamp="1590132299714">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Wt/ThemesetCategory.php" timestamp="1590137502063" />
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/models/Ad_renewal_modelTest.php" timestamp="1590050715267">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/controllers/wp/Ad_renewal.php" timestamp="1590050693651">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Api/ThemesetCategoryController.php" timestamp="1590136507198" />
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/controllers/wp/AdRenewalTest.php" timestamp="1590050706728">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="220" column="38" filename="$USER_HOME$/Documents/mount_dir/devnewstool/src/seo_digest/components/Editor.vue" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/libs/view/view.viewPRNewsList.php" />
+      <jump line="30" column="26" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/bin/GoogleAnalytics/TopRanking2020Publisher.php" />
+      <jump line="106" column="23" filename="$USER_HOME$/Documents/mount_dir/devnewstool/App/Ro/News/SeoDigest.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/mount_dir/newsfeed_master/cron/news-feed07.cron" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/mount_dir/newsfeed_master/cron/news-feed07.cron" />
+      <jump line="44" column="1" filename="$USER_HOME$/Documents/mount_dir/search-aws/app/dependencies.php" />
+      <jump line="41" column="6" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Flier/FlierFeeder.php" />
+      <jump line="43" column="48" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Mitok/Feeder.php" />
+      <jump line="446" column="0" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Mitok/Feeder.php" />
+      <jump line="39" column="13" filename="$USER_HOME$/Documents/mount_dir/excitenews-feed/ifeed/Mitok/Feeder.php" />
+      <jump line="710" column="29" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" />
+      <jump line="2840" column="6" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" />
+      <jump line="635" column="5" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/css/studio.css" />
+      <jump line="62" column="14" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/search/kodawari_premier.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Studio_feature_premiers_model.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Experience_categories.php" />
+      <jump line="528" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Experiences_model.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/assets/sass/page/search/kodawari-introduction.scss" />
+      <jump line="70" column="11" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/views/search/kodawari_premier_detail.php" />
+      <jump line="11157" column="42" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/views/search/kodawari_premier_detail.php" />
+      <jump line="349" column="12" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/views/search/kodawari_premier_detail.php" />
+      <jump line="69" column="15" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/views/search/kodawari_premier_detail.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/search/get_photo_detail_by_kodawari_premier.php" />
+      <jump line="217" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/search/kodawari_premier.js" />
+      <jump line="742" column="11" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Photos_model.php" />
+      <jump line="446" column="8" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/assets/sass/page/search/kodawari-premier-detail.scss" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/controllers/Callback.php" />
+      <jump line="53" column="23" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/search/common/_kodawari_premier_guide.php" />
+      <jump line="36" column="11" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/search/kodawari_introduction.php" />
+      <jump line="1542" column="43" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/controllers/Search.php" />
+      <jump line="89" column="31" filename="$USER_HOME$/Documents/github/s.photorait.net/htdocs/js/contribute/advice.js" />
+      <jump line="555" column="0" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/pdf/monthly_report/_pages.php" />
+      <jump line="39" column="6" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/top/index.php" />
+      <jump line="137" column="21" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Sl.php" />
+      <jump line="132" column="15" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Dresses_model.php" />
+      <jump line="589" column="39" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/libraries/InputValidates.php" />
+      <jump line="509" column="19" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/libraries/InputValidates.php" />
+      <jump line="18" column="37" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Articles.php" />
+      <jump line="931" column="12" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Articles.php" />
+      <jump line="958" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Articles.php" />
+      <jump line="41" column="18" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/views/studio/dress_details.php" />
+      <jump line="138" column="8" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/controllers/Sl.php" />
+      <jump line="22" column="7" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/search/area_search.php" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/search/area_search.php" />
+      <jump line="523" column="8" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Search.php" />
+      <jump line="11" column="18" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/photo_details.php" />
+      <jump line="19" column="18" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/mypage/top.php" />
+      <jump line="5" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/adtest.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/adtest.php" />
+      <jump line="198" column="3" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/config.php" />
+      <jump line="191" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/config.php" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/models/Ad_model.php" />
+      <jump line="117" column="6" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/models/Ad_model.php" />
+      <jump line="140" column="4" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/models/Ad_model.php" />
+      <jump line="258" column="6" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/config.php" />
+      <jump line="253" column="6" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/local/config.php" />
+      <jump line="253" column="11" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/local/config.php" />
+      <jump line="192" column="5" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/local/config.php" />
+      <jump line="185" column="1" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/local/config.php" />
+      <jump line="192" column="4" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/local/config.php" />
+      <jump line="570" column="4" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/config.php" />
+      <jump line="563" column="1" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/config.php" />
+      <jump line="185" column="1" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/production/config.php" />
+      <jump line="562" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/config.php" />
+      <jump line="192" column="5" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/production/config.php" />
+      <jump line="197" column="6" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/config.php" />
+      <jump line="766" column="29" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Studio.php" />
+      <jump line="351" column="6" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/assets/sass/page/search/area_result.scss" />
+      <jump line="257" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/assets/sass/page/search/area_result.scss" />
+      <jump line="58" column="6" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/assets/sass/page/search/kodawari_result.scss" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Search.php" />
+      <jump line="16" column="39" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/common/html_head.php" />
+      <jump line="313" column="39" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/controllers/Search.php" />
+      <jump line="222" column="4" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/models/Ad_model.php" />
+      <jump line="185" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/staging/config.php" />
+      <jump line="185" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/production/config.php" />
+      <jump line="185" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/local/config.php" />
+      <jump line="190" column="1" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/development/config.php" />
+      <jump line="245" column="5" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/models/Ad_model.php" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/local/config.php" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/production/config.php" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/staging/config.php" />
+      <jump line="1606" column="0" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" />
+      <jump line="4864" column="0" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" />
+      <jump line="8191" column="27" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" />
+      <jump line="190" column="25" filename="$USER_HOME$/Documents/github/wedding_park/s.photorait.net/applications/s/config/development/config.php" />
+      <jump line="54" column="2" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/assets/sass/sp/layout/_popup.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/search/plan_result.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/dress.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/dress_details.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/photo.php" />
+      <jump line="86" column="50" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/plan.php" />
+      <jump line="21" column="30" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/search/kodawari_result.php" />
+      <jump line="15" column="53" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/dress.php" />
+      <jump line="25" column="26" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/plan_details_modal.php" />
+      <jump line="21" column="26" filename="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/common/common.js" />
+      <jump line="177" column="18" filename="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/common/common.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/shared/common/form/choice_confluence_type.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/github/home.photorait.net/tests/controllers/wp/AdRenewalTest.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZWxlbWVudCEuZGF0YXNldCk7Cg==</text>
+      </register>
+      <register name="i" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>o</text>
+      </register>
+      <register name="/" type="4">
+        <text>no_index_no_follow</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Q0ktPmRiKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZWxlbWVudCEuZGF0YXNldCk7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHVkaW9JZCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhlbWVzZXRzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Q0ktPmxvYWQtPmxpYnJhcnkoJ3NlZWRlcicpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRwcm9kdWN0cyk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>no_index_no_follow</last-search>
+      <last-offset />
+      <last-pattern>no_index_no_follow</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
