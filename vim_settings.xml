@@ -41,8 +41,8 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
-        <entry>ew</entry>
         <entry>q</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -94,6 +94,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Middleware/GetSiteForUser.php" timestamp="1590311109843">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Auth/SessionGuard.php" timestamp="1590310088217">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/themes/edit.tsx" timestamp="1590138138277">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -105,13 +115,12 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/index.tsx" timestamp="1590305426809" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.dev.admin" timestamp="1590137138206" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1590308627984">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/AppController.php" timestamp="1590142513876">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/AppController.php" timestamp="1590310795576">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -121,7 +130,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Api/ThemesetCategoryController.php" timestamp="1590136507198" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Photorait/Administrator.php" timestamp="1590309713893" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/themeset-category.ts" timestamp="1590138112018">
         <mark key="[" line="75" column="29" />
       </file>
@@ -129,11 +138,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/pages/onbording/themes/edit.tsx" timestamp="1590136123530">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Middleware/Authenticate.php" timestamp="1590308950468">
         <mark key="[" line="16" column="0" />
@@ -145,17 +149,15 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Middleware/Role.php" timestamp="1590309234230">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="16" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Middleware/Role.php" timestamp="1590310195364">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Wp/RequestsController.php" timestamp="1590308014911">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="25" column="16" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="25" column="15" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Wp/RequestsController.php" timestamp="1590311187580">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Wt/ThemesetCategory.php" timestamp="1590137502063" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1590306981768" />
@@ -163,6 +165,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Site/Site.php" timestamp="1590311001563">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -271,13 +278,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm9sZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
         <text>no_index_no_follow</text>
@@ -286,34 +293,34 @@
         <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Q0ktPmRiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm9sZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm9sZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZG9tYWluKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZUlkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3ViZG9tYWluKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3Rlc3Rlc3QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2l0ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkc3R1ZGlvSWQpOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZChcU2l0ZTo6Z2V0KCkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChTdHVkaW86OmdldCgpLT5pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdHRlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3Rlc3RlcycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
