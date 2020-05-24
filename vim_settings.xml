@@ -37,12 +37,12 @@
         <entry>w]</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>ew</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -89,6 +89,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/utils/route.ts" timestamp="1590306427230">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/themes/edit.tsx" timestamp="1590138138277">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/index.tsx" timestamp="1590305426809" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.dev.admin" timestamp="1590137138206" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1590307221463">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/AppController.php" timestamp="1590142513876">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Api/ThemesetCategoryController.php" timestamp="1590136507198" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/themeset-category.ts" timestamp="1590138112018">
         <mark key="[" line="75" column="29" />
       </file>
@@ -97,50 +120,27 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/themes/edit.tsx" timestamp="1590138138277">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/pages/onbording/themes/edit.tsx" timestamp="1590136123530">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/seeds/AdRenewalSeeder.php" timestamp="1590050425972">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/IndexController.php" timestamp="1590142752919">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.dev.admin" timestamp="1590137138206" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1590142743739" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/AppController.php" timestamp="1590142513876">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Wt/ThemesetCategory.php" timestamp="1590137502063" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1590306981768" />
       <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/models/Ad_renewal_modelTest.php" timestamp="1590050715267">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/controllers/wp/Ad_renewal.php" timestamp="1590050693651">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Api/ThemesetCategoryController.php" timestamp="1590136507198" />
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/controllers/wp/AdRenewalTest.php" timestamp="1590050706728">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/index.tsx" timestamp="1590305778664">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -248,14 +248,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>no_index_no_follow</text>
@@ -264,28 +264,28 @@
         <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Q0ktPmRiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZShuYW1lLCBwYXJhbWV0ZXJzLCBmYWxzZSwgWmlnZ3kpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobWF4U2hvb3RpbmdSZXNlcnZhYmxlRGF5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZWxlbWVudCEuZGF0YXNldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHVkaW9JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhlbWVzZXRzKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZWxlbWVudCEuZGF0YXNldCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHVkaW9JZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhlbWVzZXRzKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
