@@ -6,7 +6,6 @@
       <mapping pattern=".htaccess_stage_outside" type="PLAIN_TEXT" />
       <mapping pattern="functions" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
