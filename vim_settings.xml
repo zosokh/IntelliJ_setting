@@ -89,55 +89,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/search/kodawari_result.php" timestamp="1590541610224" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Photos_model.php" timestamp="1590485985512" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/studio/contact.php" timestamp="1590545823828">
-        <mark key="[" line="100" column="270" />
-        <mark key="]" line="100" column="302" />
-        <mark key="." line="100" column="301" />
-        <mark key="^" line="100" column="302" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/area_search.php" timestamp="1590560682823" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/studio_result.php" timestamp="1590564102204">
-        <mark key="[" line="78" column="205" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/search/common/_search_result.php" timestamp="1590549010525" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Photos.php" timestamp="1590485969806" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/assets/sass/sp/module/cassette/_studio-cassette.scss" timestamp="1590563754445">
-        <mark key="[" line="186" column="52" />
-        <mark key="]" line="190" column="5" />
-        <mark key="^" line="190" column="5" />
-        <mark key="." line="190" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/controllers/Search.php" timestamp="1590545216667">
-        <mark key="[" line="1248" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/common/contact_side_nav.php" timestamp="1590545388338">
-        <mark key="[" line="10" column="101" />
-        <mark key="]" line="10" column="124" />
-        <mark key="^" line="10" column="124" />
-        <mark key="." line="10" column="123" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/common/article_score.php" timestamp="1590564223859">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="35" column="27" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/ad/ad_area_pr.php" timestamp="1590564084678">
         <mark key="[" line="8" column="269" />
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Kodawari.php" timestamp="1590543314417" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/studio/contact.php" timestamp="1590545823828">
+        <mark key="[" line="100" column="270" />
+        <mark key="]" line="100" column="302" />
+        <mark key="." line="100" column="301" />
+        <mark key="^" line="100" column="302" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/common/_search_result.php" timestamp="1590564125653">
         <mark key="[" line="27" column="197" />
         <mark key="]" line="27" column="222" />
         <mark key="." line="27" column="221" />
         <mark key="^" line="27" column="222" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/studio_result.php" timestamp="1590564102204">
+        <mark key="[" line="78" column="205" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/helpers/application_helper.php" timestamp="1590562366835">
         <mark key="[" line="308" column="62" />
@@ -145,11 +118,11 @@
         <mark key="^" line="308" column="62" />
         <mark key="." line="308" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Studio_feature_search_model.php" timestamp="1590543331303">
-        <mark key="[" line="238" column="112" />
-        <mark key="]" line="238" column="44" />
-        <mark key="^" line="238" column="44" />
-        <mark key="." line="238" column="43" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/assets/sass/sp/module/cassette/_studio-cassette.scss" timestamp="1590563754445">
+        <mark key="[" line="186" column="52" />
+        <mark key="]" line="190" column="5" />
+        <mark key="^" line="190" column="5" />
+        <mark key="." line="190" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/studio/contact.php" timestamp="1590546433432">
         <mark key="[" line="102" column="174" />
@@ -157,17 +130,31 @@
         <mark key="^" line="102" column="255" />
         <mark key="." line="102" column="254" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/controllers/Search.php" timestamp="1590545216667">
+        <mark key="[" line="1248" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/area_result.php" timestamp="1590564092411">
         <mark key="[" line="433" column="213" />
         <mark key="]" line="434" column="0" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/kodawari_result.php" timestamp="1590562188650" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/pc/common/contact_side_nav.php" timestamp="1590545388338">
+        <mark key="[" line="10" column="101" />
+        <mark key="]" line="10" column="124" />
+        <mark key="^" line="10" column="124" />
+        <mark key="." line="10" column="123" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/shared/common/appointment_remote_label.php" timestamp="1590562884093">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/common/article_score.php" timestamp="1590564223859">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="27" />
       </file>
     </filemarks>
     <jumps>
