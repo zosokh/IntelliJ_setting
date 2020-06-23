@@ -39,10 +39,10 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>we</entry>
         <entry>q</entry>
         <entry>qw</entry>
         <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,7 +104,11 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/studio/studio_experience_edit.php" timestamp="1592877826490" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/themeset-category.ts" timestamp="1592815142239" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/production/amazon_rekognition.php" timestamp="1592889811510" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/development/amazon_rekognition.php" timestamp="1592889879987" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/development/amazon_rekognition.php" timestamp="1592891701518">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wt.photorait.net/app/Http/Clients/Client.php" timestamp="1592554125743">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -129,11 +133,11 @@
         <mark key="]" line="4251" column="0" />
         <mark key="." line="4251" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/ExternalAmazonRekognition.php" timestamp="1592889343076">
-        <mark key="[" line="114" column="29" />
-        <mark key="]" line="149" column="24" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/ExternalAmazonRekognition.php" timestamp="1592892137248">
+        <mark key="[" line="126" column="28" />
+        <mark key="]" line="126" column="54" />
+        <mark key="." line="126" column="53" />
+        <mark key="^" line="126" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/themesets/themeset-container.tsx" timestamp="1592815125862">
         <mark key="[" line="19" column="0" />
@@ -252,13 +256,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR1JPVVAgQlkgZXhwZXJpZW5jZXMuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgndGV0ZXN0dGVzdCcpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>docNav</text>
@@ -274,34 +278,34 @@
 $config['spreadsheet_api_key'] = APPPATH . 'config/spreadsheet/savvy-container-125416-e092814555f1.json';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR1JPVVAgQlkgZXhwZXJpZW5jZXMuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgndGV0ZXN0dGVzdCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR1JPVVAgQlkgZXhwZXJpZW5jZXMuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFNpbWlsYXJFeHBlcmllbmNlcyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXhwZXJpZW5jZS0+c3RhdHVzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VVcmxzKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlcyk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFNpbWlsYXJFeHBlcmllbmNlcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZXhwZXJpZW5jZS0+c3RhdHVzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VVcmxzKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwYXJhbXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
