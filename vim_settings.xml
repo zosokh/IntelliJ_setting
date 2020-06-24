@@ -100,11 +100,7 @@
         <mark key="." line="77" column="13" />
         <mark key="^" line="77" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Experiences_model.php" timestamp="1592888641675">
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/wp/administrators/admin_edit.php" timestamp="1592960417955" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1592910384811" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Auth/AuthManager.php" timestamp="1592904698543">
         <mark key="[" line="17" column="0" />
@@ -139,8 +135,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/wp/Administrators.php" timestamp="1592956325071">
-        <mark key="[" line="169" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/wp/Administrators.php" timestamp="1592960649869">
+        <mark key="[" line="172" column="46" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
@@ -155,7 +151,7 @@
         <mark key="]" line="4251" column="0" />
         <mark key="." line="4251" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1592959476231">
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1592960072138">
         <mark key="[" line="229" column="9" />
         <mark key="]" line="230" column="35" />
         <mark key="." line="230" column="34" />
@@ -274,7 +270,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFkbWluaXN0cmF0b3JBZG1pblJvbGVJdGVtR3JvdXBzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzUGhvdG9yYWl0QWRtaW5Sb2xlSXRlbUdyb3Vwcyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -296,34 +292,34 @@
 $config['spreadsheet_api_key'] = APPPATH . 'config/spreadsheet/savvy-container-125416-e092814555f1.json';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFkbWluaXN0cmF0b3JBZG1pblJvbGVJdGVtR3JvdXBzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzUGhvdG9yYWl0QWRtaW5Sb2xlSXRlbUdyb3Vwcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChwcm9wZXJ0eV9leGlzdHMoJHRoaXMtPl9pbmZvLT5hZG1pbl9pbmZvLCAiYWRtaW5pc3RyYXRvcl9hZG1pbl9yb2xlX2l0ZW1fZ3JvdXBzIikpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChzZWxmOjpTRVNTSU9OX0NPTU1PTl9BRE1JTl9JTkZPKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVzUGhvdG9yYWl0QWRtaW5Sb2xlSXRlbUdyb3Vwcyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzV3RBZG1pblJvbGVJdGVtR3JvdXBzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFkbWluaXN0cmF0b3JBZG1pblJvbGVJdGVtR3JvdXBzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZChwcm9wZXJ0eV9leGlzdHMoJHRoaXMtPl9pbmZvLT5hZG1pbl9pbmZvLCAiYWRtaW5pc3RyYXRvcl9hZG1pbl9yb2xlX2l0ZW1fZ3JvdXBzIikpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFkbWluaXN0cmF0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzQWRtaW5pc3RyYXRvcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChzZWxmOjpTRVNTSU9OX0NPTU1PTl9BRE1JTl9JTkZPKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkYWRtaW5pc3RyYXRvci0+cm9sZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzUGhvdG9yYWl0QWRtaW5Sb2xlSXRlbUdyb3Vwcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFkbWluaXN0cmF0b3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
