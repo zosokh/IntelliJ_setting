@@ -90,7 +90,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/models/Vacancy_model.php" timestamp="1593054348072" />
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/dump.sh" timestamp="1593062875264" />
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/dump.sh" timestamp="1593063726354">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/config/local/database.php" timestamp="1593062098562">
         <mark key="[" line="110" column="33" />
         <mark key="]" line="110" column="33" />
@@ -112,6 +117,12 @@
         <mark key="]" line="3" column="44" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/home.photorait.net/.gitlab-ci.yml" timestamp="1593064015045">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="35" />
+        <mark key="." line="58" column="34" />
+        <mark key="^" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/models/Group_companies_model.php" timestamp="1593056750184">
         <mark key="[" line="76" column="0" />
@@ -238,8 +249,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gIm15c3FsIC11cm9vdCAtaG15c3FsIHBob3RvcmFpdCA8IH4vcGhvdG9yYWl0LnNxbCIK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -251,7 +262,7 @@
         <text>docNav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YS0+d3RDdkNvdW50cyA9ICR3dEN2Q291bnRzWzBdOwo=</text>
+        <text encoding="base64">ICAgIC0gIm15c3FsIC11cm9vdCAtaG15c3FsIHBob3RvcmFpdCA8IH4vcGhvdG9yYWl0LnNxbCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ci8vICAgICAgICAkbW9jayA9IG06Om1vY2soJ292ZXJsb2FkOkdyb3VwX2NvbXBhbmllc19tb2RlbCcpOwovLyAgICAgICAgJG1vY2stPnNob3VsZFJlY2VpdmUoJ2dldFN0dWRpb3NCeUdyb3VwQ29tcGFueUlkJykKLy8gICAgICAgICAgICAtPm9uY2UoKQovLyAgICAgICAgICAgIC0+YW5kUmV0dXJuKChvYmplY3QpWyd0ZXN0JyA9PiAndGVzdGVzdCddKTsK</text>
