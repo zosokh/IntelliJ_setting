@@ -89,12 +89,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/index-page-form.tsx" timestamp="1594090082797">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="135" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/maing-images/form.tsx" timestamp="1594099220473">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="64" />
@@ -107,8 +101,12 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Insight_studio_pvs.php" timestamp="1594108281665" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/delete-confirmation-modal.tsx" timestamp="1594088611985" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Insight_studio_pvs.php" timestamp="1594111525241">
+        <mark key="[" line="106" column="38" />
+        <mark key="]" line="106" column="39" />
+        <mark key="." line="106" column="38" />
+        <mark key="^" line="106" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Insight.php" timestamp="1594107517413">
         <mark key="[" line="645" column="0" />
         <mark key="]" line="645" column="0" />
@@ -120,7 +118,7 @@
         <mark key="." line="77" column="47" />
         <mark key="^" line="77" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/basic-settings/basic-setting-container.tsx" timestamp="1594095236697" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/production/config.php" timestamp="1594110300369" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/themesets/themeset-form.tsx" timestamp="1594095610488">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="64" />
@@ -156,6 +154,7 @@
         <mark key="." line="294" column="0" />
         <mark key="^" line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Base_insight.php" timestamp="1594110339674" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/plans/plan-list.tsx" timestamp="1594104949545">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -168,6 +167,7 @@
         <mark key="^" line="48" column="49" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/config.php" timestamp="1594110319073" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/plans/plan-container.tsx" timestamp="1594105001413">
         <mark key="[" line="5" column="75" />
         <mark key="]" line="47" column="37" />
@@ -287,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3R1ZGlvcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -302,34 +302,34 @@
         <text encoding="base64">ICAgICAgPFByb21wdE1vZGFsIGlzRWRpdD17aXNFZGl0fSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3R1ZGlvcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJc0VkaXQoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkc3R1ZGlvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJc0VkaXQoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0dWRpb3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3R1ZGlvcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRJc0VkaXQoZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRJc0VkaXQoZmFsc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoY2hhbmdlVmFsdWU6IG9iamVjdCk6IHZvaWQgPT4gewogICAgc2V0Rm9ybVZhbHVlcyhjaGFuZ2VWYWx1ZSkKICAgIHNldElzRWRpdCh0cnVlKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3QgW2lzRWRpdCwgc2V0SXNFZGl0XSA9IHVzZVN0YXRlKGZhbHNlKQoKICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoY2hhbmdlVmFsdWU6IG9iamVjdCk6IHZvaWQgPT4gewogICAgc2V0Rm9ybVZhbHVlcyhjaGFuZ2VWYWx1ZSkKICAgIHNldElzRWRpdCh0cnVlKQogIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
