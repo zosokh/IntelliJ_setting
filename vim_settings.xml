@@ -107,11 +107,6 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/display-states/display-state-form.tsx" timestamp="1594016510207">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/publish.tsx" timestamp="1594087577840">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="46" />
@@ -125,11 +120,13 @@
         <mark key="]" line="12" column="64" />
         <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/form-settings/form-setting-container.tsx" timestamp="1594101427945" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/form-setting-form.tsx" timestamp="1594101371181">
-        <mark key="[" line="36" column="4" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/form-settings/form-setting-container.tsx" timestamp="1594101534974" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/form-setting-form.tsx" timestamp="1594102267155">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/shared/form-setting-item.tsx" timestamp="1594101098303" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/shared/form-setting-item.tsx" timestamp="1594102259549" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/prompt-modal.tsx" timestamp="1594083762292">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="33" />
@@ -142,11 +139,17 @@
         <mark key="." line="184" column="36" />
         <mark key="^" line="184" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/accesses/access-form.tsx" timestamp="1594101245616">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/accesses/access-form.tsx" timestamp="1594102724877">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="37" />
         <mark key="." line="294" column="0" />
         <mark key="^" line="8" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/plans/plan-list.tsx" timestamp="1594102744475">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/corporate-outlines/corporate-outline-header.tsx" timestamp="1594088122630">
         <mark key="[" line="58" column="23" />
@@ -279,7 +282,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFByb21wdE1vZGFsIGlzRWRpdD17aXNFZGl0fSAvPgo=</text>
+        <text encoding="base64">ICBjb25zdCBbaXNFZGl0LCBzZXRJc0VkaXRdID0gdXNlU3RhdGUoZmFsc2UpCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -294,34 +297,34 @@
         <text encoding="base64">ICAgICAgPFByb21wdE1vZGFsIGlzRWRpdD17aXNFZGl0fSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbaXNFZGl0LCBzZXRJc0VkaXRdID0gdXNlU3RhdGUoZmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVSZXF1ZXN0ID0gKCk6IHZvaWQgPT4gewogICAgcG9zdFJlcXVlc3QoZm9ybVZhbHVlcykKICAgIHNldElzRWRpdChmYWxzZSkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNldElzRWRpdD17c2V0SXNFZGl0fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBbaXNFZGl0LCBzZXRJc0VkaXRdID0gdXNlU3RhdGUoZmFsc2UpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBbZmllbGRdOiBldmVudC50YXJnZXQudmFsdWUgfSBhcyBQaWNrPFN0YXRlLCBhbnk+KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtVmFsdWVzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc0VkaXQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVSZXF1ZXN0ID0gKCk6IHZvaWQgPT4gewogICAgcG9zdFJlcXVlc3QoZm9ybVZhbHVlcykKICAgIHNldElzRWRpdChmYWxzZSkKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdCBbaXNFZGl0LCBzZXRJc0VkaXRdID0gdXNlU3RhdGUoZmFsc2UpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBbZmllbGRdOiBldmVudC50YXJnZXQudmFsdWUgfSBhcyBQaWNrPFN0YXRlLCBhbnk+KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtVmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
