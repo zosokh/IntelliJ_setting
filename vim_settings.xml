@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594179595848">
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="42" />
-        <mark key="^" line="51" column="42" />
-        <mark key="." line="51" column="41" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594184665634">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/contact/contact-edit-form.tsx" timestamp="1594175738099">
         <mark key="[" line="12" column="60" />
@@ -134,11 +134,11 @@
       <file name="/Dummy.txt" timestamp="1594178252275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/SitesController.php" timestamp="1594179431875">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="74" column="57" />
-        <mark key="." line="74" column="56" />
-        <mark key="^" line="74" column="57" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/SitesController.php" timestamp="1594184991009">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="74" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/form-setting-form.tsx" timestamp="1594176294608">
         <mark key="[" line="41" column="4" />
@@ -294,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlX3VybCcgPT4gJHNpdGUtPnRvcF9jb250ZW50X3R5cGUgPT09IFNpdGU6OlRPUF9DT05URU5UX1RZUEVfSU1BR0UKICAgICAgICAgICAgICAgICAgICA/IFN0b3JhZ2U6OnVybCgicmVzaXplL2NvdmVyLzUwMHg2NTAvc3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IikKICAgICAgICAgICAgICAgICAgICA6IFN0b3JhZ2U6OnVybCgic3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IiksCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -309,34 +309,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlX3VybCcgPT4gJHNpdGUtPnRvcF9jb250ZW50X3R5cGUgPT09IFNpdGU6OlRPUF9DT05URU5UX1RZUEVfSU1BR0UKICAgICAgICAgICAgICAgICAgICA/IFN0b3JhZ2U6OnVybCgicmVzaXplL2NvdmVyLzUwMHg2NTAvc3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IikKICAgICAgICAgICAgICAgICAgICA6IFN0b3JhZ2U6OnVybCgic3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBzZXRJc0VkaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PgogICAgICAgICAgLy8gLy8gICA8cCBrZXk9e2ltYWdlLmZpbGVfcGNfdXJsfT4KICAgICAgICAgIC8vIC8vICAgICA8TWFpbkltYWdlIHNyYz17aW1hZ2UuZmlsZV9wY191cmx9IC8+CiAgICAgICAgICAvLyAvLyAgIDwvcD4KICAgICAgICAgIC8vIC8vIDwvTWVkaWFRdWVyeT4KICAgICAgICAgIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PntpbWFnZS5maWxlX3BjX3VybH08L01lZGlhUXVlcnk+CiAgICAgICAgICAvLwogICAgICAgICAgLy8gPE1lZGlhUXVlcnkgbWF4V2lkdGg9ezcyN30+CiAgICAgICAgICAvLyAgIDxwIGtleT17aW1hZ2UuZmlsZV91cmx9PgogICAgICAgICAgLy8gICAgIDxNYWluSW1hZ2Ugc3JjPXtpbWFnZS5maWxlX3VybH0gLz4KICAgICAgICAgIC8vICAgPC9wPgogICAgICAgICAgLy8gPC9NZWRpYVF1ZXJ5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldElzRWRpdCh0cnVlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBzZXRJc0VkaXQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoY2hhbmdlVmFsdWU6IG9iamVjdCk6IHZvaWQgPT4gewogICAgc2V0Rm9ybVZhbHVlcyhjaGFuZ2VWYWx1ZSkKICAgIHNldElzRWRpdCh0cnVlKQogIH0K</text>
+        <text encoding="base64">ICAgIHNldElzRWRpdCh0cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoY2hhbmdlVmFsdWU6IG9iamVjdCk6IHZvaWQgPT4gewogICAgc2V0Rm9ybVZhbHVlcyhjaGFuZ2VWYWx1ZSkKICAgIHNldElzRWRpdCh0cnVlKQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkc3R1ZGlvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0dWRpb3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
