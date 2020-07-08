@@ -89,17 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594184665634">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594192696388">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
         <mark key="^" line="51" column="37" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/contact/contact-edit-form.tsx" timestamp="1594175738099">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="152" column="37" />
-        <mark key="." line="152" column="36" />
-        <mark key="^" line="152" column="37" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Insight_studio_pvs.php" timestamp="1594115208980">
         <mark key="[" line="50" column="61" />
@@ -107,38 +101,53 @@
         <mark key="." line="63" column="34" />
         <mark key="^" line="63" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Insight.php" timestamp="1594107517413">
-        <mark key="[" line="645" column="0" />
-        <mark key="]" line="645" column="0" />
-        <mark key="." line="645" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Insight_studio_pvs_model.php" timestamp="1594107473624">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="77" column="48" />
-        <mark key="." line="77" column="47" />
-        <mark key="^" line="77" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/production/config.php" timestamp="1594110300369" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/appointment/appointment-edit-form.tsx" timestamp="1594174187165">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="227" column="37" />
-        <mark key="." line="227" column="36" />
-        <mark key="^" line="227" column="37" />
-      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/layouts/default.tsx" timestamp="1594193100149" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/vacancy/vacancy-edit-form.tsx" timestamp="1594174473117">
         <mark key="[" line="162" column="13" />
         <mark key="]" line="163" column="37" />
         <mark key="." line="163" column="36" />
         <mark key="^" line="163" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594178252275">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/SitesController.php" timestamp="1594190921841">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/SitesController.php" timestamp="1594191462352">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="74" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/accesses/access-form.tsx" timestamp="1594175415811">
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="37" />
+        <mark key="." line="294" column="0" />
+        <mark key="^" line="8" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/layouts/side_navigation.tsx" timestamp="1594177479441">
+        <mark key="[" line="188" column="72" />
+        <mark key="]" line="188" column="72" />
+        <mark key="." line="188" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/layouts/menu.tsx" timestamp="1594193242342" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/config.php" timestamp="1594110319073" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/request-info/request-info-edit-form.tsx" timestamp="1594174297615">
+        <mark key="[" line="162" column="13" />
+        <mark key="]" line="163" column="37" />
+        <mark key="." line="163" column="36" />
+        <mark key="^" line="163" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/contact/contact-edit-form.tsx" timestamp="1594175738099">
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="152" column="37" />
+        <mark key="." line="152" column="36" />
+        <mark key="^" line="152" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1594192107882" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/appointment/appointment-edit-form.tsx" timestamp="1594174187165">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="227" column="37" />
+        <mark key="." line="227" column="36" />
+        <mark key="^" line="227" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594178252275">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/form-settings/form-setting-form.tsx" timestamp="1594176294608">
         <mark key="[" line="41" column="4" />
@@ -151,30 +160,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/accesses/access-form.tsx" timestamp="1594175415811">
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="37" />
-        <mark key="." line="294" column="0" />
-        <mark key="^" line="8" column="64" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Base_insight.php" timestamp="1594110339674" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/layouts/side_navigation.tsx" timestamp="1594177479441">
-        <mark key="[" line="188" column="72" />
-        <mark key="]" line="188" column="72" />
-        <mark key="." line="188" column="72" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/corporate-outlines/corporate-outline-form.tsx" timestamp="1594173934125">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="37" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="159" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/config.php" timestamp="1594110319073" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/request-info/request-info-edit-form.tsx" timestamp="1594174297615">
-        <mark key="[" line="162" column="13" />
-        <mark key="]" line="163" column="37" />
-        <mark key="." line="163" column="36" />
-        <mark key="^" line="163" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/plans/plan-container.tsx" timestamp="1594175859419">
         <mark key="[" line="5" column="75" />
@@ -182,7 +173,7 @@
         <mark key="^" line="47" column="37" />
         <mark key="." line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/index/index.tsx" timestamp="1594179551113">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/index/index.tsx" timestamp="1594192757955">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
