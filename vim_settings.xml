@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>footer</entry>
         <entry>ism</entry>
         <entry>fotter</entry>
         <entry>search.gw</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxtZXRhXD4=</entry>
         <entry>no_index_no_follow</entry>
         <entry>docNav</entry>
+        <entry encoding="base64">XDxzdHVkaW9zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+110w</entry>
@@ -94,7 +94,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Insight_studio_pvs.php" timestamp="1594115208980">
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Insight_studio_pvs.php" timestamp="1594197946406">
         <mark key="[" line="50" column="61" />
         <mark key="]" line="63" column="35" />
         <mark key="." line="63" column="34" />
@@ -120,12 +120,16 @@
         <mark key="." line="188" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/layouts/menu.tsx" timestamp="1594196409215" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/config.php" timestamp="1594110319073" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/request-info/request-info-edit-form.tsx" timestamp="1594174297615">
         <mark key="[" line="162" column="13" />
         <mark key="]" line="163" column="37" />
         <mark key="." line="163" column="36" />
         <mark key="^" line="163" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Studios_model.php" timestamp="1594198121968">
+        <mark key="[" line="200" column="23" />
+        <mark key="]" line="200" column="24" />
+        <mark key="." line="200" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/applicants/contact/contact-edit-form.tsx" timestamp="1594175738099">
         <mark key="[" line="12" column="60" />
@@ -154,12 +158,16 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/insight/Base_insight.php" timestamp="1594110339674" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/corporate-outlines/corporate-outline-form.tsx" timestamp="1594173934125">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="37" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1594197539790">
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/plans/plan-container.tsx" timestamp="1594175859419">
         <mark key="[" line="5" column="75" />
@@ -174,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Studio_feature_premiers_model.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Experience_categories.php" />
       <jump line="528" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Experiences_model.php" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/assets/sass/page/search/kodawari-introduction.scss" />
@@ -274,12 +281,15 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/wt/Applicants_model.php" />
       <jump line="66" column="10" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/production/database.php" />
       <jump line="11" column="7" filename="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/plan-list.tsx" />
+      <jump line="196" column="10" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Studios_model.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxhbnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>AND
+          (studio_intro_private.status = ? OR ISNULL(studio_intro_private.status)) AND
+          users.allow_access = ?</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -288,40 +298,42 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>docNav</text>
+        <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlX3VybCcgPT4gJHNpdGUtPnRvcF9jb250ZW50X3R5cGUgPT09IFNpdGU6OlRPUF9DT05URU5UX1RZUEVfSU1BR0UKICAgICAgICAgICAgICAgICAgICA/IFN0b3JhZ2U6OnVybCgicmVzaXplL2NvdmVyLzUwMHg2NTAvc3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IikKICAgICAgICAgICAgICAgICAgICA6IFN0b3JhZ2U6OnVybCgic3R1ZGlvcy97JHNpdGUtPnN0dWRpb19pZH0veyR0b3BDb250ZW50LT5maWxlX25hbWV9IiksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGxhbnMpOwo=</text>
+      <register name="1" type="4">
+        <text>AND
+          (studio_intro_private.status = ? OR ISNULL(studio_intro_private.status)) AND
+          users.allow_access = ?</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJTk5FUiBKT0lOIHN0dWRpb19pbnRybyBPTiBzdHVkaW9faW50cm8uc3R1ZGlvX2lkID0gc3R1ZGlvcy5pZAogICAgICAgIElOTkVSIEpPSU4gc3R1ZGlvX2ludHJvX3ByaXZhdGUgT04gc3R1ZGlvX2ludHJvX3ByaXZhdGUuc3R1ZGlvX2lkID0gc3R1ZGlvcy5pZAogICAgICAgIElOTkVSIEpPSU4gc3R1ZGlvX2Jhc2UgT04gc3R1ZGlvX2Jhc2Uuc3R1ZGlvX2lkID0gc3R1ZGlvcy5pZAogICAgICAgIElOTkVSIEpPSU4gdXNlcnMgT04gdXNlcnMuc3R1ZGlvX2lkID0gc3R1ZGlvcy5pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PgogICAgICAgICAgLy8gLy8gICA8cCBrZXk9e2ltYWdlLmZpbGVfcGNfdXJsfT4KICAgICAgICAgIC8vIC8vICAgICA8TWFpbkltYWdlIHNyYz17aW1hZ2UuZmlsZV9wY191cmx9IC8+CiAgICAgICAgICAvLyAvLyAgIDwvcD4KICAgICAgICAgIC8vIC8vIDwvTWVkaWFRdWVyeT4KICAgICAgICAgIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PntpbWFnZS5maWxlX3BjX3VybH08L01lZGlhUXVlcnk+CiAgICAgICAgICAvLwogICAgICAgICAgLy8gPE1lZGlhUXVlcnkgbWF4V2lkdGg9ezcyN30+CiAgICAgICAgICAvLyAgIDxwIGtleT17aW1hZ2UuZmlsZV91cmx9PgogICAgICAgICAgLy8gICAgIDxNYWluSW1hZ2Ugc3JjPXtpbWFnZS5maWxlX3VybH0gLz4KICAgICAgICAgIC8vICAgPC9wPgogICAgICAgICAgLy8gPC9NZWRpYVF1ZXJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0dWRpb3MuKiwKICAgICAgICAgIHN0dWRpb19pbnRyby5zdHVkaW9fbmFtZSBBUyBzdHVkaW9fbmFtZSwKICAgICAgICAgIHN0dWRpb19pbnRyb19wcml2YXRlLnN0YXR1cyBBUyBzdHVkaW9fc3RhdHVzLAogICAgICAgICAgdXNlcnMuaWQgQVMgdXNlcl9pZCwKICAgICAgICAgIHVzZXJzLmxvZ2luX2lkIEFTIGxvZ2luX2lkLAogICAgICAgICAgdXNlcnMubmFtZSBBUyBuYW1lLAogICAgICAgICAgdXNlcnMuZW1haWwgQVMgZW1haWwsCiAgICAgICAgICBzdHVkaW9fYmFzZS51cmwgQVMgdXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBzZXRJc0VkaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzX2Z1dHVyZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGxhbnMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldElzRWRpdCh0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PgogICAgICAgICAgLy8gLy8gICA8cCBrZXk9e2ltYWdlLmZpbGVfcGNfdXJsfT4KICAgICAgICAgIC8vIC8vICAgICA8TWFpbkltYWdlIHNyYz17aW1hZ2UuZmlsZV9wY191cmx9IC8+CiAgICAgICAgICAvLyAvLyAgIDwvcD4KICAgICAgICAgIC8vIC8vIDwvTWVkaWFRdWVyeT4KICAgICAgICAgIC8vIDxNZWRpYVF1ZXJ5IG1pbldpZHRoPXs3Mjh9PntpbWFnZS5maWxlX3BjX3VybH08L01lZGlhUXVlcnk+CiAgICAgICAgICAvLwogICAgICAgICAgLy8gPE1lZGlhUXVlcnkgbWF4V2lkdGg9ezcyN30+CiAgICAgICAgICAvLyAgIDxwIGtleT17aW1hZ2UuZmlsZV91cmx9PgogICAgICAgICAgLy8gICAgIDxNYWluSW1hZ2Ugc3JjPXtpbWFnZS5maWxlX3VybH0gLz4KICAgICAgICAgIC8vICAgPC9wPgogICAgICAgICAgLy8gPC9NZWRpYVF1ZXJ5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoY2hhbmdlVmFsdWU6IG9iamVjdCk6IHZvaWQgPT4gewogICAgc2V0Rm9ybVZhbHVlcyhjaGFuZ2VWYWx1ZSkKICAgIHNldElzRWRpdCh0cnVlKQogIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBzZXRJc0VkaXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>docNav</last-search>
+      <last-search encoding="base64">XDxzdHVkaW9zXD4=</last-search>
       <last-offset />
-      <last-pattern>docNav</last-pattern>
+      <last-pattern encoding="base64">XDxzdHVkaW9zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
