@@ -89,13 +89,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/index-page-form.tsx" timestamp="1594713612937">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="135" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594884474246">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-images.tsx" timestamp="1594893275253">
         <mark key="[" line="86" column="105" />
         <mark key="]" line="86" column="106" />
         <mark key="." line="86" column="105" />
@@ -120,6 +114,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/main-movie.tsx" timestamp="1594893349958">
+        <mark key="[" line="31" column="115" />
+        <mark key="]" line="31" column="115" />
+        <mark key="." line="31" column="115" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/items/appoint-datetime-item.tsx" timestamp="1594883977445">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="1" />
@@ -141,6 +140,9 @@
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/webpack.mix.js" timestamp="1594868565308" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/layouts/footer.tsx" timestamp="1594890740583" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.stg.admin" timestamp="1594893738007">
+        <mark key="[" line="48" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/plan/show.tsx" timestamp="1594879794884">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -264,14 +266,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA2cHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hogehoge</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
