@@ -89,18 +89,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/index-page-form.tsx" timestamp="1595299640205">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/emails/user/conversion_mail_to_user_vacancy.blade.php" timestamp="1595219823056">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/items/exports.ts" timestamp="1594983296568" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Api/PlansController.php" timestamp="1594980413607">
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="33" column="52" />
-        <mark key="." line="33" column="51" />
-        <mark key="^" line="33" column="52" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Middleware/GetSiteForUser.php" timestamp="1595300754934">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/form-modals/title.tsx" timestamp="1595299763285">
+        <mark key="[" line="113" column="95" />
+        <mark key="]" line="112" column="56" />
+        <mark key="^" line="112" column="56" />
+        <mark key="." line="112" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/ApplicantsController.php" timestamp="1595229089925">
         <mark key="[" line="98" column="71" />
@@ -113,10 +124,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/SitesController.php" timestamp="1594980373323">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/atoms/title.tsx" timestamp="1595299029787">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/emails/admin/wp/requests/return.blade.php" timestamp="1595219542117">
         <mark key="[" line="0" column="34" />
@@ -127,11 +139,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Site/Site.php" timestamp="1594965205455">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/item-container.tsx" timestamp="1595298573628" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Mail/User/CoversionMailToSite.php" timestamp="1595229407084">
         <mark key="[" line="26" column="14" />
         <mark key="]" line="26" column="21" />
@@ -147,27 +155,26 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/confirmation.tsx" timestamp="1595222586151">
         <mark key="]" line="113" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/title.tsx" timestamp="1595298683660" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Wt/Applicant.php" timestamp="1595223102997" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/plan-page-enabled-state.ts" timestamp="1594964998791" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/emails/user/conversion_mail_to_user_appointment.blade.php" timestamp="1595221451630">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/items/name-kana-item.tsx" timestamp="1594981767710" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/item.ts" timestamp="1595299386402" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/emails/user/conversion_mail_to_site.blade.php" timestamp="1595228015267">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/index/index.tsx" timestamp="1594965299815">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/index/index.tsx" timestamp="1595298518176">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/site.ts" timestamp="1594970400274" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/emails/admin/wp/requests/ok.blade.php" timestamp="1595239149060">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -280,13 +287,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0KCdwcmV2aWV3JykgIT09ICRzaXRlLT5wcmV2aWV3ICYmICRzaXRlLT5zdGF0dXMgIT09IFNpdGVNb2RlbDo6U1RBVFVTX09LKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
@@ -295,34 +302,34 @@
         <text encoding="base64">ICAgICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tbm9uLW51bGwtYXNzZXJ0aW9uICovfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Z2V0KCdwcmV2aWV3JykgIT09ICRzaXRlLT5wcmV2aWV3ICYmICRzaXRlLT5zdGF0dXMgIT09IFNpdGVNb2RlbDo6U1RBVFVTX09LKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">4oC7UGhvdG9yYWl044Gu44GU5aWR57SE5pyf6ZaT44Gn44Gq44GE44Go44CBV2Vi44Gk44GP44Gn5L2c5oiQ44GX44Gf44K144Kk44OI44Gv5YWs6ZaL44GV44KM44G+44Gb44KT44CCCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXF1ZXN0LT5nZXQoJ3ByZXZpZXcnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwbGljYW50VHlwZSA9ICRhcHBsaWNhbnRUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2l0ZS0+ZW5hYmxlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwbGljYW50TW9kZWwgPSBuZXcgQXBwbGljYW50Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFwcGxpY2FudE1vZGVsID0gbmV3IEFwcGxpY2FudDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRhcHBsaWNhbnRNb2RlbCA9IG5ldyBBcHBsaWNhbnQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">4oC7UGhvdG9yYWl044Gu44GU5aWR57SE5pyf6ZaT44Gn44Gq44GE44Go44CBV2Vi44Gk44GP44Gn5L2c5oiQ44GX44Gf44K144Kk44OI44Gv5YWs6ZaL44GV44KM44G+44Gb44KT44CCCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwbGljYW50VHlwZSA9ICRhcHBsaWNhbnRUeXBlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkYXBwbGljYW50TW9kZWwgPSBuZXcgQXBwbGljYW50Owo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwbGljYW50LT50eXBlX25hbWUgPSAkdGhpcy0+YXBwbGljYW50OjpBUFBMSUNBTlRfVFlQRVNbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFwcGxpY2FudE1vZGVsID0gbmV3IEFwcGxpY2FudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBwbGljYW50KTskdGhpcy0+YXBwbGljYW50LT50eXBlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRhcHBsaWNhbnRNb2RlbCA9IG5ldyBBcHBsaWNhbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
