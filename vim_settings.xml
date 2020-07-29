@@ -98,17 +98,11 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/ApplicantsController.php" timestamp="1595931031425">
         <mark key="[" line="60" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/themeset-category.ts" timestamp="1595924233476" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/layouts/side_navigation.tsx" timestamp="1595930751218">
         <mark key="[" line="259" column="0" />
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
         <mark key="^" line="259" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/index.tsx" timestamp="1595924253651">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/title-item.ts" timestamp="1595928331583">
         <mark key="[" line="56" column="69" />
@@ -120,11 +114,11 @@
         <mark key="^" line="90" column="30" />
         <mark key="." line="90" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/onbording/settings/edit.tsx" timestamp="1596001704763">
-        <mark key="[" line="59" column="156" />
-        <mark key="]" line="59" column="157" />
-        <mark key="^" line="59" column="157" />
-        <mark key="." line="59" column="156" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/onbording/settings/edit.tsx" timestamp="1596001963860">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="56" column="157" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/applicant-form.ts" timestamp="1595930880159" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/index-pages/index-page-container.tsx" timestamp="1595924446031">
@@ -133,6 +127,12 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/settings/edit.tsx" timestamp="1596000480238" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/plan-page-enabled-state.ts" timestamp="1596006037207">
+        <mark key="[" line="60" column="65" />
+        <mark key="]" line="62" column="22" />
+        <mark key="^" line="62" column="22" />
+        <mark key="." line="62" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/css/photorait.css" timestamp="1595984375334">
         <mark key="[" line="636" column="19" />
         <mark key="]" line="636" column="19" />
@@ -145,20 +145,13 @@
         <mark key="." line="4" column="68" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/shared/form-setting-item.tsx" timestamp="1596000571739">
-        <mark key="[" line="34" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/pages/onbording/settings/edit.tsx" timestamp="1596000461585" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1595924439405">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/themesets/themeset-container.tsx" timestamp="1595923933802">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="40" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/plans/plan-list.tsx" timestamp="1596004761725" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/plans/plan-container.tsx" timestamp="1596004771819" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1596005285148">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/entry-form.tsx" timestamp="1595930837144" />
     </filemarks>
@@ -268,7 +261,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJiYXNlX3RpdGxlX2Rlc2NyaXB0aW9uIj7igLvjgrnjg4bjg7zjgr/jgrnjgYzjgIzmlrDopo/lj5fku5jjgI3jga7jgYrllY/jgYTlkIjjgo/jgZvjgpLmnKrlr77lv5zjgajliKTmlq3jgZfjgabooajnpLrjgZfjgabjgYTjgb7jgZnjgII8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -283,31 +276,31 @@
         <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJiYXNlX3RpdGxlX2Rlc2NyaXB0aW9uIj7igLvjgrnjg4bjg7zjgr/jgrnjgYzjgIzmlrDopo/lj5fku5jjgI3jga7jgYrllY/jgYTlkIjjgo/jgZvjgpLmnKrlr77lv5zjgajliKTmlq3jgZfjgabooajnpLrjgZfjgabjgYTjgb7jgZnjgII8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8TWlkZGxlTGlua0l0ZW0qL30KICAgICAgICAgICAgICB7LyogIGN1cnJlbnQ9e2N1cnJlbnRJdGVtLnNsaWNlKDAsIDEyKSA9PT0gJy9pbmRleC1wYWdlcycgPyAxIDogMH0qL30KICAgICAgICAgICAgICB7LyogIHRvPXtTdHJpbmcocm91dGUoJ2FkbWluLmluZGV4LXBhZ2VzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0qL30KICAgICAgICAgICAgICB7LyogIGNsYXNzTmFtZT0iaXRlbSBtaWRkbGUtaXRlbSIqL30KICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgey8qICDjg4jjg4Pjg5fjg5rjg7zjgrgqL30KICAgICAgICAgICAgICB7Lyo8L01pZGRsZUxpbmtJdGVtPiovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogJHsocHJvcHMpOiBzdHJpbmcgPT4gKHByb3BzLmN1cnJlbnQgPT09IDEgPyAnI2ZlZGU4NCAhaW1wb3J0YW50JyA6ICd0cmFuc3BhcmVudCcpfTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtVmFsdWVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHVkaW8uc2l0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJjpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZlZGU4NDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8TWlkZGxlTGlua0l0ZW0qL30KICAgICAgICAgICAgICB7LyogIGN1cnJlbnQ9e2N1cnJlbnRJdGVtLnNsaWNlKDAsIDEyKSA9PT0gJy9pbmRleC1wYWdlcycgPyAxIDogMH0qL30KICAgICAgICAgICAgICB7LyogIHRvPXtTdHJpbmcocm91dGUoJ2FkbWluLmluZGV4LXBhZ2VzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0qL30KICAgICAgICAgICAgICB7LyogIGNsYXNzTmFtZT0iaXRlbSBtaWRkbGUtaXRlbSIqL30KICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgey8qICDjg4jjg4Pjg5fjg5rjg7zjgrgqL30KICAgICAgICAgICAgICB7Lyo8L01pZGRsZUxpbmtJdGVtPiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9e1N0cmluZyhyb3V0ZSgnYWRtaW4uY29ycG9yYXRlLW91dGxpbmVzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0+PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogJHsocHJvcHMpOiBzdHJpbmcgPT4gKHByb3BzLmN1cnJlbnQgPT09IDEgPyAnI2ZlZGU4NCAhaW1wb3J0YW50JyA6ICd0cmFuc3BhcmVudCcpfTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJjpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZlZGU4NDsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9e1N0cmluZyhyb3V0ZSgnYWRtaW4uY29ycG9yYXRlLW91dGxpbmVzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0+PC9hPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
