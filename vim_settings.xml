@@ -89,11 +89,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/index-page-form.tsx" timestamp="1595927196031">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/entry.tsx" timestamp="1595930841980" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Api/PlansController.php" timestamp="1596008701696">
         <mark key="[" line="34" column="0" />
@@ -119,11 +114,17 @@
         <mark key="^" line="90" column="30" />
         <mark key="." line="90" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/onbording/settings/edit.tsx" timestamp="1596014888304">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/onbording/settings/edit.tsx" timestamp="1596015068721">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="43" />
         <mark key="^" line="56" column="157" />
-        <mark key="." line="68" column="0" />
+        <mark key="." line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Photorait/Studio.php" timestamp="1596014948896">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/applicant-form.ts" timestamp="1595930880159" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/settings/edit.tsx" timestamp="1596000480238" />
@@ -265,14 +266,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, keyIndex, value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
