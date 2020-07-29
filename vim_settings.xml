@@ -104,16 +104,6 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/ApplicantsController.php" timestamp="1595931031425">
         <mark key="[" line="60" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/atoms/title.tsx" timestamp="1595918319539">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/photo/index.tsx" timestamp="1595916221926">
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/layouts/header.tsx" timestamp="1595919057753">
         <mark key="[" line="62" column="15" />
         <mark key="]" line="62" column="15" />
@@ -152,6 +142,18 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/css/photorait.css" timestamp="1595984375334">
+        <mark key="[" line="636" column="19" />
+        <mark key="]" line="636" column="19" />
+        <mark key="^" line="636" column="19" />
+        <mark key="." line="636" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/top/_cv_item_list.php" timestamp="1595984292833">
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="4" column="69" />
+        <mark key="." line="4" column="68" />
+        <mark key="^" line="4" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1595924439405">
         <mark key="[" line="71" column="0" />
@@ -272,7 +274,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8TWlkZGxlTGlua0l0ZW0qL30KICAgICAgICAgICAgICB7LyogIGN1cnJlbnQ9e2N1cnJlbnRJdGVtLnNsaWNlKDAsIDEyKSA9PT0gJy9pbmRleC1wYWdlcycgPyAxIDogMH0qL30KICAgICAgICAgICAgICB7LyogIHRvPXtTdHJpbmcocm91dGUoJ2FkbWluLmluZGV4LXBhZ2VzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0qL30KICAgICAgICAgICAgICB7LyogIGNsYXNzTmFtZT0iaXRlbSBtaWRkbGUtaXRlbSIqL30KICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgey8qICDjg4jjg4Pjg5fjg5rjg7zjgrgqL30KICAgICAgICAgICAgICB7Lyo8L01pZGRsZUxpbmtJdGVtPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJiYXNlX3RpdGxlX2Rlc2NyaXB0aW9uIj7igLvjgrnjg4bjg7zjgr/jgrnjgYzjgIzmlrDopo/lj5fku5jjgI3jga7jgYrllY/jgYTlkIjjgo/jgZvjgpLmnKrlr77lv5zjgajliKTmlq3jgZfjgabooajnpLrjgZfjgabjgYTjgb7jgZnjgII8L3A+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -284,7 +286,7 @@
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaW1hZ2VzLmxlbmd0aCA9ICcgKyBpbWFnZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJiYXNlX3RpdGxlX2Rlc2NyaXB0aW9uIj7igLvjgrnjg4bjg7zjgr/jgrnjgYzjgIzmlrDopo/lj5fku5jjgI3jga7jgYrllY/jgYTlkIjjgo/jgZvjgpLmnKrlr77lv5zjgajliKTmlq3jgZfjgabooajnpLrjgZfjgabjgYTjgb7jgZnjgII8L3A+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8TWlkZGxlTGlua0l0ZW0qL30KICAgICAgICAgICAgICB7LyogIGN1cnJlbnQ9e2N1cnJlbnRJdGVtLnNsaWNlKDAsIDEyKSA9PT0gJy9pbmRleC1wYWdlcycgPyAxIDogMH0qL30KICAgICAgICAgICAgICB7LyogIHRvPXtTdHJpbmcocm91dGUoJ2FkbWluLmluZGV4LXBhZ2VzLmVkaXQnLCB7IHN0dWRpb0lkIH0pKX0qL30KICAgICAgICAgICAgICB7LyogIGNsYXNzTmFtZT0iaXRlbSBtaWRkbGUtaXRlbSIqL30KICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgey8qICDjg4jjg4Pjg5fjg5rjg7zjgrgqL30KICAgICAgICAgICAgICB7Lyo8L01pZGRsZUxpbmtJdGVtPiovfQo=</text>
