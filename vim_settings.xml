@@ -98,16 +98,6 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/ApplicantsController.php" timestamp="1595931031425">
         <mark key="[" line="60" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/layouts/side_navigation.tsx" timestamp="1595930751218">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-        <mark key="^" line="259" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/title-item.ts" timestamp="1595928331583">
-        <mark key="[" line="56" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/text-item.ts" timestamp="1595928298772" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Requests/User/ApplicantCreate.php" timestamp="1596083477715">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -120,11 +110,15 @@
         <mark key="^" line="56" column="157" />
         <mark key="." line="56" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/shared/components/items/image.tsx" timestamp="1596089643902" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Models/Photorait/Studio.php" timestamp="1596014948896">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/index-pages/preview-item-container.tsx" timestamp="1596089670611">
+        <mark key="[" line="139" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/applicant-form.ts" timestamp="1595930880159" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/onbording/settings/edit.tsx" timestamp="1596000480238" />
@@ -160,6 +154,12 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/form/entry-form.tsx" timestamp="1595930837144" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/index/index.tsx" timestamp="1596089684139">
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+        <mark key="^" line="42" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="42" column="0" filename="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Experience_categories.php" />
@@ -266,14 +266,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnY2hvaWNlX3RpbWUxJyA9PiAncmVxdWlyZWRfaWY6dHlwZSwnLkFwcGxpY2FudDo6QVBQTElDQU5UX1RZUEVfQVBQT0lOVE1FTlQuJyxpbnRlZ2VyJywK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
