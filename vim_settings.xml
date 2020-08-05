@@ -89,6 +89,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/js/user/studios/studio_privilege_edit.js" timestamp="1596607220036">
+        <mark key="[" line="106" column="49" />
+        <mark key="]" line="103" column="48" />
+        <mark key="^" line="103" column="48" />
+        <mark key="." line="103" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/plan.php" timestamp="1596594202712" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Plans_model.php" timestamp="1596532934800" />
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Studio.php" timestamp="1596594737289">
@@ -96,6 +102,12 @@
         <mark key="]" line="723" column="42" />
         <mark key="^" line="723" column="42" />
         <mark key="." line="723" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/studio/studio_privilege_edit.php" timestamp="1596606939362">
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="45" />
+        <mark key="^" line="71" column="45" />
+        <mark key="." line="71" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/studio/studio_privilege_item.php" timestamp="1596605176273">
         <mark key="[" line="62" column="71" />
@@ -105,12 +117,7 @@
       </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/plan.php" timestamp="1596594376947" />
       <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/controllers/Studios.php" timestamp="1596590661689" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Privilege_contracts_model.php" timestamp="1596525669409">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="39" />
-        <mark key="^" line="149" column="26" />
-        <mark key="." line="47" column="39" />
-      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/js/user/studios/studio_introduction_edit.js" timestamp="1596606508829" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Privileges_model.php" timestamp="1596605461332">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -129,23 +136,11 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/js/wp/studios/contract_list.js" timestamp="1596525130034">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Privilege_contract_status_change.php" timestamp="1596526066528">
         <mark key="[" line="56" column="29" />
         <mark key="]" line="96" column="51" />
         <mark key="^" line="96" column="51" />
         <mark key="." line="96" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/wp/studios/privilege_contract_list_item.php" timestamp="1596525460420">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="51" column="73" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/htdocs/css/privilege.css" timestamp="1596602706135">
         <mark key="[" line="53" column="0" />
@@ -279,14 +274,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcmVjb21tZW5kX2ZsYWciKS52YWwocmVjb21tZW5kX2ZsYWcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
