@@ -109,12 +109,16 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/InputValidates.php" timestamp="1597135834850" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Privileges_model.php" timestamp="1597200619291">
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="45" />
-        <mark key="^" line="61" column="78" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/InputValidates.php" timestamp="1597236073843">
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Privileges_model.php" timestamp="1597236448800">
+        <mark key="[" line="58" column="54" />
+        <mark key="]" line="58" column="52" />
+        <mark key="." line="58" column="51" />
+        <mark key="^" line="58" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/Constant.php" timestamp="1597132598378">
         <mark key="[" line="38" column="44" />
@@ -133,12 +137,8 @@
         <mark key="]" line="21" column="130" />
         <mark key="." line="21" column="130" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" timestamp="1597233245018">
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" timestamp="1597236060326">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8673" column="43" />
-        <mark key="]" line="8584" column="40" />
-        <mark key="." line="8584" column="39" />
-        <mark key="^" line="8584" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1597214350010">
         <mark key="[" line="9" column="0" />
@@ -254,7 +254,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IERhX2Rpc3BsYXlfY29udHJhY3RzX21vZGVsICREYV9kaXNwbGF5X2NvbnRyYWN0c19tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -266,7 +266,7 @@
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IERhX2Rpc3BsYXlfY29udHJhY3RzX21vZGVsICREYV9kaXNwbGF5X2NvbnRyYWN0c19tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICAkaXYtPnZhbGlkYXRlRGF0ZSgncHVibGljX2RhdGUnLCAn5YWs6ZaL5pelJywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
@@ -275,28 +275,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHJvdXRlWydzdHVkaW8vcHJpdmlsZWdlL2VkaXQvKDpudW0pL2NvcHknXSA9ICJzdHVkaW8vcHJpdmlsZWdlX2VkaXQvJDEvY29weSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcChwcmVnX21hdGNoKCIvXlswLTldezR9W1wvfFwtXT9bMC05XXsxLDJ9W1wvfFwtXT9bMC05XXsxLDJ9JC8iLCAkdmFsLCAkbWF0Y2hlcykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0aD7jgr/jgqTjg4jjg6s8cCBjbGFzcz0icmVxdWlyZWQiPio8L3A+PC90aD4KICAgICAgICAgICAgPHRkPjxwPjxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ0aXRsZSIgdmFsdWU9Ijw/PSRwcml2aWxlZ2UtPnRpdGxlPz4iIGNsYXNzPSJsb25nIGVycm9yIiBkYXRhLW1heGxlbmd0aD0iPD89TGVuZ3RoOjpCQUNLX1NUVURJT19QUklWSUxFR0VfVElUTEU/PiIgZGF0YS1taW5sZW5ndGg9Ijw/PUxlbmd0aDo6QkFDS19TVFVESU9fUFJJVklMRUdFX1RJVExFX01JTj8+Ij48L3A+PC90ZD4KICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygkKCcjJyArIGRpc3BJZCkuZmluZCgnaW5wdXQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkKCcjJyArIGRpc3BJZCkuZmluZCgnaW5wdXQnKS5wcm9wKCdkaXNhYmxlZCcsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJCgnI3RvcC10aXRsZS1pbnB1dCcpLmZhZGVPdXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGFyeSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJCgnI2JvdHRvbS10aXRsZS1pbnB1dCcpLmZhZGVJbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3RvcC10aXRsZS1pbnB1dCcpLmZhZGVJbigpOwogICAgICAgICAgICAkKCcjYm90dG9tLXRpdGxlLWlucHV0JykuZmFkZU91dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3RvcC10aXRsZS1pbnB1dCcpLmZhZGVPdXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
