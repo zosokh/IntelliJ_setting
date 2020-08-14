@@ -89,17 +89,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/routes.php" timestamp="1597199639701">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/controllers/Studio.php" timestamp="1597307728254">
         <mark key="'" line="898" column="0" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
         <mark key="^" line="182" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/studio/studio_privilege_edit.php" timestamp="1597365663896">
+        <mark key="[" line="105" column="14" />
+        <mark key="]" line="106" column="19" />
+        <mark key="." line="106" column="18" />
+        <mark key="^" line="106" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/libraries/Constant.php" timestamp="1597310348139">
         <mark key="[" line="92" column="0" />
@@ -160,6 +161,12 @@
         <mark key="^" line="47" column="128" />
         <mark key="." line="47" column="127" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/user/manual/manual.php" timestamp="1597365891180">
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/index.php" timestamp="1597310224526">
         <mark key="[" line="177" column="264" />
         <mark key="]" line="177" column="36" />
@@ -170,11 +177,6 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Privilege_contract_status_change.php" timestamp="1597199557425">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Privileges_model.php" timestamp="1597301725877">
         <mark key="[" line="51" column="34" />
@@ -313,7 +315,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZST05UX1BSSVZJTEVHRV9MSU1JVEVEX1RZUEVfSURfUEhPVE9SQUlUID0gMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0idmFsaWRhdGlvbiI+54m55YW444O744Kt44Oj44Oz44Oa44O844OzIuOBrumBqeeUqOadoeS7tuOCkjUw5paH5a2X5Lul5YaF44Gn5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCPC9wPgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -325,7 +327,7 @@
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZST05UX1BSSVZJTEVHRV9MSU1JVEVEX1RZUEVfSURfUEhPVE9SQUlUID0gMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0idmFsaWRhdGlvbiI+54m55YW444O744Kt44Oj44Oz44Oa44O844OzIuOBrumBqeeUqOadoeS7tuOCkjUw5paH5a2X5Lul5YaF44Gn5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IEZST05UX1BSSVZJTEVHRV9DQVRFR09SWV9JRF9GQUlSID0gNDsK</text>
