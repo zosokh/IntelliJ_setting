@@ -89,12 +89,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/pc/studio/plan.js" timestamp="1597995570168">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Click_log_model.php" timestamp="1598261702292" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Sitemap.php" timestamp="1598238331439">
         <mark key="[" line="82" column="14" />
@@ -126,6 +120,7 @@
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Sitemap_all.php" timestamp="1598237702766" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/SpreadSheet.php" timestamp="1598259831673" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/wt/Applicants_model.php" timestamp="1598264206873" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/development/config.php" timestamp="1598259864243">
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="105" />
@@ -154,11 +149,11 @@
         <mark key="." line="197" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/models/Privileges_model.php" timestamp="1598236450636" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/sum_data/Cv_aggregate.php" timestamp="1598263699674">
-        <mark key="[" line="162" column="31" />
-        <mark key="]" line="163" column="36" />
-        <mark key="." line="163" column="35" />
-        <mark key="^" line="163" column="36" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/sum_data/Cv_aggregate.php" timestamp="1598264022685">
+        <mark key="[" line="151" column="112" />
+        <mark key="]" line="152" column="24" />
+        <mark key="." line="152" column="23" />
+        <mark key="^" line="152" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -267,7 +262,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnd3RfYXBwb2ludG1lbnRfY291bnQnID0+IDAsIC8vIHdlYuOBpOOBj+adpeW6l+S6iOe0hOWQiOioiAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm91dHB1dERhdGFbJ21haW5fb25seV9jdl9jb3VudCddICs9IChpbnQpICRhcHBvaW50bWVudENvdW50c1swXS0+dmlzaXRfY291bnQ7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -279,7 +274,7 @@
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnd3RfYXBwb2ludG1lbnRfY291bnQnID0+IDAsIC8vIHdlYuOBpOOBj+adpeW6l+S6iOe0hOWQiOioiAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm91dHB1dERhdGFbJ21haW5fb25seV9jdl9jb3VudCddICs9IChpbnQpICRhcHBvaW50bWVudENvdW50c1swXS0+dmlzaXRfY291bnQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnYXBwb2ludG1lbnRfcmVtb3RlX2NvdW50JyA9PiAwLCAvLyDjgqrjg7Pjg6njgqTjg7Pnm7joq4flkIjoqIgK</text>
