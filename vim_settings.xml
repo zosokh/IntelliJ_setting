@@ -112,16 +112,22 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Sitemap_base.php" timestamp="1598243176546">
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="76" column="8" />
-        <mark key="." line="76" column="7" />
-        <mark key="^" line="76" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/assets/sass/sp/page/studio/_component/_studioheader.scss" timestamp="1598339117956">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/common/studio_menu.php" timestamp="1598341828824">
+        <mark key="[" line="72" column="168" />
+        <mark key="]" line="72" column="152" />
+        <mark key="^" line="72" column="152" />
+        <mark key="." line="72" column="151" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/common/studio_menu.php" timestamp="1598341918002">
+        <mark key="[" line="119" column="76" />
+        <mark key="]" line="119" column="47" />
+        <mark key="." line="119" column="46" />
+        <mark key="^" line="119" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/assets/sass/sp/page/studio/index.scss" timestamp="1598338515619" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/SpreadSheet.php" timestamp="1598259831673" />
@@ -159,10 +165,10 @@
         <mark key="^" line="114" column="13" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/privilege.php" timestamp="1598341001050">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/privilege.php" timestamp="1598341119330">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/sum_data/Cv_aggregate.php" timestamp="1598330319263">
@@ -278,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIC13ZWJraXQtYW5pbWF0aW9uOiBmYWRlT3V0IC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZU91dCAuNXMgZWFzZSAwcyAxIG5vcm1hbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJzdHVkaW8tbWVudV9faXRlbSBtZW51LXByaXZpbGVnZSI+PHNwYW4gY2xhc3M9InN0dWRpby1tZW51X19pdGVtLWlubmVyIGRpc2FibGUiPjxpIGNsYXNzPSJpY29fX2JlbmVmaXQiPjwvaT48c3BhbiBjbGFzcz0ic3R1ZGlvLW1lbnVfX3RleHQiPjxzcGFuIGNsYXNzPSJzdHVkaW8tbWVudV9fdGV4dC1pbm5lciI+54m55YW444O7PGJyPuODleOCp+OCojwvc3Bhbj48L3NwYW4+PC9zcGFuPjwvbGk+Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -293,34 +299,34 @@
         <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIC13ZWJraXQtYW5pbWF0aW9uOiBmYWRlT3V0IC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZU91dCAuNXMgZWFzZSAwcyAxIG5vcm1hbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJzdHVkaW8tbWVudV9faXRlbSBtZW51LXByaXZpbGVnZSI+PHNwYW4gY2xhc3M9InN0dWRpby1tZW51X19pdGVtLWlubmVyIGRpc2FibGUiPjxpIGNsYXNzPSJpY29fX2JlbmVmaXQiPjwvaT48c3BhbiBjbGFzcz0ic3R1ZGlvLW1lbnVfX3RleHQiPjxzcGFuIGNsYXNzPSJzdHVkaW8tbWVudV9fdGV4dC1pbm5lciI+54m55YW444O7PGJyPuODleOCp+OCojwvc3Bhbj48L3NwYW4+PC9zcGFuPjwvbGk+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwo=</text>
+        <text encoding="base64">PCEtLSAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2pzL3NwL2NvbW1vbi9yZWFkbW9yZS5taW4uanMiPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5zY3JvbGxUb3AoKSk7Cg==</text>
+        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIC13ZWJraXQtYW5pbWF0aW9uOiBmYWRlT3V0IC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZU91dCAuNXMgZWFzZSAwcyAxIG5vcm1hbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmF2UG9zKTsK</text>
+        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzdHVkaW9OYXYuY3NzKCdkaXNwbGF5JywgJ25vbmUnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5zY3JvbGxUb3AoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzdHVkaW9OYXYuY3NzKCdkaXNwbGF5JywgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmF2UG9zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHN0dWRpb05hdi5jc3MoJ2Rpc3BsYXknLCAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzdHVkaW9OYXYuY3NzKCdkaXNwbGF5JywgJ25vbmUnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmltYXRpb246IGZhZGVPdXQgLjVzIGVhc2UgMHMgMSBub3JtYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBzdHVkaW9OYXYuY3NzKCdkaXNwbGF5JywgJycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZU91dCAuNXMgZWFzZSAwcyAxIG5vcm1hbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHN0dWRpb05hdi5jc3MoJ2Rpc3BsYXknLCAnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
