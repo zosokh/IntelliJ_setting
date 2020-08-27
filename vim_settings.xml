@@ -106,11 +106,11 @@
         <mark key="^" line="102" column="114" />
         <mark key="." line="102" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/studio/plan.js" timestamp="1598436124871">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="104" column="39" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/studio/plan.js" timestamp="1598486915551">
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="97" column="37" />
+        <mark key="^" line="97" column="37" />
+        <mark key="." line="97" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/plan.php" timestamp="1598339984816">
         <mark key="[" line="353" column="0" />
@@ -139,7 +139,8 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/common/studio_header.js" timestamp="1598434330318">
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/plan.php" timestamp="1598486199014" />
+      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/common/studio_header.js" timestamp="1598486842584">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="114" column="13" />
@@ -285,14 +286,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBtZW51SGVpZ2h0ID0gc3R1ZGlvTmF2Lm91dGVySGVpZ2h0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.attr('id')</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.attr('id')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
