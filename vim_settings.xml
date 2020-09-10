@@ -40,9 +40,9 @@
         <entry>:w</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>qw</entry>
         <entry>wq</entry>
         <entry>ew</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -89,44 +89,86 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/Utils.php" timestamp="1598433429974">
-        <mark key="'" line="78" column="16" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/controllers/Studio.php" timestamp="1599627677583">
+        <mark key="[" line="2440" column="0" />
+        <mark key="]" line="2440" column="0" />
+        <mark key="." line="2440" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/api.photorait.net/applications/api/controllers/Kodawari.php" timestamp="1598430262598">
-        <mark key="[" line="5" column="37" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Api/CostumePageEnabledStatesController.php" timestamp="1599714659029">
+        <mark key="]" line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1598505657346" />
-      <file name="$USER_HOME$/Documents/github/api.photorait.net/tests/models/Privileges_modelTest.php" timestamp="1598430160840">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/CostumesController.php" timestamp="1599714811754">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/studio/plan.php" timestamp="1598486199014" />
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/common/studio_header.js" timestamp="1598531745590">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="119" column="45" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/costumes/costume-list.tsx" timestamp="1599714747324">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/home.photorait.net/tests/TestCase.php" timestamp="1598505658987">
-        <mark key="[" line="34" column="49" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/containers/costumes/costume-container.tsx" timestamp="1599715753761">
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/github/www.photorait.net/htdocs/js/sp/studio/privilege.js" timestamp="1598436134082">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/models/site.ts" timestamp="1599715858316">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/batch/Td_log_transfer.php" timestamp="1598493797521" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/htdocs/js/sp/studio/plan.js" timestamp="1598491381192">
-        <mark key="[" line="103" column="42" />
-        <mark key="]" line="103" column="42" />
-        <mark key="^" line="103" column="42" />
-        <mark key="." line="103" column="41" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/layouts/side_navigation.tsx" timestamp="1599714769588">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/Api/CostumesController.php" timestamp="1599714676210">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1599714822873">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/app.tsx" timestamp="1599714792369">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wt.photorait.net/database/migrations/2020_09_10_110433_add_colmuns_to_sites_table.php" timestamp="1599704176149">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wt.photorait.net/database/migrations/2020_02_20_153736_add_columns_to_sites_table.php" timestamp="1599704148368">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/hooks/costume-page-enabled-state.ts" timestamp="1599715820501">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/Admin/ExperiencesController.php" timestamp="1599714802567">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/costumes/costume-form.tsx" timestamp="1599716207542" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/costumes/index.tsx" timestamp="1599714687675">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="11" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/search/kodawari_introduction.php" />
-      <jump line="1542" column="43" filename="$USER_HOME$/Documents/github/s.photorait.net/applications/s/controllers/Search.php" />
       <jump line="89" column="31" filename="$USER_HOME$/Documents/github/s.photorait.net/htdocs/js/contribute/advice.js" />
       <jump line="555" column="0" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/views/pdf/monthly_report/_pages.php" />
       <jump line="39" column="6" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/top/index.php" />
@@ -225,54 +267,56 @@
       <jump line="1" column="16" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/sp/common/studio_header.php" />
       <jump line="215" column="124" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/views/pc/studio/index.php" />
       <jump line="78" column="16" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/Utils.php" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/traits/Monthly_report_trait.php" />
+      <jump line="301" column="1" filename="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/testing/config.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWFkID0gJCgnLmpzLWhlYWQnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.attr('id')</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwogIGFuaW1hdGlvbjogZmFkZUluIC41cyBlYXNlIDBzIDEgbm9ybWFsOwo=</text>
+        <text encoding="base64">ICBwaG90b19wYWdlX2VuYWJsZWQ6IGJvb2xlYW4KICBwbGFuX3BhZ2VfZW5hYmxlZDogYm9vbGVhbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWFkID0gJCgnLmpzLWhlYWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBtZW51SGVpZ2h0ID0gc3R1ZGlvTmF2Lm91dGVySGVpZ2h0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBzdHVkaW9OYXYgPSAkKCcjanMtc3R1ZGlvLW1lbnUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBtZW51SGVpZ2h0ID0gc3R1ZGlvTmF2Lm91dGVySGVpZ2h0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBzdHVkaW9OYXYgPSAkKCcjanMtc3R1ZGlvLW1lbnUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkam9pbiA9ICJMRUZUIE9VVEVSIEpPSU4gcHJpdmlsZWdlX2NhdGVnb3JpZXMgcGMgT04gcHJpdmlsZWdlcy5wcml2aWxlZ2VfY2F0ZWdvcnlfaWQgPSBwYy5pZAogICAgICAgIExFRlQgT1VURVIgSk9JTiBwcml2aWxlZ2VfbGltaXRlZF90eXBlcyBwbHQgT04gcHJpdmlsZWdlcy5wcml2aWxlZ2VfbGltaXRlZF90eXBlX2lkID0gcGx0LmlkIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
