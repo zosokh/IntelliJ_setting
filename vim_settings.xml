@@ -96,6 +96,11 @@
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/config/services.php" timestamp="1599729490385" />
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Controllers/User/Api/ApplicantsController.php" timestamp="1599729769210" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/wp/Studio_users.php" timestamp="1599799577140" />
+      <file name="$USER_HOME$/Documents/github/wt.photorait.net/app/Mail/User/CoversionMailToSite.php" timestamp="1600044744102">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Mail/User/CoversionMailToUser.php" timestamp="1599729635583" />
       <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/config/production/config.php" timestamp="1599728522130" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/InputValidates.php" timestamp="1599799993891" />
@@ -106,7 +111,6 @@
         <mark key="." line="23" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/.env.prod.user" timestamp="1599722365404" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/app/Http/Requests/Admin/CostumePageEnabledStateUpdate.php" timestamp="1599716489897" />
       <file name="$USER_HOME$/Documents/github/wedding_park/api.photorait.net/applications/api/libraries/Common_Controller.php" timestamp="1599728421199" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/core/PT_Controller.php" timestamp="1599807192870">
         <mark key="[" line="65" column="0" />
@@ -114,7 +118,6 @@
         <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/wp/Studios.php" timestamp="1599799532845" />
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/admin/components/costumes/costume-form.tsx" timestamp="1599716207542" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Privileges_model.php" timestamp="1599800007971" />
     </filemarks>
     <jumps>
@@ -223,7 +226,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR0b0FkZHJlc3MKICAgICAqIEBwYXJhbSAkY2NBZGRyZXNzCiAgICAgKiBAcGFyYW0gJHBhcmFtTmFtZQogICAgICogQHBhcmFtICRpdgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHZhbGlkYXRlRHVwbGljYXRlTWFpbCgkdG9BZGRyZXNzLCAkY2NBZGRyZXNzLCAkcGFyYW1OYW1lLCAmJGl2KXsKICAgICAgICBpZiAoJHRvQWRkcmVzcyAhPT0gJGNjQWRkcmVzcykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRpdi0+c2V0TWVzc2FnZSgn5Luj6KGo44Oh44O844Or44Ki44OJ44Os44K544Go6YeN6KSH44GX44Gm44GE44G+44GZJyk7CiAgICAgICAgJGl2LT5zZXROYW1lKCRwYXJhbU5hbWUpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -238,16 +241,16 @@
         <text encoding="base64">ICBwaG90b19wYWdlX2VuYWJsZWQ6IGJvb2xlYW4KICBwbGFuX3BhZ2VfZW5hYmxlZDogYm9vbGVhbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR0b0FkZHJlc3MKICAgICAqIEBwYXJhbSAkY2NBZGRyZXNzCiAgICAgKiBAcGFyYW0gJHBhcmFtTmFtZQogICAgICogQHBhcmFtICRpdgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHZhbGlkYXRlRHVwbGljYXRlTWFpbCgkdG9BZGRyZXNzLCAkY2NBZGRyZXNzLCAkcGFyYW1OYW1lLCAmJGl2KXsKICAgICAgICBpZiAoJHRvQWRkcmVzcyAhPT0gJGNjQWRkcmVzcykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRpdi0+c2V0TWVzc2FnZSgn5Luj6KGo44Oh44O844Or44Ki44OJ44Os44K544Go6YeN6KSH44GX44Gm44GE44G+44GZJyk7CiAgICAgICAgJGl2LT5zZXROYW1lKCRwYXJhbU5hbWUpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+X2luZm8tPmFkbWluX2luZm8pOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR0b0FkZHJlc3MKICAgICAqIEBwYXJhbSAkY2NBZGRyZXNzCiAgICAgKiBAcGFyYW0gJHBhcmFtTmFtZQogICAgICogQHBhcmFtICRpdgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHZhbGlkYXRlRHVwbGljYXRlTWFpbCgkdG9BZGRyZXNzLCAkY2NBZGRyZXNzLCAkcGFyYW1OYW1lLCAmJGl2KXsKICAgICAgICBpZiAoJHRvQWRkcmVzcyAhPT0gJGNjQWRkcmVzcykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRpdi0+c2V0TWVzc2FnZSgn5Luj6KGo44Oh44O844Or44Ki44OJ44Os44K544Go6YeN6KSH44GX44Gm44GE44G+44GZJyk7CiAgICAgICAgJGl2LT5zZXROYW1lKCRwYXJhbU5hbWUpOwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+X2luZm8tPmFkbWluX2luZm8pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
