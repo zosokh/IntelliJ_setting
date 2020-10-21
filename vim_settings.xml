@@ -41,9 +41,9 @@
         <entry>W</entry>
         <entry>@w</entry>
         <entry>ew</entry>
-        <entry>qw</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/index-container.tsx" timestamp="1603247201676">
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/index-container.tsx" timestamp="1603248056902">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="40" />
@@ -115,26 +115,21 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/list-more.tsx" timestamp="1603166306882">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/config/production/config.php" timestamp="1603240639361">
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/show.tsx" timestamp="1603247151240">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/show.tsx" timestamp="1603248938298">
+        <mark key="[" line="22" column="55" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="61" />
+        <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/libraries/ExternalAmazonRekognition.php" timestamp="1603162808722">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/components/costume/show-container.tsx" timestamp="1603248942365">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/controllers/Search.php" timestamp="1603240374593">
         <mark key="[" line="1334" column="8" />
@@ -148,6 +143,17 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="103" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/views/user/layouts/default.blade.php" timestamp="1603247424335">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/routes/web.php" timestamp="1603248482062">
+        <mark key="[" line="169" column="23" />
+        <mark key="]" line="169" column="53" />
+        <mark key="." line="169" column="52" />
+        <mark key="^" line="169" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/costume-list.ts" timestamp="1603247099081">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -158,7 +164,6 @@
         <mark key="]" line="648" column="0" />
         <mark key="." line="648" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/config/staging/amazon_rekognition.php" timestamp="1603160978293" />
       <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/controllers/Studio.php" timestamp="1603197411598" />
       <file name="$USER_HOME$/Documents/github/wedding_park/www.photorait.net/applications/www/views/sp/search/kodawari_result.php" timestamp="1603240509678">
         <mark key="[" line="339" column="30" />
@@ -166,7 +171,12 @@
         <mark key="^" line="339" column="33" />
         <mark key="." line="339" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/github/wedding_park/home.photorait.net/applications/home/models/Kodawari_highlights_model.php" timestamp="1603197405093" />
+      <file name="$USER_HOME$/Documents/github/wedding_park/wt.photorait.net/resources/js/user/hooks/costume-detail.ts" timestamp="1603248802105">
+        <mark key="[" line="14" column="100" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="589" column="39" filename="$USER_HOME$/Documents/github/www.photorait.net/applications/www/libraries/InputValidates.php" />
@@ -274,13 +284,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgTW9kYWwgfSBmcm9tICdyZWFjdC1yb3V0ZXItbW9kYWwnOwo=</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkaW9zXD4=</text>
@@ -289,34 +299,34 @@
         <text encoding="base64">ICBjb25zdCBbZGlzcGxheU1vcmVCdXR0b24sIHNldERpc3BsYXlNb3JlQnV0dG9uXSA9IHVzZVN0YXRlKGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgTW9kYWwgfSBmcm9tICdyZWFjdC1yb3V0ZXItbW9kYWwnOwo=</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlTG9jYXRpb24gfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJwo=</text>
+        <text encoding="base64">ICAgIG1vcmVGZXRjaGluZywKICAgIGlzRGlzcGxheU1vcmVCdXR0b24sCiAgICBnZXRMaXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHBhdGhuYW1lIH0gPSB1c2VMb2NhdGlvbigpCiAgY29uc3QgcmVnZXggPSAvXlwvY29zdHVtZVwvXGQqPy87CiAgY29uc29sZS5sb2cocGF0aG5hbWUpCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5saXN0Lmxlbmd0aCA8IGRhdGEudG90YWwpIHsKICAgICAgICAgIHNldElzRGlzcGxheU1vcmVCdXR0b24odHJ1ZSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgc2V0SXNEaXNwbGF5TW9yZUJ1dHRvbihmYWxzZSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghcGF0aG5hbWUubWF0Y2gocmVnZXgpKSB7CiAgICAgIGxvYWQoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRQYWdlKDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG89e1N0cmluZyhyb3V0ZSgndXNlci5jb3N0dW1lLnNob3cnLCB7IGlkOiBjb3N0dW1lLmlkIH0pKX0K</text>
+        <text encoding="base64">ICBjb25zdCBbbW9yZUZldGNoaW5nLCBzZXRNb3JlRmV0Y2hpbmddID0gdXNlU3RhdGU8Ym9vbGVhbj4oZmFsc2UpCiAgY29uc3QgW3BhZ2UsIHNldFBhZ2VdID0gdXNlU3RhdGUoMSkKICBjb25zdCBbaXNEaXNwbGF5TW9yZUJ1dHRvbiwgc2V0SXNEaXNwbGF5TW9yZUJ1dHRvbl0gPSB1c2VTdGF0ZTxib29sZWFuPih0cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGNvbnNvbGUubG9nKCdtYXRjaCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGNvbnNvbGUubG9nKCdtYXRjaCcpCiAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBnZXRMaXN0ID0gYXN5bmMgKCk6IFByb21pc2U8dm9pZD4gPT4gewogICAgc2V0TW9yZUZldGNoaW5nKHRydWUpCiAgICBjb25zdCBuZXh0UGFnZSA9IHBhZ2UgKyAxCiAgICBhd2FpdCBheGlvcwogICAgICAuZ2V0KHJvdXRlKCd1c2VyLmFwaS5jb3N0dW1lLmluZGV4JywgeyBzdHVkaW9JZCwgY2F0ZWdvcnlfaWQ6IGNhdGVnb3J5LCBwYWdlOiBuZXh0UGFnZSB9KSkKICAgICAgLnRoZW4oKHsgZGF0YSB9KSA9PiB7CiAgICAgICAgaWYgKGRhdGEubGlzdC5sZW5ndGggPCBwYWdlU2l6ZSB8fCBwYWdlICogcGFnZVNpemUgPj0gZGF0YS50b3RhbCkgewogICAgICAgICAgLy8gVE9ETzog5LiK6ZmQ5pWw44GC44KK44GL5qSc6KiOCiAgICAgICAgICBzZXRJc0Rpc3BsYXlNb3JlQnV0dG9uKGZhbHNlKQogICAgICAgIH0KICAgICAgICBzZXRDb3N0dW1lcyhbLi4uY29zdHVtZXMsIC4uLmRhdGEubGlzdF0pCiAgICAgICAgc2V0UGFnZShuZXh0UGFnZSkKICAgICAgfSkKICAgIHNldE1vcmVGZXRjaGluZyhmYWxzZSkKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vbm1hdGNoJykK</text>
+        <text encoding="base64">ICAgIFBFUl9QQUdFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXRobmFtZSkK</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
