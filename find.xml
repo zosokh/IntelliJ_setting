@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="すべての場所" />
-    <option name="defaultScopeName" value="すべての場所" />
-    <option name="SEARCH_SCOPE" value="すべての場所" />
+    <option name="customScope" value="ディレクトリ '.../applications/home/controllers'" />
+    <option name="defaultScopeName" value="ディレクトリ '.../applications/home/controllers'" />
+    <option name="SEARCH_SCOPE" value="ディレクトリ '.../applications/home/controllers'" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
