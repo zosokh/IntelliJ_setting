@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="すべての場所" />
     <option name="defaultScopeName" value="すべての場所" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="すべての場所" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
