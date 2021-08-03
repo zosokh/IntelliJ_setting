@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Created" type="PHP" />
-      <mapping pattern=".htaccess_stage_outside" type="PLAIN_TEXT" />
       <mapping pattern="functions" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_stage_outside" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
     </extensionMap>
