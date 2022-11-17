@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="composer" type="AUTO_DETECTED" />
       <mapping pattern="Created" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="functions" type="PLAIN_TEXT" />
